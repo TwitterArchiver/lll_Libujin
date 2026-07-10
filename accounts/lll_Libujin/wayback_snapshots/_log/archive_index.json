@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-10T12:49:22",
+  "last_updated": "2026-07-10T12:51:20",
   "html": {
     "https://web.archive.org/web/20260630190823if_/https://twitter.com/lll_Libujin/status/2072034532090601722": {
       "status": "done",
@@ -253,11 +253,11 @@
       "last_updated": "2026-07-10T12:40:58"
     },
     "https://pbs.twimg.com/media/HMpSbFeaUAASmLI.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260707182830_twitter_com_lll_Libujin_status_2074561211468021984.json"
       ],
-      "last_updated": "2026-07-10T12:41:02",
+      "last_updated": "2026-07-10T12:51:20",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260707182830/https://pbs.twimg.com/media/HMpSbFeaUAASmLI.jpg",
       "miss_count": 1
     }
