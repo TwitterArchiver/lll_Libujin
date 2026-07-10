@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2074472755857330602",
+    "created_at": "2026-07-07T13:15:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T14:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074482462558986565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767100910487195648",
+          "start": 0,
+          "username": "yuo_hana233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074482462558986565",
+    "in_reply_to_user_id": "1767100910487195648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074472755857330602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuo_hana233 脑婆你好萌！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074472577335205888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoB0WxaoAAWYM3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2074472755857330602",
+        "created_at": "2026-07-07T13:15:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074482462558986565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767100910487195648",
+              "start": 0,
+              "username": "yuo_hana233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074482462558986565",
+        "in_reply_to_user_id": "1767100910487195648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074472755857330602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuo_hana233 脑婆你好萌！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074472577335205888"
+          ]
+        },
+        "author_id": "1767100910487195648",
+        "conversation_id": "2074472755857330602",
+        "created_at": "2026-07-07T12:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074472755857330602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OHZUUGH7tv",
+              "end": 26,
+              "expanded_url": "https://x.com/yuo_hana233/status/2074472755857330602/photo/1",
+              "media_key": "3_2074472577335205888",
+              "start": 3,
+              "url": "https://t.co/OHZUUGH7tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074472755857330602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这啥 https://t.co/OHZUUGH7tv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 340,
+          "like_count": 6620,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1359
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T08:11:18.000Z",
+        "description": "𝕃𝕆𝕍𝔼 𝔽𝕆ℝ𝔼𝕍𝔼ℝ",
+        "id": "1767100910487195648",
+        "location": "🔮梦女",
+        "name": "片想",
+        "pinned_tweet_id": "2068359561212547237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072882260773322752/o2dE4OW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 128,
+          "like_count": 739,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 322
+        },
+        "url": "",
+        "username": "yuo_hana233",
+        "verified": false
+      }
+    ]
+  }
+}

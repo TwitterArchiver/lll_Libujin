@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2074225904574963937",
+    "created_at": "2026-07-06T20:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T21:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074225904574963937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1845844455095762944",
+          "start": 3,
+          "username": "Ankyo127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074225904574963937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073979968238084594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ankyo127: 我说，戒不掉毒品的本质是戒不掉幸福。\n成功戒毒并再也不复吸，需要的不仅仅是时间的流逝，还有充实的生活，美好的家庭，有希望的未来。\n如果一个人仅靠“时间的流逝”这一个条件，戒了毒，你问他，“如果再把毒品放到你面前，你能发誓一定不会再碰吗？”\n他绝对无法…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2074225904574963937",
+        "created_at": "2026-07-06T20:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T21:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074225904574963937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1845844455095762944",
+              "start": 3,
+              "username": "Ankyo127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074225904574963937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073979968238084594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ankyo127: 我说，戒不掉毒品的本质是戒不掉幸福。\n成功戒毒并再也不复吸，需要的不仅仅是时间的流逝，还有充实的生活，美好的家庭，有希望的未来。\n如果一个人仅靠“时间的流逝”这一个条件，戒了毒，你问他，“如果再把毒品放到你面前，你能发誓一定不会再碰吗？”\n他绝对无法…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845844455095762944",
+        "conversation_id": "2073979968238084594",
+        "created_at": "2026-07-06T03:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073979968238084594"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073979968238084594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我说，戒不掉毒品的本质是戒不掉幸福。\n成功戒毒并再也不复吸，需要的不仅仅是时间的流逝，还有充实的生活，美好的家庭，有希望的未来。\n如果一个人仅靠“时间的流逝”这一个条件，戒了毒，你问他，“如果再把毒品放到你面前，你能发誓一定不会再碰吗？”\n他绝对无法保证。\n\nod也可以套用。（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 340,
+          "like_count": 6616,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1356
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T15:10:13.000Z",
+        "description": "桉秋(AQ)https://t.co/XJJrQNFc7Z🔊支持言论自由，不支持言论滥用，不攻击，不诽谤，理性讨论。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ankyo",
+                "end": 29,
+                "expanded_url": "https://ngl.link/ankyo",
+                "start": 6,
+                "url": "https://t.co/XJJrQNFc7Z"
+              }
+            ]
+          }
+        },
+        "id": "1845844455095762944",
+        "name": "Ankyo𖤐.🩷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971892817447526400/CWJp7sjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 50,
+          "like_count": 560,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 485
+        },
+        "url": "",
+        "username": "Ankyo127",
+        "verified": false
+      }
+    ]
+  }
+}

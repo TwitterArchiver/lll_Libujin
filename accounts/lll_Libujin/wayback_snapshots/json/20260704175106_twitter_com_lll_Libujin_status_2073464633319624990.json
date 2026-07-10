@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073399661671383040",
+        "3_2073399640871890944",
+        "3_2073399635104731136",
+        "3_2073399661684043776"
+      ],
+      "media_source_tweet_id": [
+        "2073399664615821654",
+        "2073399664615821654",
+        "2073399664615821654",
+        "2073399664615821654"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2073464633319624990",
+    "created_at": "2026-07-04T17:51:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T18:51:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073464633319624990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1888142442429554688",
+          "start": 3,
+          "username": "na__nya7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yWFWkpG0fG",
+          "end": 86,
+          "expanded_url": "https://x.com/na__nya7/status/2073399664615821654/photo/1",
+          "media_key": "3_2073399661671383040",
+          "start": 63,
+          "url": "https://t.co/yWFWkpG0fG"
+        },
+        {
+          "display_url": "pic.x.com/yWFWkpG0fG",
+          "end": 86,
+          "expanded_url": "https://x.com/na__nya7/status/2073399664615821654/photo/1",
+          "media_key": "3_2073399640871890944",
+          "start": 63,
+          "url": "https://t.co/yWFWkpG0fG"
+        },
+        {
+          "display_url": "pic.x.com/yWFWkpG0fG",
+          "end": 86,
+          "expanded_url": "https://x.com/na__nya7/status/2073399664615821654/photo/1",
+          "media_key": "3_2073399635104731136",
+          "start": 63,
+          "url": "https://t.co/yWFWkpG0fG"
+        },
+        {
+          "display_url": "pic.x.com/yWFWkpG0fG",
+          "end": 86,
+          "expanded_url": "https://x.com/na__nya7/status/2073399664615821654/photo/1",
+          "media_key": "3_2073399661684043776",
+          "start": 63,
+          "url": "https://t.co/yWFWkpG0fG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073464633319624990",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073399664615821654",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @na__nya7: ひよなぎだけ♩下半期もたくさん描く₍ ᓀ ̫ᓂ ₎♡\n # 2026年自分が選ぶ今年上半期の4枚 https://t.co/yWFWkpG0fG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2073399661671383040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYyAcdWgAA9F3p.jpg",
+        "width": 1053
+      },
+      {
+        "height": 917,
+        "media_key": "3_2073399640871890944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYx_O-XcAAloJ4.jpg",
+        "width": 619
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2073399635104731136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYx-5fXkAAoOH7.jpg",
+        "width": 1016
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2073399661684043776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYyAcgXsAADlOy.jpg",
+        "width": 808
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073399661671383040",
+            "3_2073399640871890944",
+            "3_2073399635104731136",
+            "3_2073399661684043776"
+          ],
+          "media_source_tweet_id": [
+            "2073399664615821654",
+            "2073399664615821654",
+            "2073399664615821654",
+            "2073399664615821654"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2073464633319624990",
+        "created_at": "2026-07-04T17:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073464633319624990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888142442429554688",
+              "start": 3,
+              "username": "na__nya7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yWFWkpG0fG",
+              "end": 86,
+              "expanded_url": "https://x.com/na__nya7/status/2073399664615821654/photo/1",
+              "media_key": "3_2073399661671383040",
+              "start": 63,
+              "url": "https://t.co/yWFWkpG0fG"
+            },
+            {
+              "display_url": "pic.x.com/yWFWkpG0fG",
+              "end": 86,
+              "expanded_url": "https://x.com/na__nya7/status/2073399664615821654/photo/1",
+              "media_key": "3_2073399640871890944",
+              "start": 63,
+              "url": "https://t.co/yWFWkpG0fG"
+            },
+            {
+              "display_url": "pic.x.com/yWFWkpG0fG",
+              "end": 86,
+              "expanded_url": "https://x.com/na__nya7/status/2073399664615821654/photo/1",
+              "media_key": "3_2073399635104731136",
+              "start": 63,
+              "url": "https://t.co/yWFWkpG0fG"
+            },
+            {
+              "display_url": "pic.x.com/yWFWkpG0fG",
+              "end": 86,
+              "expanded_url": "https://x.com/na__nya7/status/2073399664615821654/photo/1",
+              "media_key": "3_2073399661684043776",
+              "start": 63,
+              "url": "https://t.co/yWFWkpG0fG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073464633319624990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073399664615821654",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @na__nya7: ひよなぎだけ♩下半期もたくさん描く₍ ᓀ ̫ᓂ ₎♡\n # 2026年自分が選ぶ今年上半期の4枚 https://t.co/yWFWkpG0fG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073399661671383040",
+            "3_2073399640871890944",
+            "3_2073399635104731136",
+            "3_2073399661684043776"
+          ]
+        },
+        "author_id": "1888142442429554688",
+        "conversation_id": "2073399664615821654",
+        "created_at": "2026-07-04T13:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073399664615821654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yWFWkpG0fG",
+              "end": 72,
+              "expanded_url": "https://x.com/na__nya7/status/2073399664615821654/photo/1",
+              "media_key": "3_2073399661671383040",
+              "start": 49,
+              "url": "https://t.co/yWFWkpG0fG"
+            },
+            {
+              "display_url": "pic.x.com/yWFWkpG0fG",
+              "end": 72,
+              "expanded_url": "https://x.com/na__nya7/status/2073399664615821654/photo/1",
+              "media_key": "3_2073399640871890944",
+              "start": 49,
+              "url": "https://t.co/yWFWkpG0fG"
+            },
+            {
+              "display_url": "pic.x.com/yWFWkpG0fG",
+              "end": 72,
+              "expanded_url": "https://x.com/na__nya7/status/2073399664615821654/photo/1",
+              "media_key": "3_2073399635104731136",
+              "start": 49,
+              "url": "https://t.co/yWFWkpG0fG"
+            },
+            {
+              "display_url": "pic.x.com/yWFWkpG0fG",
+              "end": 72,
+              "expanded_url": "https://x.com/na__nya7/status/2073399664615821654/photo/1",
+              "media_key": "3_2073399661684043776",
+              "start": 49,
+              "url": "https://t.co/yWFWkpG0fG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073399664615821654",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 845,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "ひよなぎだけ♩下半期もたくさん描く₍ ᓀ ̫ᓂ ₎♡\n # 2026年自分が選ぶ今年上半期の4枚 https://t.co/yWFWkpG0fG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 341,
+          "like_count": 6590,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1349
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-08T08:27:33.000Z",
+        "description": "🌿🕊️ きみとぼくの愛の庭 私と君の柔らかな森 🌿🕊️\n🧸 @naginu_guardian ￤📕 https://t.co/lUb0Wt73AF \n\n凪砂と日和の愛について、そして凪砂へのアイラブユー\nポストはすべて個人の感想です ※作品の無断利用禁止※\n作品は下記リンクから₍ ᓀ ̫ᓂ ₎っ✏︎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "naginu_guardian"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "note.com/_lys_17",
+                "end": 73,
+                "expanded_url": "https://note.com/_lys_17",
+                "start": 50,
+                "url": "https://t.co/lUb0Wt73AF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/49574688",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/49574688",
+                "start": 0,
+                "url": "https://t.co/SksevENWhy"
+              }
+            ]
+          }
+        },
+        "id": "1888142442429554688",
+        "location": "♡凪砂最愛♡⚠︎ひよなぎ左右相手完全固定",
+        "name": "園",
+        "pinned_tweet_id": "2049839459676438600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063255647311777792/GdkObeAH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 28,
+          "like_count": 3430,
+          "listed_count": 4,
+          "media_count": 505,
+          "tweet_count": 1903
+        },
+        "url": "https://t.co/SksevENWhy",
+        "username": "na__nya7",
+        "verified": false
+      }
+    ]
+  }
+}

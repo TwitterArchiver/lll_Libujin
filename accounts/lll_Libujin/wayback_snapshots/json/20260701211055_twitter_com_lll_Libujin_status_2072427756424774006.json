@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2072427756424774006",
+    "created_at": "2026-07-01T21:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T22:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072427756424774006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lll_libujin/st…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/lll_libujin/status/2071931923497357408",
+          "start": 77,
+          "url": "https://t.co/TU1VqeTQjz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072427756424774006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071931923497357408",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是真的觉得hso \n理想型是在我od的时候帮我掰药 odxm的时候给我包糯米纸 鼻吸的时候帮我磨药分药粉 飞叶子的时候给我卷烟 含票子的时候给我剪邮票 https://t.co/TU1VqeTQjz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2072427756424774006",
+        "created_at": "2026-07-01T21:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T22:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072427756424774006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lll_libujin/st…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/lll_libujin/status/2071931923497357408",
+              "start": 77,
+              "url": "https://t.co/TU1VqeTQjz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072427756424774006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071931923497357408",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是真的觉得hso \n理想型是在我od的时候帮我掰药 odxm的时候给我包糯米纸 鼻吸的时候帮我磨药分药粉 飞叶子的时候给我卷烟 含票子的时候给我剪邮票 https://t.co/TU1VqeTQjz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2071931923497357408",
+        "created_at": "2026-06-30T12:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071931923497357408"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071931923497357408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现es拍立得分药粉很方便 而且好内个////"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 336,
+          "like_count": 6590,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 1335
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      }
+    ]
+  }
+}
