@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2074228956883259788",
+    "created_at": "2026-07-08T21:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T22:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074975781395312958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2071284209864556544",
+          "start": 0,
+          "username": "FudoAlaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074975781395312958",
+    "in_reply_to_user_id": "2071284209864556544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074952405989605545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FudoAlaya 好！ 感谢www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2074228956883259788",
+        "created_at": "2026-07-08T21:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T22:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074975781395312958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2071284209864556544",
+              "start": 0,
+              "username": "FudoAlaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074975781395312958",
+        "in_reply_to_user_id": "2071284209864556544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074952405989605545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FudoAlaya 好！ 感谢www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071284209864556544",
+        "conversation_id": "2074228956883259788",
+        "created_at": "2026-07-08T20:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T21:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074952405989605545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074952405989605545",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074228956883259788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lll_Libujin 去的前两天别熬夜，然后去的那天早上空腹别吃东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 336,
+          "like_count": 6633,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1367
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-28T17:27:26.000Z",
+        "description": "这里阿拉雅，顺性别男｜这个入太容易感到孤独了…｜天文爱好者｜生物学｜喜欢玩视觉小说｜没有OD了大概｜想要认识更多朋友www",
+        "id": "2071284209864556544",
+        "name": "FudoAlaya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071284624760930304/qavF5ncE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 120,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 109
+        },
+        "url": "",
+        "username": "FudoAlaya",
+        "verified": false
+      }
+    ]
+  }
+}

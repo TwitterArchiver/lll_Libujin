@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074487525067161600"
+      ],
+      "media_source_tweet_id": [
+        "2074487531467657397"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2074916793987317940",
+    "created_at": "2026-07-08T18:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T19:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074916793987317940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2059183273360924672",
+          "start": 3,
+          "username": "xnhmn00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pf1CUtbfv6",
+          "end": 40,
+          "expanded_url": "https://x.com/xnhmn00/status/2074487531467657397/photo/1",
+          "media_key": "3_2074487525067161600",
+          "start": 17,
+          "url": "https://t.co/pf1CUtbfv6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074916793987317940",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 289
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074487531467657397",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xnhmn00: 히요리 https://t.co/pf1CUtbfv6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3086,
+        "media_key": "3_2074487525067161600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoPababgAAwt2t.jpg",
+        "width": 3247
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074487525067161600"
+          ],
+          "media_source_tweet_id": [
+            "2074487531467657397"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2074916793987317940",
+        "created_at": "2026-07-08T18:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074916793987317940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2059183273360924672",
+              "start": 3,
+              "username": "xnhmn00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pf1CUtbfv6",
+              "end": 40,
+              "expanded_url": "https://x.com/xnhmn00/status/2074487531467657397/photo/1",
+              "media_key": "3_2074487525067161600",
+              "start": 17,
+              "url": "https://t.co/pf1CUtbfv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074916793987317940",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 289
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074487531467657397",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xnhmn00: 히요리 https://t.co/pf1CUtbfv6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074487525067161600"
+          ]
+        },
+        "author_id": "2059183273360924672",
+        "conversation_id": "2074487531467657397",
+        "created_at": "2026-07-07T13:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074487531467657397"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pf1CUtbfv6",
+              "end": 27,
+              "expanded_url": "https://x.com/xnhmn00/status/2074487531467657397/photo/1",
+              "media_key": "3_2074487525067161600",
+              "start": 4,
+              "url": "https://t.co/pf1CUtbfv6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074487531467657397",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 19380,
+          "like_count": 2173,
+          "quote_count": 11,
+          "reply_count": 1,
+          "retweet_count": 289
+        },
+        "reply_settings": "everyone",
+        "text": "히요리 https://t.co/pf1CUtbfv6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 335,
+          "like_count": 6620,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1361
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T08:07:21.000Z",
+        "description": "only앙스타",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/qorhpa0",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/qorhpa0",
+                "start": 0,
+                "url": "https://t.co/fezH94wKQ9"
+              }
+            ]
+          }
+        },
+        "id": "2059183273360924672",
+        "location": "비팔🔕",
+        "name": "빵공",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066049765369118720/YqD7wDAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 75,
+          "like_count": 1054,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 940
+        },
+        "url": "https://t.co/fezH94wKQ9",
+        "username": "xnhmn00",
+        "verified": false
+      }
+    ]
+  }
+}

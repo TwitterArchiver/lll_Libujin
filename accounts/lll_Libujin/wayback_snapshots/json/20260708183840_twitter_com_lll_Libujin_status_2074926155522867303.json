@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2074793111801434315",
+    "created_at": "2026-07-08T18:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T19:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074926155522867303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2039398734962761728",
+          "start": 0,
+          "username": "EsterBrown38007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074926155522867303",
+    "in_reply_to_user_id": "2039398734962761728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074793111801434315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EsterBrown38007 啊好强！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2045,
+        "media_key": "3_2074793106713743361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMslVnwaEAEQPnh.jpg",
+        "width": 2045
+      },
+      {
+        "height": 1400,
+        "media_key": "3_2074793102481739776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMslVX_a0AAlToo.jpg",
+        "width": 1400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2074793111801434315",
+        "created_at": "2026-07-08T18:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074926155522867303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2039398734962761728",
+              "start": 0,
+              "username": "EsterBrown38007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074926155522867303",
+        "in_reply_to_user_id": "2039398734962761728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074793111801434315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EsterBrown38007 啊好强！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074793106713743361",
+            "3_2074793102481739776"
+          ]
+        },
+        "author_id": "2039398734962761728",
+        "conversation_id": "2074793111801434315",
+        "created_at": "2026-07-08T09:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074793111801434315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lCbFuwCiJa",
+              "end": 39,
+              "expanded_url": "https://x.com/EsterBrown38007/status/2074793111801434315/photo/1",
+              "media_key": "3_2074793106713743361",
+              "start": 16,
+              "url": "https://t.co/lCbFuwCiJa"
+            },
+            {
+              "display_url": "pic.x.com/lCbFuwCiJa",
+              "end": 39,
+              "expanded_url": "https://x.com/EsterBrown38007/status/2074793111801434315/photo/1",
+              "media_key": "3_2074793102481739776",
+              "start": 16,
+              "url": "https://t.co/lCbFuwCiJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074793111801434315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "仿了那个专辑封面，画的我好累。 https://t.co/lCbFuwCiJa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 335,
+          "like_count": 6624,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1364
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T17:45:46.000Z",
+        "description": "",
+        "id": "2039398734962761728",
+        "location": "普瑞巴林",
+        "name": "可是我的自卑胜过了",
+        "pinned_tweet_id": "2067519950043136446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072608661529362432/0_0Wkqu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 264,
+          "like_count": 666,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 568
+        },
+        "url": "",
+        "username": "EsterBrown38007",
+        "verified": false
+      }
+    ]
+  }
+}
