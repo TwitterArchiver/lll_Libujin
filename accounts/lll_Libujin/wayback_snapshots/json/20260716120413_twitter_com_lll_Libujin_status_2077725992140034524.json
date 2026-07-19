@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077708645249527808"
+      ],
+      "media_source_tweet_id": [
+        "2077708669798785521"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2077725992140034524",
+    "created_at": "2026-07-16T12:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T13:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077725992140034524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1344300143135260672",
+          "start": 3,
+          "username": "eichi_turnR"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NyFGWYTzzI",
+          "end": 40,
+          "expanded_url": "https://x.com/eichi_turnR/status/2077708669798785521/photo/1",
+          "media_key": "3_2077708645249527808",
+          "start": 17,
+          "url": "https://t.co/NyFGWYTzzI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077725992140034524",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077708669798785521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @eichi_turnR: https://t.co/NyFGWYTzzI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2077708645249527808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNWBATLbMAApBwu.jpg",
+        "width": 1546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077708645249527808"
+          ],
+          "media_source_tweet_id": [
+            "2077708669798785521"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2077725992140034524",
+        "created_at": "2026-07-16T12:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077725992140034524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1344300143135260672",
+              "start": 3,
+              "username": "eichi_turnR"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NyFGWYTzzI",
+              "end": 40,
+              "expanded_url": "https://x.com/eichi_turnR/status/2077708669798785521/photo/1",
+              "media_key": "3_2077708645249527808",
+              "start": 17,
+              "url": "https://t.co/NyFGWYTzzI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077725992140034524",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077708669798785521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @eichi_turnR: https://t.co/NyFGWYTzzI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077708645249527808"
+          ]
+        },
+        "author_id": "1344300143135260672",
+        "conversation_id": "2077708669798785521",
+        "created_at": "2026-07-16T10:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077708669798785521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NyFGWYTzzI",
+              "end": 23,
+              "expanded_url": "https://x.com/eichi_turnR/status/2077708669798785521/photo/1",
+              "media_key": "3_2077708645249527808",
+              "start": 0,
+              "url": "https://t.co/NyFGWYTzzI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077708669798785521",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 7176,
+          "like_count": 852,
+          "quote_count": 16,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/NyFGWYTzzI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 342,
+          "like_count": 6722,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1405
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-30T15:11:57.000Z",
+        "description": "✉️gamcha4019@gmail.com\n\n와타에이",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wataei310.postype.com",
+                "end": 23,
+                "expanded_url": "https://wataei310.postype.com/",
+                "start": 0,
+                "url": "https://t.co/vxNcFXiMKn"
+              }
+            ]
+          }
+        },
+        "id": "1344300143135260672",
+        "name": "감차",
+        "pinned_tweet_id": "2048960438088687941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068269007602663424/yYvEOqEM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93631,
+          "following_count": 61,
+          "like_count": 9311,
+          "listed_count": 302,
+          "media_count": 7958,
+          "tweet_count": 33240
+        },
+        "url": "https://t.co/vxNcFXiMKn",
+        "username": "eichi_turnR",
+        "verified": true
+      }
+    ]
+  }
+}

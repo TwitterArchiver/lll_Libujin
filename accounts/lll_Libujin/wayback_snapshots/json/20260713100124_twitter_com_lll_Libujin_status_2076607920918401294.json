@@ -1,0 +1,527 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076313896487653378",
+        "3_2076313896441597952",
+        "3_2076313896441528321",
+        "3_2076313896433184769"
+      ],
+      "media_source_tweet_id": [
+        "2076313901244026920",
+        "2076313901244026920",
+        "2076313901244026920",
+        "2076313901244026920"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2076607920918401294",
+    "created_at": "2026-07-13T10:01:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T11:01:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076607920918401294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1945805300524826624",
+          "start": 3,
+          "username": "yu_c0s_to"
+        },
+        {
+          "end": 99,
+          "id": "539032152",
+          "start": 87,
+          "username": "_MeltyBlue_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jbSqpM2Rnb",
+          "end": 123,
+          "expanded_url": "https://x.com/yu_c0s_to/status/2076313901244026920/photo/1",
+          "media_key": "3_2076313896487653378",
+          "start": 100,
+          "url": "https://t.co/jbSqpM2Rnb"
+        },
+        {
+          "display_url": "pic.x.com/jbSqpM2Rnb",
+          "end": 123,
+          "expanded_url": "https://x.com/yu_c0s_to/status/2076313901244026920/photo/1",
+          "media_key": "3_2076313896441597952",
+          "start": 100,
+          "url": "https://t.co/jbSqpM2Rnb"
+        },
+        {
+          "display_url": "pic.x.com/jbSqpM2Rnb",
+          "end": 123,
+          "expanded_url": "https://x.com/yu_c0s_to/status/2076313901244026920/photo/1",
+          "media_key": "3_2076313896441528321",
+          "start": 100,
+          "url": "https://t.co/jbSqpM2Rnb"
+        },
+        {
+          "display_url": "pic.x.com/jbSqpM2Rnb",
+          "end": 123,
+          "expanded_url": "https://x.com/yu_c0s_to/status/2076313901244026920/photo/1",
+          "media_key": "3_2076313896433184769",
+          "start": 100,
+          "url": "https://t.co/jbSqpM2Rnb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076607920918401294",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076313901244026920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yu_c0s_to: Cosplay\n\nenst / A .dam\n\n【 神話へと続く序章 】\n\n────────────────────\n\nphoto:めるちゅさん@_MeltyBlue_ https://t.co/jbSqpM2Rnb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076313896487653378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCMfPJakAI8UXP.jpg",
+        "width": 1367
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2076313896441597952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCMfO-b0AAOY5n.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2076313896441528321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCMfO-awAEUavy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2076313896433184769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCMfO8bcAEupXP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076313896487653378",
+            "3_2076313896441597952",
+            "3_2076313896441528321",
+            "3_2076313896433184769"
+          ],
+          "media_source_tweet_id": [
+            "2076313901244026920",
+            "2076313901244026920",
+            "2076313901244026920",
+            "2076313901244026920"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2076607920918401294",
+        "created_at": "2026-07-13T10:01:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T11:01:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076607920918401294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1945805300524826624",
+              "start": 3,
+              "username": "yu_c0s_to"
+            },
+            {
+              "end": 99,
+              "id": "539032152",
+              "start": 87,
+              "username": "_MeltyBlue_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jbSqpM2Rnb",
+              "end": 123,
+              "expanded_url": "https://x.com/yu_c0s_to/status/2076313901244026920/photo/1",
+              "media_key": "3_2076313896487653378",
+              "start": 100,
+              "url": "https://t.co/jbSqpM2Rnb"
+            },
+            {
+              "display_url": "pic.x.com/jbSqpM2Rnb",
+              "end": 123,
+              "expanded_url": "https://x.com/yu_c0s_to/status/2076313901244026920/photo/1",
+              "media_key": "3_2076313896441597952",
+              "start": 100,
+              "url": "https://t.co/jbSqpM2Rnb"
+            },
+            {
+              "display_url": "pic.x.com/jbSqpM2Rnb",
+              "end": 123,
+              "expanded_url": "https://x.com/yu_c0s_to/status/2076313901244026920/photo/1",
+              "media_key": "3_2076313896441528321",
+              "start": 100,
+              "url": "https://t.co/jbSqpM2Rnb"
+            },
+            {
+              "display_url": "pic.x.com/jbSqpM2Rnb",
+              "end": 123,
+              "expanded_url": "https://x.com/yu_c0s_to/status/2076313901244026920/photo/1",
+              "media_key": "3_2076313896433184769",
+              "start": 100,
+              "url": "https://t.co/jbSqpM2Rnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076607920918401294",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076313901244026920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yu_c0s_to: Cosplay\n\nenst / A .dam\n\n【 神話へと続く序章 】\n\n────────────────────\n\nphoto:めるちゅさん@_MeltyBlue_ https://t.co/jbSqpM2Rnb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076313896487653378",
+            "3_2076313896441597952",
+            "3_2076313896441528321",
+            "3_2076313896433184769"
+          ]
+        },
+        "author_id": "1945805300524826624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2076313901244026920",
+        "created_at": "2026-07-12T14:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076313901244026920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 84,
+              "id": "539032152",
+              "start": 72,
+              "username": "_MeltyBlue_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jbSqpM2Rnb",
+              "end": 108,
+              "expanded_url": "https://x.com/yu_c0s_to/status/2076313901244026920/photo/1",
+              "media_key": "3_2076313896487653378",
+              "start": 85,
+              "url": "https://t.co/jbSqpM2Rnb"
+            },
+            {
+              "display_url": "pic.x.com/jbSqpM2Rnb",
+              "end": 108,
+              "expanded_url": "https://x.com/yu_c0s_to/status/2076313901244026920/photo/1",
+              "media_key": "3_2076313896441597952",
+              "start": 85,
+              "url": "https://t.co/jbSqpM2Rnb"
+            },
+            {
+              "display_url": "pic.x.com/jbSqpM2Rnb",
+              "end": 108,
+              "expanded_url": "https://x.com/yu_c0s_to/status/2076313901244026920/photo/1",
+              "media_key": "3_2076313896441528321",
+              "start": 85,
+              "url": "https://t.co/jbSqpM2Rnb"
+            },
+            {
+              "display_url": "pic.x.com/jbSqpM2Rnb",
+              "end": 108,
+              "expanded_url": "https://x.com/yu_c0s_to/status/2076313901244026920/photo/1",
+              "media_key": "3_2076313896433184769",
+              "start": 85,
+              "url": "https://t.co/jbSqpM2Rnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076313901244026920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2204,
+          "like_count": 102,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "Cosplay\n\nenst / A .dam\n\n【 神話へと続く序章 】\n\n────────────────────\n\nphoto:めるちゅさん@_MeltyBlue_ https://t.co/jbSqpM2Rnb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 339,
+          "like_count": 6682,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1386
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T11:18:43.000Z",
+        "description": "ゆとのenstメイン雑多珍装垢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/yu3127t0",
+                "end": 23,
+                "expanded_url": "https://lit.link/yu3127t0",
+                "start": 0,
+                "url": "https://t.co/meCrFdahDF"
+              }
+            ]
+          }
+        },
+        "id": "1945805300524826624",
+        "location": "アイコン📸:めるちゅさん",
+        "name": "𝒴𝓊𝓉⁰̲",
+        "pinned_tweet_id": "1999128259892748469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076344434359431168/EnkqgWZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 76,
+          "like_count": 1475,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1628
+        },
+        "url": "https://t.co/meCrFdahDF",
+        "username": "yu_c0s_to",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-28T11:08:49.000Z",
+        "description": "30↑♂多趣味なVTuber好き。🏂/📷/🏕/🏍。 東北〜関東のeventにふらっといる。コスもたまに(中の人いません 📸も少しやる。(土日祝) アークナイツ復帰勢 NIKKEソロレイド3%キープ　最近はﾝｨｰ\n撮ったもの↓ cos→メディア欄",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cos.guide/i/_MeltyBlue_",
+                "end": 23,
+                "expanded_url": "https://cos.guide/i/_MeltyBlue_",
+                "start": 0,
+                "url": "https://t.co/V2D2RCyoyN"
+              }
+            ]
+          }
+        },
+        "id": "539032152",
+        "location": "桃→たこ焼き→ガンダム→牛たん→だだちゃ豆→ガンダム..在桃",
+        "name": "めるちゅ🎋🫠",
+        "pinned_tweet_id": "2044370350121873891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028991646193651712/bcez6IEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 1329,
+          "like_count": 24071,
+          "listed_count": 6,
+          "media_count": 1306,
+          "tweet_count": 11669
+        },
+        "url": "https://t.co/V2D2RCyoyN",
+        "username": "_MeltyBlue_",
+        "verified": true
+      }
+    ]
+  }
+}

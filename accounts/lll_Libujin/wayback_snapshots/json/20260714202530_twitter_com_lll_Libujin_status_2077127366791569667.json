@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2077063902031221239",
+    "created_at": "2026-07-14T20:25:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T21:25:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077127366791569667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767100910487195648",
+          "start": 0,
+          "username": "yuo_hana233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077127366791569667",
+    "in_reply_to_user_id": "1767100910487195648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077063902031221239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuo_hana233 啊纪念日快乐！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1803,
+        "media_key": "3_2077063891465695232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNM2msKacAATtbs.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2077063902031221239",
+        "created_at": "2026-07-14T20:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T21:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077127366791569667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767100910487195648",
+              "start": 0,
+              "username": "yuo_hana233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077127366791569667",
+        "in_reply_to_user_id": "1767100910487195648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077063902031221239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuo_hana233 啊纪念日快乐！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077063891465695232"
+          ]
+        },
+        "author_id": "1767100910487195648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077063902031221239",
+        "created_at": "2026-07-14T16:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077063902031221239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XAowBtCG0f",
+              "end": 23,
+              "expanded_url": "https://x.com/yuo_hana233/status/2077063902031221239/photo/1",
+              "media_key": "3_2077063891465695232",
+              "start": 0,
+              "url": "https://t.co/XAowBtCG0f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077063902031221239",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XAowBtCG0f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 340,
+          "like_count": 6688,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1392
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T08:11:18.000Z",
+        "description": "𝕃𝕆𝕍𝔼 𝔽𝕆ℝ𝔼𝕍𝔼ℝ//以防万一只回fo有明显同成分的，或者私信也行orz",
+        "id": "1767100910487195648",
+        "location": "🔮梦女",
+        "name": "片想",
+        "pinned_tweet_id": "2074858820489388539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072882260773322752/o2dE4OW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 132,
+          "like_count": 760,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 369
+        },
+        "url": "",
+        "username": "yuo_hana233",
+        "verified": false
+      }
+    ]
+  }
+}

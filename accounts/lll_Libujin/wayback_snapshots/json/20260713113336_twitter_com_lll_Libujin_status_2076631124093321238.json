@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076630031951073281"
+      ],
+      "media_source_tweet_id": [
+        "2076630405525143755"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2076631124093321238",
+    "created_at": "2026-07-13T11:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T12:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076631124093321238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1384412488691699715",
+          "start": 3,
+          "username": "JABE0000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E1tGRTsZef",
+          "end": 37,
+          "expanded_url": "https://x.com/JABE0000/status/2076630405525143755/photo/1",
+          "media_key": "3_2076630031951073281",
+          "start": 14,
+          "url": "https://t.co/E1tGRTsZef"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076631124093321238",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076630405525143755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JABE0000: https://t.co/E1tGRTsZef"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1660,
+        "media_key": "3_2076630031951073281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGsAvhaEAEofI-.jpg",
+        "width": 1981
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076630031951073281"
+          ],
+          "media_source_tweet_id": [
+            "2076630405525143755"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2076631124093321238",
+        "created_at": "2026-07-13T11:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076631124093321238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1384412488691699715",
+              "start": 3,
+              "username": "JABE0000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E1tGRTsZef",
+              "end": 37,
+              "expanded_url": "https://x.com/JABE0000/status/2076630405525143755/photo/1",
+              "media_key": "3_2076630031951073281",
+              "start": 14,
+              "url": "https://t.co/E1tGRTsZef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076631124093321238",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076630405525143755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JABE0000: https://t.co/E1tGRTsZef"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076630031951073281"
+          ]
+        },
+        "author_id": "1384412488691699715",
+        "conversation_id": "2076630405525143755",
+        "created_at": "2026-07-13T11:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T12:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076630405525143755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E1tGRTsZef",
+              "end": 23,
+              "expanded_url": "https://x.com/JABE0000/status/2076630405525143755/photo/1",
+              "media_key": "3_2076630031951073281",
+              "start": 0,
+              "url": "https://t.co/E1tGRTsZef"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076630405525143755",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 163,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/E1tGRTsZef"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 339,
+          "like_count": 6685,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1390
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-20T07:44:04.000Z",
+        "description": "絵の修行中。Edenが大好きです。日和が好き。描きたいものを描く。\n学習．編集．転載禁止\nhttps://t.co/N2EJiVAb7G",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/67705710",
+                "end": 68,
+                "expanded_url": "https://www.pixiv.net/users/67705710",
+                "start": 45,
+                "url": "https://t.co/N2EJiVAb7G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/jabe",
+                "end": 23,
+                "expanded_url": "https://lit.link/jabe",
+                "start": 0,
+                "url": "https://t.co/4toTQRmTQj"
+              }
+            ]
+          }
+        },
+        "id": "1384412488691699715",
+        "name": "JABE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820411800472768512/tbQFKhSX_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11424,
+          "following_count": 62,
+          "like_count": 1288,
+          "listed_count": 55,
+          "media_count": 672,
+          "tweet_count": 1928
+        },
+        "url": "https://t.co/4toTQRmTQj",
+        "username": "JABE0000",
+        "verified": false
+      }
+    ]
+  }
+}
