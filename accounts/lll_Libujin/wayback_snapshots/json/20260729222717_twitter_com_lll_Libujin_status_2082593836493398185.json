@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2082119549324087552",
+    "created_at": "2026-07-29T22:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T23:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082593836493398185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1652200117494231043",
+          "start": 0,
+          "username": "Yum_ou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082593836493398185",
+    "in_reply_to_user_id": "1652200117494231043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082585601497612397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yum_ou 没有诶 test flight貌似是苹果自带的（？ 抱歉啊我也不太清楚TT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2082119549324087552",
+        "created_at": "2026-07-29T22:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T23:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082593836493398185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1652200117494231043",
+              "start": 0,
+              "username": "Yum_ou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082593836493398185",
+        "in_reply_to_user_id": "1652200117494231043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082585601497612397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yum_ou 没有诶 test flight貌似是苹果自带的（？ 抱歉啊我也不太清楚TT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2082119549324087552",
+        "created_at": "2026-07-29T21:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T22:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082585601497612397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082585601497612397",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082533711938310540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lll_Libujin 宝宝第一个蓝色的软件要邀请码才点的进去，你当时怎么进去的呀？有邀请码嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 402,
+          "like_count": 7038,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1527
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081709349538607104/VaBgOTbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 77,
+          "like_count": 13115,
+          "listed_count": 4,
+          "media_count": 472,
+          "tweet_count": 5677
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "Yum_ou",
+        "verified": false
+      }
+    ]
+  }
+}

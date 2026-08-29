@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2086840535340458289",
+    "created_at": "2026-08-10T15:47:32.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T16:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086841888318099959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1874465078642388992",
+          "start": 0,
+          "username": "NevenL25237"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086841888318099959",
+    "in_reply_to_user_id": "1874465078642388992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086841253732425886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NevenL25237 www感谢🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2086840535340458289",
+        "created_at": "2026-08-10T15:47:32.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086841888318099959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1874465078642388992",
+              "start": 0,
+              "username": "NevenL25237"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086841888318099959",
+        "in_reply_to_user_id": "1874465078642388992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086841253732425886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NevenL25237 www感谢🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874465078642388992",
+        "conversation_id": "2086840535340458289",
+        "created_at": "2026-08-10T15:45:01.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T16:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086841253732425886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086841253732425886",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086840535340458289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lll_Libujin 好看诶"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "Welcome to Apocalypse.",
+        "most_recent_tweet_id": "2086841888318099959",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 413,
+          "like_count": 7145,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1615
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T14:38:53.000Z",
+        "description": "爱情是治疗一切的良药。",
+        "id": "1874465078642388992",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2086841253732425886",
+        "name": "静静",
+        "pinned_tweet_id": "2082515164923150594",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874465078642388992/1784858092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076470612927864832/xA874v1D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 510,
+          "like_count": 1540,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 581
+        },
+        "url": "",
+        "username": "NevenL25237",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

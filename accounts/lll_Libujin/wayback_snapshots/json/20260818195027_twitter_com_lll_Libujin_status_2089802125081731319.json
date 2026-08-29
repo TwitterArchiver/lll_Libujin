@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2088073951344033961",
+    "created_at": "2026-08-18T19:50:27.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T20:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089802125081731319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1124790071314587648",
+          "start": 0,
+          "username": "LanwujiDrink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089802125081731319",
+    "in_reply_to_user_id": "1124790071314587648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089802018215084283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanwujiDrink 我给她的嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2088073951344033961",
+        "created_at": "2026-08-18T19:50:27.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089802125081731319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089802125081731319",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089802018215084283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 我给她的嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2088073951344033961",
+        "created_at": "2026-08-18T19:50:02.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089802018215084283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089802018215084283",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089799532272107778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lll_Libujin 她不是第一次找我买吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "Welcome to Apocalypse.",
+        "most_recent_tweet_id": "2089802125081731319",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 433,
+          "like_count": 7254,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1663
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "以雷霆手段，顯菩薩心腸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "妖魔鬼怪皆是我，神仙菩薩一般樣",
+        "most_recent_tweet_id": "2089802065619108140",
+        "name": "🌵無極植物科技 葉經理",
+        "pinned_tweet_id": "2089312178692350010",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1785074464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1170,
+          "following_count": 119,
+          "like_count": 3313,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1632
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

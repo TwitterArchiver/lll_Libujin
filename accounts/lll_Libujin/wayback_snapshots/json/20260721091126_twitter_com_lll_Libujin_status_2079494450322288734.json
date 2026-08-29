@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2079298773218689140",
+    "created_at": "2026-07-21T09:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T10:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079494450322288734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1976887419841695744",
+          "start": 0,
+          "username": "Kage_QwQ_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079494450322288734",
+    "in_reply_to_user_id": "1976887419841695744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079477169341009993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kage_QwQ_ 爱你呀脑婆！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2079298773218689140",
+        "created_at": "2026-07-21T09:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T10:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079494450322288734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1976887419841695744",
+              "start": 0,
+              "username": "Kage_QwQ_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079494450322288734",
+        "in_reply_to_user_id": "1976887419841695744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079477169341009993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kage_QwQ_ 爱你呀脑婆！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976887419841695744",
+        "conversation_id": "2079298773218689140",
+        "created_at": "2026-07-21T08:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079477169341009993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079477169341009993",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079298773218689140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lll_Libujin 老大好牛......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 344,
+          "like_count": 6777,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1426
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T05:48:06.000Z",
+        "description": "",
+        "id": "1976887419841695744",
+        "location": "⚰️",
+        "name": "Kage",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976887511948632064/s-ZYyZW7_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 79,
+          "like_count": 1218,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 452
+        },
+        "url": "",
+        "username": "Kage_QwQ_",
+        "verified": true
+      }
+    ]
+  }
+}

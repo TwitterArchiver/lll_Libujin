@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2084564560556806571",
+    "created_at": "2026-08-04T08:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084564831462674602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1874450880080318464",
+          "start": 0,
+          "username": "Korolev114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084564831462674602",
+    "in_reply_to_user_id": "1874450880080318464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084564560556806571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Korolev114 玛德笑死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2084564532287229953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3cZcpb0AEu-gl.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2084564560556806571",
+        "created_at": "2026-08-04T08:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084564831462674602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1874450880080318464",
+              "start": 0,
+              "username": "Korolev114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084564831462674602",
+        "in_reply_to_user_id": "1874450880080318464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084564560556806571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Korolev114 玛德笑死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084564532287229953"
+          ]
+        },
+        "author_id": "1874450880080318464",
+        "conversation_id": "2084564560556806571",
+        "created_at": "2026-08-04T08:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084564560556806571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1780055196460048385",
+              "start": 7,
+              "username": "lll_Libujin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wPd3WFqb1y",
+              "end": 43,
+              "expanded_url": "https://x.com/Korolev114/status/2084564560556806571/photo/1",
+              "media_key": "3_2084564532287229953",
+              "start": 20,
+              "url": "https://t.co/wPd3WFqb1y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084564560556806571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "典中典这一块\n@lll_Libujin https://t.co/wPd3WFqb1y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 401,
+          "like_count": 7117,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1581
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T13:41:37.000Z",
+        "description": "何度も期待をし、何度もがっかりする\n最爱的绘里：@felicekiki49513\n最好的老v：@PaulaRiver9119\nbvvd的星怒：@NevenL25237\n空战最菜b之人：@RX_Xron28390\n月计人：@tsumi0313\n沪爷冲击！：@lll_Libujin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "felicekiki49513"
+              },
+              {
+                "end": 62,
+                "start": 47,
+                "username": "PaulaRiver9119"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "NevenL25237"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "RX_Xron28390"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "tsumi0313"
+              },
+              {
+                "end": 139,
+                "start": 127,
+                "username": "lll_Libujin"
+              }
+            ]
+          }
+        },
+        "id": "1874450880080318464",
+        "location": "LOBOTOMY CORPORATION",
+        "name": "Chesed☕",
+        "pinned_tweet_id": "2080555193171837323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079970398125600774/o1QAdiS7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 204,
+          "like_count": 43,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 1024
+        },
+        "url": "",
+        "username": "Korolev114",
+        "verified": false
+      }
+    ]
+  }
+}

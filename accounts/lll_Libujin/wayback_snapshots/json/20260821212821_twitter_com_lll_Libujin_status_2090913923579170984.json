@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090784002907291648",
+        "3_2090784022918262784"
+      ],
+      "media_source_tweet_id": [
+        "2090788708828274987",
+        "2090788708828274987"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2090913923579170984",
+    "created_at": "2026-08-21T21:28:21.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T22:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090913923579170984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1154386706923003906",
+          "start": 3,
+          "username": "sake10ba_243"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gkt86cE4ug",
+          "end": 68,
+          "expanded_url": "https://x.com/sake10ba_243/status/2090788708828274987/photo/1",
+          "media_key": "3_2090784002907291648",
+          "start": 45,
+          "url": "https://t.co/gkt86cE4ug"
+        },
+        {
+          "display_url": "pic.x.com/gkt86cE4ug",
+          "end": 68,
+          "expanded_url": "https://x.com/sake10ba_243/status/2090788708828274987/photo/1",
+          "media_key": "3_2090784022918262784",
+          "start": 45,
+          "url": "https://t.co/gkt86cE4ug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090913923579170984",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090784002907291648"
+      },
+      {
+        "media_key": "3_2090784022918262784"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090788708828274987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sake10ba_243: あんステ10thライブの日和くんが良すぎて☀️感謝～ https://t.co/gkt86cE4ug"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 556,
+        "media_key": "3_2090784002907291648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQP0-SNbwAA0FVZ.png",
+        "width": 800
+      },
+      {
+        "height": 556,
+        "media_key": "3_2090784022918262784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQP0_cwa8AAR04M.png",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090784002907291648",
+            "3_2090784022918262784"
+          ],
+          "media_source_tweet_id": [
+            "2090788708828274987",
+            "2090788708828274987"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2090913923579170984",
+        "created_at": "2026-08-21T21:28:21.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T22:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090913923579170984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1154386706923003906",
+              "start": 3,
+              "username": "sake10ba_243"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gkt86cE4ug",
+              "end": 68,
+              "expanded_url": "https://x.com/sake10ba_243/status/2090788708828274987/photo/1",
+              "media_key": "3_2090784002907291648",
+              "start": 45,
+              "url": "https://t.co/gkt86cE4ug"
+            },
+            {
+              "display_url": "pic.x.com/gkt86cE4ug",
+              "end": 68,
+              "expanded_url": "https://x.com/sake10ba_243/status/2090788708828274987/photo/1",
+              "media_key": "3_2090784022918262784",
+              "start": 45,
+              "url": "https://t.co/gkt86cE4ug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090913923579170984",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090784002907291648"
+          },
+          {
+            "media_key": "3_2090784022918262784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090788708828274987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sake10ba_243: あんステ10thライブの日和くんが良すぎて☀️感謝～ https://t.co/gkt86cE4ug"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090784002907291648",
+            "3_2090784022918262784"
+          ]
+        },
+        "author_id": "1154386706923003906",
+        "conversation_id": "2090788708828274987",
+        "created_at": "2026-08-21T13:10:47.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090788708828274987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gkt86cE4ug",
+              "end": 50,
+              "expanded_url": "https://x.com/sake10ba_243/status/2090788708828274987/photo/1",
+              "media_key": "3_2090784002907291648",
+              "start": 27,
+              "url": "https://t.co/gkt86cE4ug"
+            },
+            {
+              "display_url": "pic.x.com/gkt86cE4ug",
+              "end": 50,
+              "expanded_url": "https://x.com/sake10ba_243/status/2090788708828274987/photo/1",
+              "media_key": "3_2090784022918262784",
+              "start": 27,
+              "url": "https://t.co/gkt86cE4ug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090788708828274987",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090784002907291648"
+          },
+          {
+            "media_key": "3_2090784022918262784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 11064,
+          "like_count": 964,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "あんステ10thライブの日和くんが良すぎて☀️感謝～ https://t.co/gkt86cE4ug"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "Welcome to Apocalypse.",
+        "most_recent_tweet_id": "2090913923579170984",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 438,
+          "like_count": 7294,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1687
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-25T13:43:33.000Z",
+        "description": "緩慢に好きを楽しむ🦥￤稀に絵を描く￤イラスト転載・使用禁止￤だいぶ前に成人済み￤×よか＋嗜好￤偏りはあるけどジャンル雑多垢￤🦋sake10ba243￤https://t.co/6JtgLbrNVk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/sake10ba_243",
+                "end": 98,
+                "expanded_url": "http://marshmallow-qa.com/sake10ba_243",
+                "start": 75,
+                "url": "https://t.co/6JtgLbrNVk"
+              }
+            ]
+          }
+        },
+        "id": "1154386706923003906",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090790359513415898",
+        "name": "とば助",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1154386706923003906/1682481346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621203955698245633/tnRQ38Dj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4664,
+          "following_count": 59,
+          "like_count": 10917,
+          "listed_count": 39,
+          "media_count": 342,
+          "tweet_count": 2914
+        },
+        "url": "",
+        "username": "sake10ba_243",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

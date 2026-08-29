@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2080358578591006970",
+    "created_at": "2026-07-23T19:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T20:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080375885904150741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1627860014114168833",
+          "start": 0,
+          "username": "Snow_Xue_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080375885904150741",
+    "in_reply_to_user_id": "1627860014114168833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080374718830678069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Xue_1 我去？？牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1327,
+        "media_key": "3_2080374713600319488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN75x5vaIAAhv3K.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2080358578591006970",
+        "created_at": "2026-07-23T19:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080375885904150741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1627860014114168833",
+              "start": 0,
+              "username": "Snow_Xue_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080375885904150741",
+        "in_reply_to_user_id": "1627860014114168833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080374718830678069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_1 我去？？牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080374713600319488"
+          ]
+        },
+        "author_id": "1627860014114168833",
+        "conversation_id": "2080358578591006970",
+        "created_at": "2026-07-23T19:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080374718830678069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "lll_Libujin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ohv1sXcFgm",
+              "end": 36,
+              "expanded_url": "https://x.com/Snow_Xue_1/status/2080374718830678069/photo/1",
+              "media_key": "3_2080374713600319488",
+              "start": 13,
+              "url": "https://t.co/ohv1sXcFgm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080374718830678069",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080358578591006970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lll_Libujin https://t.co/ohv1sXcFgm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 361,
+          "like_count": 6857,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1463
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-21T02:39:25.000Z",
+        "description": "✝️普瑞巴林，曲马多重度依赖✝️ \n 普通的上海入 | 超级大s | 战绩：三刷抢救室 | hrt2025.11 🍥 |  生产日期 2010.3.16 | 家暴党（表面家长不管党，实际家暴党）| 姐姐@vokleer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 101,
+                "username": "vokleer"
+              }
+            ]
+          }
+        },
+        "id": "1627860014114168833",
+        "location": "上海",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2076673707746189382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062076159492595713/NHormeLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 261,
+          "like_count": 6014,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 809
+        },
+        "url": "",
+        "username": "Snow_Xue_1",
+        "verified": true
+      }
+    ]
+  }
+}

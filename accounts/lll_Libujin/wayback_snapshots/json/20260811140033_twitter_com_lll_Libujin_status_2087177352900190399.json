@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2087064782612689185",
+    "created_at": "2026-08-11T14:00:33.000Z",
+    "display_text_range": [
+      45,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T15:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087177352900190399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2083201699934867456",
+          "start": 0,
+          "username": "toxicate01"
+        },
+        {
+          "end": 27,
+          "id": "2081432910930845697",
+          "start": 12,
+          "username": "ash_alexwithbq"
+        },
+        {
+          "end": 44,
+          "id": "2059475041126055936",
+          "start": 28,
+          "username": "Texiusizhichuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087177352900190399",
+    "in_reply_to_user_id": "2083201699934867456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087064782612689185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toxicate01 @ash_alexwithbq @Texiusizhichuan ！！脑婆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2087064782612689185",
+        "created_at": "2026-08-11T14:00:33.000Z",
+        "display_text_range": [
+          45,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T15:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087177352900190399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2083201699934867456",
+              "start": 0,
+              "username": "toxicate01"
+            },
+            {
+              "end": 27,
+              "id": "2081432910930845697",
+              "start": 12,
+              "username": "ash_alexwithbq"
+            },
+            {
+              "end": 44,
+              "id": "2059475041126055936",
+              "start": 28,
+              "username": "Texiusizhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087177352900190399",
+        "in_reply_to_user_id": "2083201699934867456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087064782612689185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toxicate01 @ash_alexwithbq @Texiusizhichuan ！！脑婆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083201699934867456",
+        "conversation_id": "2087064782612689185",
+        "created_at": "2026-08-11T06:33:14.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T07:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087064782612689185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2081432910930845697",
+              "start": 4,
+              "username": "ash_alexwithbq"
+            },
+            {
+              "end": 41,
+              "id": "2059475041126055936",
+              "start": 25,
+              "username": "Texiusizhichuan"
+            },
+            {
+              "end": 54,
+              "id": "1780055196460048385",
+              "start": 42,
+              "username": "lll_Libujin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/toxicate01/sta…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/toxicate01/status/2086784748383518808",
+              "start": 72,
+              "url": "https://t.co/mB8HGzMFSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087064782612689185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086784748383518808",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "52🧧\n@ash_alexwithbq\n5.2🧧\n@Texiusizhichuan\n@lll_Libujin\n麻烦以上的宝宝来私我一下wwww https://t.co/mB8HGzMFSq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "Welcome to Apocalypse.",
+        "most_recent_tweet_id": "2087177352900190399",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 412,
+          "like_count": 7149,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1619
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T14:45:38.000Z",
+        "description": "I𝗋𝗂𝗌 C𝗂𝗇𝗇𝖺𝖻𝖺𝗋 2 Hexa",
+        "id": "2083201699934867456",
+        "is_identity_verified": false,
+        "location": "恋歌",
+        "most_recent_tweet_id": "2087168751334490131",
+        "name": "cmi",
+        "pinned_tweet_id": "2084290399536029844",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083201699934867456/1785509689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083202567937650688/Xs4QIS3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 66,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "toxicate01",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-26T17:37:14.000Z",
+        "description": "無狀態。",
+        "id": "2081432910930845697",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087131546113478987",
+        "name": "Yves_dreaming",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081434208375803904/in-0TURl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 160,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 84
+        },
+        "url": "",
+        "username": "ash_alexwithbq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2087058050649915655",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 394,
+          "like_count": 24395,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1321
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

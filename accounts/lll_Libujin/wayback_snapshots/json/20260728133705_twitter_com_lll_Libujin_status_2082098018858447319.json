@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2082098018858447319",
+    "created_at": "2026-07-28T13:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082098018858447319"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/korolev114/sta…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/korolev114/status/2082097453281742981",
+          "start": 4,
+          "url": "https://t.co/mhJFFEWec1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082098018858447319",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082097453281742981",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🥺🥺🥺 https://t.co/mhJFFEWec1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2082098018858447319",
+        "created_at": "2026-07-28T13:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082098018858447319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/korolev114/sta…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/korolev114/status/2082097453281742981",
+              "start": 4,
+              "url": "https://t.co/mhJFFEWec1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082098018858447319",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082097453281742981",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🥺🥺🥺 https://t.co/mhJFFEWec1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874450880080318464",
+        "conversation_id": "2082097453281742981",
+        "created_at": "2026-07-28T13:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082097453281742981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1780055196460048385",
+              "start": 19,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082097453281742981",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我的好朋友\n好感度+114514\n@lll_Libujin"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 391,
+          "like_count": 7018,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1506
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T13:41:37.000Z",
+        "description": "《1》友達たちはみんな去って…私は暗闇の中で孤独に夜明けを迎えるしかない…...\n《2》冷めたコーヒーは流しに捨てて、新しいのを淹れましょう......\n《3》一碼は一碼で......\n《4》グループ結成後の孤独、空の部屋を一人で守る......\n《5》何度も期待をし、何度もがっかりする.......",
+        "id": "1874450880080318464",
+        "location": "LOBOTOMY CORPORATION",
+        "name": "Chesed☕",
+        "pinned_tweet_id": "2080555193171837323",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079970398125600774/o1QAdiS7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 208,
+          "like_count": 41,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 843
+        },
+        "url": "",
+        "username": "Korolev114",
+        "verified": false
+      }
+    ]
+  }
+}

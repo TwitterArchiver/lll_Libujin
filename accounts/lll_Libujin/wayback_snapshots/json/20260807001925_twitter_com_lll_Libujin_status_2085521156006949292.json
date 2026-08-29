@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085249761494663168"
+      ],
+      "media_source_tweet_id": [
+        "2085249766934626309"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2085521156006949292",
+    "created_at": "2026-08-07T00:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T01:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085521156006949292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1973768893136302080",
+          "start": 3,
+          "username": "_e_hiyori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EF2bv27rfa",
+          "end": 54,
+          "expanded_url": "https://x.com/_e_hiyori/status/2085249766934626309/photo/1",
+          "media_key": "3_2085249761494663168",
+          "start": 31,
+          "url": "https://t.co/EF2bv27rfa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085521156006949292",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085249766934626309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_e_hiyori: 載せ直し❕こっちの加工がすき🐰 https://t.co/EF2bv27rfa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1160,
+        "media_key": "3_2085249761494663168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBLnCXbgAAIJlm.jpg",
+        "width": 1015
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085249761494663168"
+          ]
+        },
+        "author_id": "1973768893136302080",
+        "conversation_id": "2085249766934626309",
+        "created_at": "2026-08-06T06:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085249766934626309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EF2bv27rfa",
+              "end": 39,
+              "expanded_url": "https://x.com/_e_hiyori/status/2085249766934626309/photo/1",
+              "media_key": "3_2085249761494663168",
+              "start": 16,
+              "url": "https://t.co/EF2bv27rfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085249766934626309",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2223,
+          "like_count": 255,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "載せ直し❕こっちの加工がすき🐰 https://t.co/EF2bv27rfa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085249761494663168"
+          ],
+          "media_source_tweet_id": [
+            "2085249766934626309"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2085521156006949292",
+        "created_at": "2026-08-07T00:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T01:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085521156006949292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1973768893136302080",
+              "start": 3,
+              "username": "_e_hiyori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EF2bv27rfa",
+              "end": 54,
+              "expanded_url": "https://x.com/_e_hiyori/status/2085249766934626309/photo/1",
+              "media_key": "3_2085249761494663168",
+              "start": 31,
+              "url": "https://t.co/EF2bv27rfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085521156006949292",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085249766934626309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_e_hiyori: 載せ直し❕こっちの加工がすき🐰 https://t.co/EF2bv27rfa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 412,
+          "like_count": 7146,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1611
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T15:16:00.000Z",
+        "description": "成人済┊︎🌊☀️┊︎左右相手固定┊︎鍵@__jh_love",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "__jh_love"
+              }
+            ]
+          }
+        },
+        "id": "1973768893136302080",
+        "location": "楽園♡無言Fすみません！",
+        "name": "ri",
+        "pinned_tweet_id": "2083234566870053167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079507258157998080/uN02PpRU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 147,
+          "like_count": 2065,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "_e_hiyori",
+        "verified": false
+      }
+    ]
+  }
+}

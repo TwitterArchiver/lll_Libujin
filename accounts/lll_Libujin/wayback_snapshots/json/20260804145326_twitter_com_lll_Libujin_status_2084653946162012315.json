@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2084640471146701079",
+    "created_at": "2026-08-04T14:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T15:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084653946162012315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1506921184646266885",
+          "start": 0,
+          "username": "georgkiol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084653946162012315",
+    "in_reply_to_user_id": "1506921184646266885",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084649313276399760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@georgkiol wx小程序搜做梦心理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2084640471146701079",
+        "created_at": "2026-08-04T14:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084653946162012315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1506921184646266885",
+              "start": 0,
+              "username": "georgkiol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084653946162012315",
+        "in_reply_to_user_id": "1506921184646266885",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084649313276399760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@georgkiol wx小程序搜做梦心理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1506921184646266885",
+        "conversation_id": "2084640471146701079",
+        "created_at": "2026-08-04T14:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T15:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084649313276399760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084649313276399760",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084640471146701079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lll_Libujin 有没有测试链接嘞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 405,
+          "like_count": 7127,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1588
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-24T09:09:50.000Z",
+        "description": "男 性取向正常 INTP 脑子里随机刷新各种颜色\n当朋友圈刷，偶尔会发黄色视频。\n我是话唠！！！\n人机和男同绕开！性取向正常！\n匿名提问：https://t.co/Yvx6HlJbkj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ttxl1",
+                "end": 92,
+                "expanded_url": "https://ngl.link/ttxl1",
+                "start": 69,
+                "url": "https://t.co/Yvx6HlJbkj"
+              }
+            ]
+          }
+        },
+        "id": "1506921184646266885",
+        "location": "-15CM",
+        "name": "Oi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083531451707092992/TUIVsa5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 399,
+          "like_count": 2938,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 1326
+        },
+        "url": "",
+        "username": "georgkiol",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087420504915484672"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2087420516793819282",
+    "created_at": "2026-08-12T06:06:48.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T07:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087420516793819282"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QY3Nd4LVNG",
+          "end": 41,
+          "expanded_url": "https://x.com/lll_Libujin/status/2087420516793819282/photo/1",
+          "media_key": "3_2087420504915484672",
+          "start": 18,
+          "url": "https://t.co/QY3Nd4LVNG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087420516793819282",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087420504915484672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "静注氯胺酮吗我操我还以为我活到头了 https://t.co/QY3Nd4LVNG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087420504915484672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPgB47xaoAABa_o.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087420504915484672"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2087420516793819282",
+        "created_at": "2026-08-12T06:06:48.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T07:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087420516793819282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QY3Nd4LVNG",
+              "end": 41,
+              "expanded_url": "https://x.com/lll_Libujin/status/2087420516793819282/photo/1",
+              "media_key": "3_2087420504915484672",
+              "start": 18,
+              "url": "https://t.co/QY3Nd4LVNG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087420516793819282",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087420504915484672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "静注氯胺酮吗我操我还以为我活到头了 https://t.co/QY3Nd4LVNG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "Welcome to Apocalypse.",
+        "most_recent_tweet_id": "2087420516793819282",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 414,
+          "like_count": 7149,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1620
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

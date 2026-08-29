@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086501697330040832"
+      ],
+      "media_source_tweet_id": [
+        "2086501752304722132"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2086657533033484302",
+    "created_at": "2026-08-10T03:34:58.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T04:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086657533033484302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1384412488691699715",
+          "start": 3,
+          "username": "JABE0000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OTbQd96pgr",
+          "end": 37,
+          "expanded_url": "https://x.com/JABE0000/status/2086501752304722132/photo/1",
+          "media_key": "3_2086501697330040832",
+          "start": 14,
+          "url": "https://t.co/OTbQd96pgr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086657533033484302",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2086501697330040832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 315
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086501752304722132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JABE0000: https://t.co/OTbQd96pgr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2150,
+        "media_key": "3_2086501697330040832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPS-PSybUAArJTP.jpg",
+        "width": 1384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086501697330040832"
+          ]
+        },
+        "author_id": "1384412488691699715",
+        "conversation_id": "2086501752304722132",
+        "created_at": "2026-08-09T17:15:57.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T18:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086501752304722132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTbQd96pgr",
+              "end": 23,
+              "expanded_url": "https://x.com/JABE0000/status/2086501752304722132/photo/1",
+              "media_key": "3_2086501697330040832",
+              "start": 0,
+              "url": "https://t.co/OTbQd96pgr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086501752304722132",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086501697330040832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 20274,
+          "like_count": 2244,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 315
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OTbQd96pgr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086501697330040832"
+          ],
+          "media_source_tweet_id": [
+            "2086501752304722132"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2086657533033484302",
+        "created_at": "2026-08-10T03:34:58.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086657533033484302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1384412488691699715",
+              "start": 3,
+              "username": "JABE0000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTbQd96pgr",
+              "end": 37,
+              "expanded_url": "https://x.com/JABE0000/status/2086501752304722132/photo/1",
+              "media_key": "3_2086501697330040832",
+              "start": 14,
+              "url": "https://t.co/OTbQd96pgr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086657533033484302",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2086501697330040832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 315
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086501752304722132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JABE0000: https://t.co/OTbQd96pgr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "Welcome to Apocalypse.",
+        "most_recent_tweet_id": "2086657533033484302",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 413,
+          "like_count": 7143,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1623
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-20T07:44:04.000Z",
+        "description": "絵の修行中。Edenが大好きです。日和が好き。描きたいものを描く。\n学習．編集．転載禁止\nhttps://t.co/N2EJiVAb7G",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/67705710",
+                "end": 68,
+                "expanded_url": "https://www.pixiv.net/users/67705710",
+                "start": 45,
+                "url": "https://t.co/N2EJiVAb7G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/jabe",
+                "end": 23,
+                "expanded_url": "https://lit.link/jabe",
+                "start": 0,
+                "url": "https://t.co/4toTQRmTQj"
+              }
+            ]
+          }
+        },
+        "id": "1384412488691699715",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086501752304722132",
+        "name": "JABE",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1384412488691699715/1785174615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820411800472768512/tbQFKhSX_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11616,
+          "following_count": 61,
+          "like_count": 1290,
+          "listed_count": 55,
+          "media_count": 679,
+          "tweet_count": 1938
+        },
+        "url": "https://t.co/4toTQRmTQj",
+        "username": "JABE0000",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

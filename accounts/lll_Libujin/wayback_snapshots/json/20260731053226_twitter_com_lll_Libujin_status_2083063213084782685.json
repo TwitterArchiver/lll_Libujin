@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2082909261722763711",
+    "created_at": "2026-07-31T05:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T06:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083063213084782685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1897901287834107905",
+          "start": 0,
+          "username": "GrfbB22556"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083063213084782685",
+    "in_reply_to_user_id": "1897901287834107905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083029378859233595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GrfbB22556 被物质支配的人生😌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2082909261722763711",
+        "created_at": "2026-07-31T05:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083063213084782685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1897901287834107905",
+              "start": 0,
+              "username": "GrfbB22556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083063213084782685",
+        "in_reply_to_user_id": "1897901287834107905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083029378859233595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrfbB22556 被物质支配的人生😌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897901287834107905",
+        "conversation_id": "2082909261722763711",
+        "created_at": "2026-07-31T03:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083029378859233595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083029378859233595",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082909261722763711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lll_Libujin 看你玩它还是它玩你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 404,
+          "like_count": 7068,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1551
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T06:45:12.000Z",
+        "description": "精神边缘人 堪堪废料堆 求得真道理 配作假慈悲",
+        "id": "1897901287834107905",
+        "name": "边缘废料",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025686705991495680/iHqitj96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 156,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 330
+        },
+        "url": "",
+        "username": "GrfbB22556",
+        "verified": false
+      }
+    ]
+  }
+}

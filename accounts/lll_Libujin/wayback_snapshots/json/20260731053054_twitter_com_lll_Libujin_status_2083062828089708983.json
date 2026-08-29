@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10033247448",
+          "name": "笑点"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281311445355905024",
+          "name": "Comedy TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311445355905024",
+          "name": "Comedy TV"
+        }
+      }
+    ],
+    "conversation_id": "2083062828089708983",
+    "created_at": "2026-07-31T05:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T06:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083062828089708983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lll_libujin/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/lll_libujin/status/2083034537416970344",
+          "start": 24,
+          "url": "https://t.co/nm8J4V68pc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083062828089708983",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083034537416970344",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑点解析就是oder面基前都要o点pr80（） https://t.co/nm8J4V68pc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083034528986333184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhs3iMagAAkBq6.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10033247448",
+              "name": "笑点"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          }
+        ],
+        "conversation_id": "2083062828089708983",
+        "created_at": "2026-07-31T05:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083062828089708983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lll_libujin/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/lll_libujin/status/2083034537416970344",
+              "start": 24,
+              "url": "https://t.co/nm8J4V68pc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083062828089708983",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083034537416970344",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑点解析就是oder面基前都要o点pr80（） https://t.co/nm8J4V68pc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083034528986333184"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2083034537416970344",
+        "created_at": "2026-07-31T03:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083034537416970344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1767100910487195648",
+              "start": 1,
+              "username": "yuo_hana233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/luvc54ulEQ",
+              "end": 43,
+              "expanded_url": "https://x.com/lll_Libujin/status/2083034537416970344/photo/1",
+              "media_key": "3_2083034528986333184",
+              "start": 20,
+              "url": "https://t.co/luvc54ulEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083034537416970344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "与@yuo_hana233 相遇！！！ https://t.co/luvc54ulEQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 404,
+          "like_count": 7067,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1550
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      }
+    ]
+  }
+}

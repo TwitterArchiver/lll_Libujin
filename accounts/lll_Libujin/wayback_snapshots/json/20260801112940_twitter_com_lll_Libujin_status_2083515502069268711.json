@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083515496587268096",
+        "3_2083515496570507264"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2083515502069268711",
+    "created_at": "2026-08-01T11:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T12:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083515502069268711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GPxUDu7Uqk",
+          "end": 51,
+          "expanded_url": "https://x.com/lll_Libujin/status/2083515502069268711/photo/1",
+          "media_key": "3_2083515496587268096",
+          "start": 28,
+          "url": "https://t.co/GPxUDu7Uqk"
+        },
+        {
+          "display_url": "pic.x.com/GPxUDu7Uqk",
+          "end": 51,
+          "expanded_url": "https://x.com/lll_Libujin/status/2083515502069268711/photo/1",
+          "media_key": "3_2083515496570507264",
+          "start": 28,
+          "url": "https://t.co/GPxUDu7Uqk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083515502069268711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "果咩不加墙内联系方式所以请私信一下我！！ 感谢打赏ww https://t.co/GPxUDu7Uqk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1164,
+        "media_key": "3_2083515496587268096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoiTiIbEAAJR5A.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1265,
+        "media_key": "3_2083515496570507264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoiTiEbUAA924k.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083515496587268096",
+            "3_2083515496570507264"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2083515502069268711",
+        "created_at": "2026-08-01T11:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083515502069268711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GPxUDu7Uqk",
+              "end": 51,
+              "expanded_url": "https://x.com/lll_Libujin/status/2083515502069268711/photo/1",
+              "media_key": "3_2083515496587268096",
+              "start": 28,
+              "url": "https://t.co/GPxUDu7Uqk"
+            },
+            {
+              "display_url": "pic.x.com/GPxUDu7Uqk",
+              "end": 51,
+              "expanded_url": "https://x.com/lll_Libujin/status/2083515502069268711/photo/1",
+              "media_key": "3_2083515496570507264",
+              "start": 28,
+              "url": "https://t.co/GPxUDu7Uqk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083515502069268711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "果咩不加墙内联系方式所以请私信一下我！！ 感谢打赏ww https://t.co/GPxUDu7Uqk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 401,
+          "like_count": 7062,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1552
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      }
+    ]
+  }
+}

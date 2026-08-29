@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084670712783265792"
+      ],
+      "media_source_tweet_id": [
+        "2084670723046645997"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2084675761290858577",
+    "created_at": "2026-08-04T16:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084675761290858577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2013233628847980544",
+          "start": 3,
+          "username": "Asukai_Yuki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mMGKwWnrZ3",
+          "end": 90,
+          "expanded_url": "https://x.com/Asukai_Yuki/status/2084670723046645997/photo/1",
+          "media_key": "3_2084670712783265792",
+          "start": 67,
+          "url": "https://t.co/mMGKwWnrZ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084675761290858577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084670723046645997",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Asukai_Yuki: ‧₊˚☆ 𝚋𝚒𝚛𝚝𝚑𝚍𝚊𝚢⋆ ♡̷ .ﾟ·\n请一而再、再而三地在痛苦又漫长的道路上坚定地行走下去吧 https://t.co/mMGKwWnrZ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084670712783265792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO48990bYAAwnl_.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084670712783265792"
+          ]
+        },
+        "author_id": "2013233628847980544",
+        "conversation_id": "2084670723046645997",
+        "created_at": "2026-08-04T16:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084670723046645997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mMGKwWnrZ3",
+              "end": 73,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2084670723046645997/photo/1",
+              "media_key": "3_2084670712783265792",
+              "start": 50,
+              "url": "https://t.co/mMGKwWnrZ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084670723046645997",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "‧₊˚☆ 𝚋𝚒𝚛𝚝𝚑𝚍𝚊𝚢⋆ ♡̷ .ﾟ·\n请一而再、再而三地在痛苦又漫长的道路上坚定地行走下去吧 https://t.co/mMGKwWnrZ3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084670712783265792"
+          ],
+          "media_source_tweet_id": [
+            "2084670723046645997"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2084675761290858577",
+        "created_at": "2026-08-04T16:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084675761290858577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2013233628847980544",
+              "start": 3,
+              "username": "Asukai_Yuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mMGKwWnrZ3",
+              "end": 90,
+              "expanded_url": "https://x.com/Asukai_Yuki/status/2084670723046645997/photo/1",
+              "media_key": "3_2084670712783265792",
+              "start": 67,
+              "url": "https://t.co/mMGKwWnrZ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084675761290858577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084670723046645997",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Asukai_Yuki: ‧₊˚☆ 𝚋𝚒𝚛𝚝𝚑𝚍𝚊𝚢⋆ ♡̷ .ﾟ·\n请一而再、再而三地在痛苦又漫长的道路上坚定地行走下去吧 https://t.co/mMGKwWnrZ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 405,
+          "like_count": 7131,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1596
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "＝飞鸟井郁希/yuki | 🏳️‍⚧️🏳️‍🌈enby | 餐券女 | 天真的和感伤的吉他手 | 红色担当❤️ | 滚男oc | re0，昴公但是i昴草昴\n\n前世 @SUNSET_ROCK_\n好朋友：@0803SUHONG @zou_hua62172 @hynsug_aaugcx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 82,
+                "username": "SUNSET_ROCK_"
+              },
+              {
+                "end": 111,
+                "start": 100,
+                "username": "0803SUHONG"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "zou_hua62172"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "hynsug_aaugcx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+yZ4u21Oez7Y3Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+yZ4u21Oez7Y3ZmQ9",
+                "start": 0,
+                "url": "https://t.co/HPwIfhLJlR"
+              }
+            ]
+          }
+        },
+        "id": "2013233628847980544",
+        "location": "纯绿🚪52/99/150 tele频道在下面",
+        "name": "飞鸟井郁希",
+        "pinned_tweet_id": "2083503232459174093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078508009702268928/p6S16Kqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 255,
+          "like_count": 425,
+          "listed_count": 1,
+          "media_count": 329,
+          "tweet_count": 3329
+        },
+        "url": "https://t.co/HPwIfhLJlR",
+        "username": "Asukai_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

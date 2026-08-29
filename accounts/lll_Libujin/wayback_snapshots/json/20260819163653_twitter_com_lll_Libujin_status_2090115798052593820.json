@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090020402244501504"
+      ],
+      "media_source_tweet_id": [
+        "2090020407625793640"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2090115798052593820",
+    "created_at": "2026-08-19T16:36:53.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T17:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090115798052593820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708990860925472768",
+          "start": 3,
+          "username": "k_on_hbs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PiRdIg4VkP",
+          "end": 43,
+          "expanded_url": "https://x.com/k_on_hbs/status/2090020407625793640/photo/1",
+          "media_key": "3_2090020402244501504",
+          "start": 20,
+          "url": "https://t.co/PiRdIg4VkP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090115798052593820",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090020402244501504"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 171
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090020407625793640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @k_on_hbs: なるほどね https://t.co/PiRdIg4VkP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1469,
+        "media_key": "3_2090020402244501504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQE-e4EaQAAMVmi.jpg",
+        "width": 1728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090020402244501504"
+          ],
+          "media_source_tweet_id": [
+            "2090020407625793640"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2090115798052593820",
+        "created_at": "2026-08-19T16:36:53.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090115798052593820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708990860925472768",
+              "start": 3,
+              "username": "k_on_hbs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PiRdIg4VkP",
+              "end": 43,
+              "expanded_url": "https://x.com/k_on_hbs/status/2090020407625793640/photo/1",
+              "media_key": "3_2090020402244501504",
+              "start": 20,
+              "url": "https://t.co/PiRdIg4VkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090115798052593820",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090020402244501504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 171
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090020407625793640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @k_on_hbs: なるほどね https://t.co/PiRdIg4VkP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090020402244501504"
+          ]
+        },
+        "author_id": "1708990860925472768",
+        "conversation_id": "2090020407625793640",
+        "created_at": "2026-08-19T10:17:50.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090020407625793640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PiRdIg4VkP",
+              "end": 29,
+              "expanded_url": "https://x.com/k_on_hbs/status/2090020407625793640/photo/1",
+              "media_key": "3_2090020402244501504",
+              "start": 6,
+              "url": "https://t.co/PiRdIg4VkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090020407625793640",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090020402244501504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 9850,
+          "like_count": 1157,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 171
+        },
+        "reply_settings": "following",
+        "text": "なるほどね https://t.co/PiRdIg4VkP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "Welcome to Apocalypse.",
+        "most_recent_tweet_id": "2090115798052593820",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 427,
+          "like_count": 7266,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1670
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-02T23:42:36.000Z",
+        "description": "成人済｜年上(☀️🍫)｜引きこもり用@sdtvxp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 18,
+                "username": "sdtvxp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/7j1p70ye9…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/7j1p70ye90df1o73/",
+                "start": 0,
+                "url": "https://t.co/wdxkiYZ0ud"
+              }
+            ]
+          }
+        },
+        "id": "1708990860925472768",
+        "is_identity_verified": false,
+        "location": "相手固定｜FF外通知🔕",
+        "most_recent_tweet_id": "2090020692582642081",
+        "name": "幸福",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1708990860925472768/1781252086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710864893300363264/fc9bv98D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2448,
+          "following_count": 10,
+          "like_count": 1558,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 535
+        },
+        "url": "https://t.co/wdxkiYZ0ud",
+        "username": "k_on_hbs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

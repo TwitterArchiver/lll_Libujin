@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2077293630570766718",
+    "created_at": "2026-07-15T07:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T08:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077297908094001364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1976887419841695744",
+          "start": 0,
+          "username": "Epekeina_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077297908094001364",
+    "in_reply_to_user_id": "1976887419841695744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077293630570766718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Epekeina_ 脑婆你好瘦 割的也好漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077293620055736320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNQHip2bgAAJ7N-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2077293630570766718",
+        "created_at": "2026-07-15T07:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077297908094001364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1976887419841695744",
+              "start": 0,
+              "username": "Epekeina_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077297908094001364",
+        "in_reply_to_user_id": "1976887419841695744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077293630570766718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Epekeina_ 脑婆你好瘦 割的也好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077293620055736320"
+          ]
+        },
+        "author_id": "1976887419841695744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077293630570766718",
+        "created_at": "2026-07-15T07:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T08:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077293630570766718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qyZFrOyFzZ",
+              "end": 29,
+              "expanded_url": "https://x.com/Epekeina_/status/2077293630570766718/photo/1",
+              "media_key": "3_2077293620055736320",
+              "start": 6,
+              "url": "https://t.co/qyZFrOyFzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077293630570766718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "血图预警喔 https://t.co/qyZFrOyFzZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 340,
+          "like_count": 6705,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 1398
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T05:48:06.000Z",
+        "description": "",
+        "id": "1976887419841695744",
+        "location": "⚰️",
+        "name": "Epi",
+        "pinned_tweet_id": "2077267070790848940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976887511948632064/s-ZYyZW7_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 76,
+          "like_count": 1162,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 430
+        },
+        "url": "",
+        "username": "Epekeina_",
+        "verified": true
+      }
+    ]
+  }
+}

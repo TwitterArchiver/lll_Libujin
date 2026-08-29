@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085177896948416512"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2085177904741384402",
+    "created_at": "2026-08-06T01:35:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T02:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085177904741384402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8ipk3BnFVS",
+          "end": 34,
+          "expanded_url": "https://x.com/lll_Libujin/status/2085177904741384402/photo/1",
+          "media_key": "3_2085177896948416512",
+          "start": 11,
+          "url": "https://t.co/8ipk3BnFVS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085177904741384402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于工完了这张 燃尽 https://t.co/8ipk3BnFVS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085177896948416512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAKP-EbQAARq2y.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085177896948416512"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2085177904741384402",
+        "created_at": "2026-08-06T01:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T02:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085177904741384402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ipk3BnFVS",
+              "end": 34,
+              "expanded_url": "https://x.com/lll_Libujin/status/2085177904741384402/photo/1",
+              "media_key": "3_2085177896948416512",
+              "start": 11,
+              "url": "https://t.co/8ipk3BnFVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085177904741384402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于工完了这张 燃尽 https://t.co/8ipk3BnFVS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 408,
+          "like_count": 7135,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 1603
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      }
+    ]
+  }
+}

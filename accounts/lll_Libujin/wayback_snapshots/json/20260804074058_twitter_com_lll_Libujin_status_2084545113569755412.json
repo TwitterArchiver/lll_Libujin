@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084545108285042688"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2084545113569755412",
+    "created_at": "2026-08-04T07:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084545113569755412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MXS3NYzYHJ",
+          "end": 29,
+          "expanded_url": "https://x.com/lll_Libujin/status/2084545113569755412/photo/1",
+          "media_key": "3_2084545108285042688",
+          "start": 6,
+          "url": "https://t.co/MXS3NYzYHJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084545113569755412",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玛德好痛啊 https://t.co/MXS3NYzYHJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084545108285042688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3Ku0mbsAAW5TG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084545108285042688"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2084545113569755412",
+        "created_at": "2026-08-04T07:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084545113569755412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MXS3NYzYHJ",
+              "end": 29,
+              "expanded_url": "https://x.com/lll_Libujin/status/2084545113569755412/photo/1",
+              "media_key": "3_2084545108285042688",
+              "start": 6,
+              "url": "https://t.co/MXS3NYzYHJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084545113569755412",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玛德好痛啊 https://t.co/MXS3NYzYHJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 401,
+          "like_count": 7114,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1577
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084441378428469248"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2084441387865694426",
+    "created_at": "2026-08-04T00:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T01:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084441387865694426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kukOZxP1m7",
+          "end": 40,
+          "expanded_url": "https://x.com/lll_Libujin/status/2084441387865694426/photo/1",
+          "media_key": "3_2084441378428469248",
+          "start": 17,
+          "url": "https://t.co/kukOZxP1m7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084441387865694426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有裸注意⚠️ 感觉好久没拍了🥺🥺 https://t.co/kukOZxP1m7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084441378428469248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1sY8xawAAy2OH.jpg",
+        "width": 1326
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084441378428469248"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2084441387865694426",
+        "created_at": "2026-08-04T00:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084441387865694426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kukOZxP1m7",
+              "end": 40,
+              "expanded_url": "https://x.com/lll_Libujin/status/2084441387865694426/photo/1",
+              "media_key": "3_2084441378428469248",
+              "start": 17,
+              "url": "https://t.co/kukOZxP1m7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084441387865694426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有裸注意⚠️ 感觉好久没拍了🥺🥺 https://t.co/kukOZxP1m7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 405,
+          "like_count": 7113,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1576
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      }
+    ]
+  }
+}

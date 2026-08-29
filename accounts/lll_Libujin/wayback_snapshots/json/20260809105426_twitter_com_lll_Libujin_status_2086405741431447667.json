@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2086400117653848369",
+    "created_at": "2026-08-09T10:54:26.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T11:54:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086405741431447667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1998718271856717826",
+          "start": 0,
+          "username": "PaulaRiver9119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086405741431447667",
+    "in_reply_to_user_id": "1998718271856717826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086400117653848369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaulaRiver9119 这期真是在自虐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2086400117653848369",
+        "created_at": "2026-08-09T10:54:26.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T11:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086405741431447667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1998718271856717826",
+              "start": 0,
+              "username": "PaulaRiver9119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086405741431447667",
+        "in_reply_to_user_id": "1998718271856717826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086400117653848369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulaRiver9119 这期真是在自虐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998718271856717826",
+        "conversation_id": "2086400117653848369",
+        "created_at": "2026-08-09T10:32:06.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T11:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086400117653848369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086400117653848369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哟吼吼吼吼吼我接了两张无偿虐待我自己"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "Welcome to Apocalypse.",
+        "most_recent_tweet_id": "2086405741431447667",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 413,
+          "like_count": 7141,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1621
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-10T11:36:07.000Z",
+        "description": "@guest07080279的影分身👁✋️👁一般发碎碎念有负面预警😈⚠\n/中文ok Eng&日本語＆… 翻译器ok💖💖/\n所以外交大欢迎（？！）\n\n可以叫我V\n会很随缘的fo…如果你想和我玩，给我点赞也完全可以，我会顺着去找你的☺️💕\n随时可以DM我，虽然可能收信不是很及时…\n\n如果你喜欢我的画的话也可以去关注大号呀！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "guest07080279"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guest0708",
+                "end": 23,
+                "expanded_url": "https://ngl.link/guest0708",
+                "start": 0,
+                "url": "https://t.co/l4GGSVahDj"
+              }
+            ]
+          }
+        },
+        "id": "1998718271856717826",
+        "is_identity_verified": false,
+        "location": "向我提问吧💖→",
+        "most_recent_tweet_id": "2086404931205128345",
+        "name": "Vermilion",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1998718271856717826/1786210623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086144344642449408/M1WlOM0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 45,
+          "like_count": 2836,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 689
+        },
+        "url": "https://t.co/l4GGSVahDj",
+        "username": "PaulaRiver9119",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

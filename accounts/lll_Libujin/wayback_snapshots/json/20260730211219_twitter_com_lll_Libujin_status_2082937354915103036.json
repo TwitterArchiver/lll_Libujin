@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2082909261722763711",
+    "created_at": "2026-07-30T21:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T22:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082937354915103036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946149148878852096",
+          "start": 0,
+          "username": "todorokidoya1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082937354915103036",
+    "in_reply_to_user_id": "1946149148878852096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082911066967994397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@todorokidoya1 愿小白找到属于自己的幸福🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2082909261722763711",
+        "created_at": "2026-07-30T21:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T22:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082937354915103036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946149148878852096",
+              "start": 0,
+              "username": "todorokidoya1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082937354915103036",
+        "in_reply_to_user_id": "1946149148878852096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082911066967994397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@todorokidoya1 愿小白找到属于自己的幸福🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946149148878852096",
+        "conversation_id": "2082909261722763711",
+        "created_at": "2026-07-30T19:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T20:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082911066967994397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082911066967994397",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082909261722763711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lll_Libujin 我想要被爱。嗯🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 403,
+          "like_count": 7059,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1544
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T10:05:17.000Z",
+        "description": "如此懦弱…\n\n小号@o0omftft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "o0omftft"
+              }
+            ]
+          }
+        },
+        "id": "1946149148878852096",
+        "location": "绘画世界",
+        "name": "0o0",
+        "pinned_tweet_id": "2079931487265374536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947494571715461120/yN7x2Gqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 591,
+          "like_count": 60115,
+          "listed_count": 0,
+          "media_count": 412,
+          "tweet_count": 4252
+        },
+        "url": "",
+        "username": "todorokidoya1",
+        "verified": true
+      }
+    ]
+  }
+}

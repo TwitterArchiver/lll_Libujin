@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2087481212155940864"
+      ],
+      "media_source_tweet_id": [
+        "2087647310989963579"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2088021283380605053",
+    "created_at": "2026-08-13T21:54:02.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T22:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088021283380605053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "303939260",
+          "start": 3,
+          "username": "GiFShitpost"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GBZTEaoa4P",
+          "end": 40,
+          "expanded_url": "https://x.com/GiFShitpost/status/2087647310989963579/photo/1",
+          "media_key": "16_2087481212155940864",
+          "start": 17,
+          "url": "https://t.co/GBZTEaoa4P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088021283380605053",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "16_2087481212155940864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2766
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087647310989963579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GiFShitpost: https://t.co/GBZTEaoa4P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 206,
+        "media_key": "16_2087481212155940864",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPg5Gj3bUAArFa5.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPg5Gj3bUAArFa5.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2087481212155940864"
+          ]
+        },
+        "author_id": "303939260",
+        "conversation_id": "2087647310989963579",
+        "created_at": "2026-08-12T21:08:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T22:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087647310989963579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GBZTEaoa4P",
+              "end": 23,
+              "expanded_url": "https://x.com/GiFShitpost/status/2087647310989963579/photo/1",
+              "media_key": "16_2087481212155940864",
+              "start": 0,
+              "url": "https://t.co/GBZTEaoa4P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087647310989963579",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2087481212155940864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2376,
+          "impression_count": 522386,
+          "like_count": 20084,
+          "quote_count": 124,
+          "reply_count": 41,
+          "retweet_count": 2766
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GBZTEaoa4P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2087481212155940864"
+          ],
+          "media_source_tweet_id": [
+            "2087647310989963579"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2088021283380605053",
+        "created_at": "2026-08-13T21:54:02.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T22:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088021283380605053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "303939260",
+              "start": 3,
+              "username": "GiFShitpost"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GBZTEaoa4P",
+              "end": 40,
+              "expanded_url": "https://x.com/GiFShitpost/status/2087647310989963579/photo/1",
+              "media_key": "16_2087481212155940864",
+              "start": 17,
+              "url": "https://t.co/GBZTEaoa4P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088021283380605053",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "16_2087481212155940864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2766
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087647310989963579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GiFShitpost: https://t.co/GBZTEaoa4P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "Welcome to Apocalypse.",
+        "most_recent_tweet_id": "2088021283380605053",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 418,
+          "like_count": 7159,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1631
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-05-23T17:28:22.000Z",
+        "description": "Everything cursed in GIF form. Meme history & unhinged shitposting 🤠|| Sometimes videos. Nothing owned by me || Runs by @7490 ~ Sponsored by @Roobet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 120,
+                "username": "7490"
+              },
+              {
+                "end": 148,
+                "start": 141,
+                "username": "Roobet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/gifshitpost?ig…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/gifshitpost?igsh=ZTNmNzF4Z3NtbXVr&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/S1gUv46S9V"
+              }
+            ]
+          }
+        },
+        "id": "303939260",
+        "is_identity_verified": true,
+        "location": "click that follow button",
+        "most_recent_tweet_id": "2088015990412189723",
+        "name": "GIFs Shitpost ⚡️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/303939260/1766013083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2190238327/cbx-jogo__93__normal.gif",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143393,
+          "following_count": 1194,
+          "like_count": 20921,
+          "listed_count": 176,
+          "media_count": 10388,
+          "tweet_count": 13691
+        },
+        "url": "https://t.co/S1gUv46S9V",
+        "username": "GiFShitpost",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

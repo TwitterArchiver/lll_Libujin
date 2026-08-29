@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079260030084452352"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2079260036363321749",
+    "created_at": "2026-07-20T17:39:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T18:39:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079260036363321749"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lbD7PWhZDw",
+          "end": 23,
+          "expanded_url": "https://x.com/lll_Libujin/status/2079260036363321749/photo/1",
+          "media_key": "3_2079260030084452352",
+          "start": 0,
+          "url": "https://t.co/lbD7PWhZDw"
+        },
+        {
+          "display_url": "x.com/lll_libujin/st…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/lll_libujin/status/2079174256999661919",
+          "start": 24,
+          "url": "https://t.co/EVfcoSxCZN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079260036363321749",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079174256999661919",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/lbD7PWhZDw https://t.co/EVfcoSxCZN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 731,
+        "media_key": "3_2079260030084452352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsD-yDaEAAyAqo.jpg",
+        "width": 1024
+      },
+      {
+        "height": 398,
+        "media_key": "3_2079174247935815680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNq19mpasAALczJ.jpg",
+        "width": 398
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079260030084452352"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2079260036363321749",
+        "created_at": "2026-07-20T17:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079260036363321749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lbD7PWhZDw",
+              "end": 23,
+              "expanded_url": "https://x.com/lll_Libujin/status/2079260036363321749/photo/1",
+              "media_key": "3_2079260030084452352",
+              "start": 0,
+              "url": "https://t.co/lbD7PWhZDw"
+            },
+            {
+              "display_url": "x.com/lll_libujin/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/lll_libujin/status/2079174256999661919",
+              "start": 24,
+              "url": "https://t.co/EVfcoSxCZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079260036363321749",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079174256999661919",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/lbD7PWhZDw https://t.co/EVfcoSxCZN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079174247935815680"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2079174256999661919",
+        "created_at": "2026-07-20T11:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079174256999661919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bsohcOhZLy",
+              "end": 29,
+              "expanded_url": "https://x.com/lll_Libujin/status/2079174256999661919/photo/1",
+              "media_key": "3_2079174247935815680",
+              "start": 6,
+              "url": "https://t.co/bsohcOhZLy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079174256999661919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "生了个啥子 https://t.co/bsohcOhZLy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 344,
+          "like_count": 6750,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1417
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      }
+    ]
+  }
+}

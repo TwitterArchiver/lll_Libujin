@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2089501150819316086",
+    "created_at": "2026-08-17T23:54:30.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T00:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089501150819316086"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xxxixixmwt/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/xxxixixmwt/status/2089442629004267892",
+          "start": 19,
+          "url": "https://t.co/GAbxUyTtUx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089501150819316086",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089442629004267892",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "能不能把约稿的钱全退给我，我要买毒品 https://t.co/GAbxUyTtUx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2089501150819316086",
+        "created_at": "2026-08-17T23:54:30.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T00:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089501150819316086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxxixixmwt/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/xxxixixmwt/status/2089442629004267892",
+              "start": 19,
+              "url": "https://t.co/GAbxUyTtUx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089501150819316086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089442629004267892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能不能把约稿的钱全退给我，我要买毒品 https://t.co/GAbxUyTtUx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772860258710622208",
+        "conversation_id": "2089373665309941795",
+        "created_at": "2026-08-17T20:01:57.000Z",
+        "display_text_range": [
+          13,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T21:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089442629004267892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089442629004267892",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089373665309941795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lll_Libujin 能不能把约稿的钱全退给我，我要买毒品"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "Welcome to Apocalypse.",
+        "most_recent_tweet_id": "2089501150819316086",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 425,
+          "like_count": 7232,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1656
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-27T05:36:52.000Z",
+        "description": "叫我笑笑｜无限期休学躺平｜od割手｜双相情感障碍｜沢田纲吉孝女｜同类互fo｜第二人格@xxbxixi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "xxbxixi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xmimi42164",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xmimi42164",
+                "start": 0,
+                "url": "https://t.co/AZm1US1O7D"
+              }
+            ]
+          }
+        },
+        "id": "1772860258710622208",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089495244085891458",
+        "name": "网警",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1772860258710622208/1784965318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031747411186728961/1nfqo_AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 200,
+          "like_count": 4235,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1880
+        },
+        "url": "https://t.co/AZm1US1O7D",
+        "username": "xxxixixmwt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

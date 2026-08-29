@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2087838657424089143",
+    "created_at": "2026-08-13T23:24:11.000Z",
+    "display_text_range": [
+      10,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T00:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088043969737597242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2037736371763257344",
+          "start": 0,
+          "username": "aethxria"
+        },
+        {
+          "end": 15,
+          "id": "1720665183188922368",
+          "start": 10,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088043969737597242",
+    "in_reply_to_user_id": "2037736371763257344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087838657424089143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aethxria @grok 我想要她的视频"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6200,
+        "height": 540,
+        "media_key": "13_1986031748958846977",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1986031748958846977/img/LXEedwyrSrdVfz6l.jpg",
+        "public_metrics": {
+          "view_count": 3522748
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986031748958846977/vid/avc1/320x320/exJUD_DDhtl6_bw8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1986031748958846977/vid/avc1/540x540/aB83LJfLLR0I3l72.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1986031748958846977/pl/jxYCqfKE7bnJ0qPO.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2087838657424089143",
+        "created_at": "2026-08-13T23:24:11.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T00:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088043969737597242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2037736371763257344",
+              "start": 0,
+              "username": "aethxria"
+            },
+            {
+              "end": 15,
+              "id": "1720665183188922368",
+              "start": 10,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088043969737597242",
+        "in_reply_to_user_id": "2037736371763257344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087838657424089143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aethxria @grok 我想要她的视频"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1986031748958846977"
+          ],
+          "media_source_tweet_id": [
+            "1986031760011079881"
+          ]
+        },
+        "author_id": "2037736371763257344",
+        "conversation_id": "2087838657424089143",
+        "created_at": "2026-08-13T09:48:20.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087838657424089143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dD9sO5907k",
+              "end": 84,
+              "expanded_url": "https://x.com/acervodoguinhos/status/1986031760011079881/video/1",
+              "media_key": "13_1986031748958846977",
+              "start": 61,
+              "url": "https://t.co/dD9sO5907k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087838657424089143",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_1986031748958846977"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 540,
+          "impression_count": 150559,
+          "like_count": 19647,
+          "quote_count": 80,
+          "reply_count": 32,
+          "retweet_count": 6161
+        },
+        "reply_settings": "everyone",
+        "text": "odeio quando to de fone de ouvido e ficam interagindo comigo https://t.co/dD9sO5907k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "Welcome to Apocalypse.",
+        "most_recent_tweet_id": "2088043969737597242",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 419,
+          "like_count": 7167,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1633
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T03:40:12.000Z",
+        "description": "zhenya é tec zhenya é pop zhenya é tudo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/8UiT9",
+                "end": 23,
+                "expanded_url": "https://boxd.it/8UiT9",
+                "start": 0,
+                "url": "https://t.co/JhIxNp70CB"
+              }
+            ]
+          }
+        },
+        "id": "2037736371763257344",
+        "is_identity_verified": false,
+        "location": "medvegitova",
+        "most_recent_tweet_id": "2087993022256382248",
+        "name": "klara com k",
+        "pinned_tweet_id": "2043704605184332042",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037736371763257344/1784936432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074252860120768512/hAOtKzO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 548,
+          "like_count": 8802,
+          "listed_count": 6,
+          "media_count": 1130,
+          "tweet_count": 2946
+        },
+        "url": "https://t.co/JhIxNp70CB",
+        "username": "aethxria",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088043989446328706",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8963602,
+          "following_count": 6,
+          "like_count": 130,
+          "listed_count": 7338,
+          "media_count": 9254860,
+          "tweet_count": 135761209
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

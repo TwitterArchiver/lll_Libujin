@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079260717199560705"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2079258486706434501",
+    "created_at": "2026-07-20T17:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T18:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079260735906210164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1564990471327215619",
+          "start": 0,
+          "username": "bisco91395061"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tzii62uREW",
+          "end": 47,
+          "expanded_url": "https://x.com/lll_Libujin/status/2079260735906210164/photo/1",
+          "media_key": "3_2079260717199560705",
+          "start": 24,
+          "url": "https://t.co/tzii62uREW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079260735906210164",
+    "in_reply_to_user_id": "1564990471327215619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079258486706434501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bisco91395061 猜你需要的是这个 https://t.co/tzii62uREW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2079260717199560705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsEmxwakAEZ24x.jpg",
+        "width": 429
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079260717199560705"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2079258486706434501",
+        "created_at": "2026-07-20T17:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079260735906210164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tzii62uREW",
+              "end": 47,
+              "expanded_url": "https://x.com/lll_Libujin/status/2079260735906210164/photo/1",
+              "media_key": "3_2079260717199560705",
+              "start": 24,
+              "url": "https://t.co/tzii62uREW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079260735906210164",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079258486706434501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 猜你需要的是这个 https://t.co/tzii62uREW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564990471327215619",
+        "conversation_id": "2079258486706434501",
+        "created_at": "2026-07-20T17:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079258486706434501"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079258486706434501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鼻吸有没有详细点的教程。我现在需要这个，拜托了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 344,
+          "like_count": 6750,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1418
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 402,
+          "like_count": 9829,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 2089
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084631816800186368"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2084631830159089914",
+    "created_at": "2026-08-04T13:25:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T14:25:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084631830159089914"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zgfddMdpuo",
+          "end": 49,
+          "expanded_url": "https://x.com/lll_Libujin/status/2084631830159089914/photo/1",
+          "media_key": "3_2084631816800186368",
+          "start": 26,
+          "url": "https://t.co/zgfddMdpuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084631830159089914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个包装… 记起了一些久远的记忆（其实只是止吐药） https://t.co/zgfddMdpuo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084631816800186368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO4Zl6_aMAAQ4_o.jpg",
+        "width": 1836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084631816800186368"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084631830159089914",
+        "created_at": "2026-08-04T13:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084631830159089914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zgfddMdpuo",
+              "end": 49,
+              "expanded_url": "https://x.com/lll_Libujin/status/2084631830159089914/photo/1",
+              "media_key": "3_2084631816800186368",
+              "start": 26,
+              "url": "https://t.co/zgfddMdpuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084631830159089914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个包装… 记起了一些久远的记忆（其实只是止吐药） https://t.co/zgfddMdpuo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 405,
+          "like_count": 7123,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1584
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080308185639092224"
+      ],
+      "media_source_tweet_id": [
+        "2080308211266302338"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2080309601401237522",
+    "created_at": "2026-07-23T15:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T16:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080309601401237522"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 14,
+          "tag": "巴日和誕生祭2026"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1384412488691699715",
+          "start": 3,
+          "username": "JABE0000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6uDAaHa9id",
+          "end": 49,
+          "expanded_url": "https://x.com/JABE0000/status/2080308211266302338/photo/1",
+          "media_key": "3_2080308185639092224",
+          "start": 26,
+          "url": "https://t.co/6uDAaHa9id"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080309601401237522",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080308211266302338",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JABE0000: #巴日和誕生祭2026 https://t.co/6uDAaHa9id"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2536,
+        "media_key": "3_2080308185639092224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN69RdxbAAAvLdf.jpg",
+        "width": 1591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080308185639092224"
+          ]
+        },
+        "author_id": "1384412488691699715",
+        "conversation_id": "2080308211266302338",
+        "created_at": "2026-07-23T15:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080308211266302338"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "巴日和誕生祭2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6uDAaHa9id",
+              "end": 35,
+              "expanded_url": "https://x.com/JABE0000/status/2080308211266302338/photo/1",
+              "media_key": "3_2080308185639092224",
+              "start": 12,
+              "url": "https://t.co/6uDAaHa9id"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080308211266302338",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 750,
+          "like_count": 138,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "#巴日和誕生祭2026 https://t.co/6uDAaHa9id"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080308185639092224"
+          ],
+          "media_source_tweet_id": [
+            "2080308211266302338"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2080309601401237522",
+        "created_at": "2026-07-23T15:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080309601401237522"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 14,
+              "tag": "巴日和誕生祭2026"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1384412488691699715",
+              "start": 3,
+              "username": "JABE0000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6uDAaHa9id",
+              "end": 49,
+              "expanded_url": "https://x.com/JABE0000/status/2080308211266302338/photo/1",
+              "media_key": "3_2080308185639092224",
+              "start": 26,
+              "url": "https://t.co/6uDAaHa9id"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080309601401237522",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080308211266302338",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JABE0000: #巴日和誕生祭2026 https://t.co/6uDAaHa9id"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 354,
+          "like_count": 6825,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1457
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-20T07:44:04.000Z",
+        "description": "絵の修行中。Edenが大好きです。日和が好き。描きたいものを描く。\n学習．編集．転載禁止\nhttps://t.co/N2EJiVAb7G",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/67705710",
+                "end": 68,
+                "expanded_url": "https://www.pixiv.net/users/67705710",
+                "start": 45,
+                "url": "https://t.co/N2EJiVAb7G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/jabe",
+                "end": 23,
+                "expanded_url": "https://lit.link/jabe",
+                "start": 0,
+                "url": "https://t.co/4toTQRmTQj"
+              }
+            ]
+          }
+        },
+        "id": "1384412488691699715",
+        "name": "JABE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820411800472768512/tbQFKhSX_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11467,
+          "following_count": 62,
+          "like_count": 1288,
+          "listed_count": 54,
+          "media_count": 674,
+          "tweet_count": 1932
+        },
+        "url": "https://t.co/4toTQRmTQj",
+        "username": "JABE0000",
+        "verified": false
+      }
+    ]
+  }
+}

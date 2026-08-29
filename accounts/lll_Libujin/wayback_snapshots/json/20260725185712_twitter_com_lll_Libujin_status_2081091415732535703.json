@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2081089582217707616",
+    "created_at": "2026-07-25T18:57:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T19:57:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081091415732535703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1264965266716323840",
+          "start": 0,
+          "username": "cnOttoLee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081091415732535703",
+    "in_reply_to_user_id": "1264965266716323840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081091162593751317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cnOttoLee ww每次画小祥手感都很好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2081089582217707616",
+        "created_at": "2026-07-25T18:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081091415732535703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1264965266716323840",
+              "start": 0,
+              "username": "cnOttoLee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081091415732535703",
+        "in_reply_to_user_id": "1264965266716323840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081091162593751317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cnOttoLee ww每次画小祥手感都很好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1264965266716323840",
+        "conversation_id": "2081089582217707616",
+        "created_at": "2026-07-25T18:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081091162593751317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081091162593751317",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081089582217707616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lll_Libujin 好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 376,
+          "like_count": 6920,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1472
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-25T17:03:29.000Z",
+        "description": "喜欢love live 虹咲❤️→Ai，Karin；bangdream❤️→saya，taki，rin\nre0❤️→库珥修",
+        "id": "1264965266716323840",
+        "location": "ngl.link/lee88542",
+        "name": "Lee_",
+        "pinned_tweet_id": "1575556391837655040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837881553567076358/V9mnFCuY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 590,
+          "like_count": 4593,
+          "listed_count": 3,
+          "media_count": 35,
+          "tweet_count": 406
+        },
+        "url": "",
+        "username": "cnOttoLee",
+        "verified": false
+      }
+    ]
+  }
+}

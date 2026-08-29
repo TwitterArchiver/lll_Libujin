@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2088314403523609035",
+    "created_at": "2026-08-14T17:18:47.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T18:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088314403523609035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1947800363752386560",
+          "start": 3,
+          "username": "xiao_zhibei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088314403523609035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 134
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087794265959371095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiao_zhibei: 其实很多时候说一些特别自毁的话其实是在讨爱和关注"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2088314403523609035",
+        "created_at": "2026-08-14T17:18:47.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T18:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088314403523609035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1947800363752386560",
+              "start": 3,
+              "username": "xiao_zhibei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088314403523609035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 134
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087794265959371095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiao_zhibei: 其实很多时候说一些特别自毁的话其实是在讨爱和关注"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947800363752386560",
+        "conversation_id": "2087794265959371095",
+        "created_at": "2026-08-13T06:51:57.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T07:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087794265959371095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087794265959371095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 19493,
+          "like_count": 748,
+          "quote_count": 18,
+          "reply_count": 155,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "其实很多时候说一些特别自毁的话其实是在讨爱和关注"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "Welcome to Apocalypse.",
+        "most_recent_tweet_id": "2088314403523609035",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 417,
+          "like_count": 7175,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1635
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-22T23:26:23.000Z",
+        "description": "",
+        "id": "1947800363752386560",
+        "is_identity_verified": false,
+        "location": "🚪188/288/388/520",
+        "most_recent_tweet_id": "2088216227839951250",
+        "name": "米子Zzz.",
+        "pinned_tweet_id": "2053119484140155216",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1947800363752386560/1767515714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066176031258763264/xmTCSse2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2159,
+          "following_count": 63,
+          "like_count": 2481,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 293
+        },
+        "url": "",
+        "username": "xiao_zhibei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2092454539718983939",
+    "created_at": "2026-08-26T12:30:36.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T13:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092590535257260094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1676982031253901313",
+          "start": 0,
+          "username": "Saegusa_77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092590535257260094",
+    "in_reply_to_user_id": "1676982031253901313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092454539718983939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Saegusa_77 啊啊啊什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2092454539718983939",
+        "created_at": "2026-08-26T12:30:36.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092590535257260094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1676982031253901313",
+              "start": 0,
+              "username": "Saegusa_77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092590535257260094",
+        "in_reply_to_user_id": "1676982031253901313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092454539718983939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Saegusa_77 啊啊啊什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676982031253901313",
+        "conversation_id": "2092454539718983939",
+        "created_at": "2026-08-26T03:30:12.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092454539718983939"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092454539718983939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个假激发好好玩好软萌好想推荐给理不尽"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2092590535257260094",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 317,
+          "like_count": 7308,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 735
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-06T15:52:15.000Z",
+        "description": "",
+        "id": "1676982031253901313",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092504578688516513",
+        "name": "我不到啊",
+        "pinned_tweet_id": "2092467295771832692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676982031253901313/1787718787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091128700507230208/xEmL7ikC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 554,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 327
+        },
+        "url": "",
+        "username": "Saegusa_77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

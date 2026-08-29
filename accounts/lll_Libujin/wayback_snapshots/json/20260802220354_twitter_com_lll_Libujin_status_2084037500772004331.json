@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083816901793480706"
+      ],
+      "media_source_tweet_id": [
+        "2083817474819244513"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2084037500772004331",
+    "created_at": "2026-08-02T22:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T23:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084037500772004331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1952375901565636608",
+          "start": 3,
+          "username": "sdota_ppp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9gX9Xz3kQH",
+          "end": 50,
+          "expanded_url": "https://x.com/sdota_ppp/status/2083817474819244513/photo/1",
+          "media_key": "3_2083816901793480706",
+          "start": 27,
+          "url": "https://t.co/9gX9Xz3kQH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084037500772004331",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083817474819244513",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sdota_ppp: 今日見た可愛かったﾔﾂ https://t.co/9gX9Xz3kQH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1222,
+        "media_key": "3_2083816901793480706",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOs0boBbAAIt1dX.jpg",
+        "width": 1048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083816901793480706"
+          ]
+        },
+        "author_id": "1952375901565636608",
+        "conversation_id": "2083817474819244513",
+        "created_at": "2026-08-02T07:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083817474819244513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9gX9Xz3kQH",
+              "end": 35,
+              "expanded_url": "https://x.com/sdota_ppp/status/2083817474819244513/photo/1",
+              "media_key": "3_2083816901793480706",
+              "start": 12,
+              "url": "https://t.co/9gX9Xz3kQH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083817474819244513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 28096,
+          "like_count": 2178,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "今日見た可愛かったﾔﾂ https://t.co/9gX9Xz3kQH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083816901793480706"
+          ],
+          "media_source_tweet_id": [
+            "2083817474819244513"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2084037500772004331",
+        "created_at": "2026-08-02T22:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T23:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084037500772004331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1952375901565636608",
+              "start": 3,
+              "username": "sdota_ppp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9gX9Xz3kQH",
+              "end": 50,
+              "expanded_url": "https://x.com/sdota_ppp/status/2083817474819244513/photo/1",
+              "media_key": "3_2083816901793480706",
+              "start": 27,
+              "url": "https://t.co/9gX9Xz3kQH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084037500772004331",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083817474819244513",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sdota_ppp: 今日見た可愛かったﾔﾂ https://t.co/9gX9Xz3kQH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 403,
+          "like_count": 7073,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1563
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T14:27:58.000Z",
+        "description": "とうもろこしになりたい",
+        "id": "1952375901565636608",
+        "location": "fine中心で研修中",
+        "name": "すどろ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035695315563823104/UAL2ZpHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1452,
+          "following_count": 17,
+          "like_count": 2994,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "sdota_ppp",
+        "verified": false
+      }
+    ]
+  }
+}

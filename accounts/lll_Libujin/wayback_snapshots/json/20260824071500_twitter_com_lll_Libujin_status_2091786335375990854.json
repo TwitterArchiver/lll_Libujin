@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2091771423698428295",
+    "created_at": "2026-08-24T07:15:00.000Z",
+    "display_text_range": [
+      10,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T08:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091786335375990854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1656617197253578752",
+          "start": 0,
+          "username": "ywl88888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091786335375990854",
+    "in_reply_to_user_id": "1656617197253578752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091776274582950021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ywl88888 木有事 我的屁股翘到可以顶起一瓶汽水（什"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2091771423698428295",
+        "created_at": "2026-08-24T07:15:00.000Z",
+        "display_text_range": [
+          10,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T08:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091786335375990854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1656617197253578752",
+              "start": 0,
+              "username": "ywl88888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091786335375990854",
+        "in_reply_to_user_id": "1656617197253578752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091776274582950021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ywl88888 木有事 我的屁股翘到可以顶起一瓶汽水（什"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656617197253578752",
+        "conversation_id": "2091771423698428295",
+        "created_at": "2026-08-24T06:35:01.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091776274582950021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091776274582950021",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091771423698428295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lll_Libujin 下次带个坐垫喵～"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2091786335375990854",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 320,
+          "like_count": 7291,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 722
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-11T11:08:32.000Z",
+        "description": "INFP-T｜成分复杂｜重抑轻焦｜不o不割遵医嘱吃药中｜全友好",
+        "id": "1656617197253578752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091777898294468817",
+        "name": "冥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1656617197253578752/1783204987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073878294278328320/a_mtCV5n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 61,
+          "like_count": 1126,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "ywl88888",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

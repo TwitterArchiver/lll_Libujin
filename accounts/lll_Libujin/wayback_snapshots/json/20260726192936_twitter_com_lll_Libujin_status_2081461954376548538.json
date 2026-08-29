@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081022762085490688"
+      ],
+      "media_source_tweet_id": [
+        "2081022846093119740"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2081461954376548538",
+    "created_at": "2026-07-26T19:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T20:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081461954376548538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911042954606911488",
+          "start": 3,
+          "username": "jaja_n_next"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KGPhXjGUTj",
+          "end": 49,
+          "expanded_url": "https://x.com/jaja_n_next/status/2081022846093119740/photo/1",
+          "media_key": "3_2081022762085490688",
+          "start": 26,
+          "url": "https://t.co/KGPhXjGUTj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081461954376548538",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 129
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081022846093119740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jaja_n_next: 本当になに❓❓❓ https://t.co/KGPhXjGUTj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081022762085490688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFHLSeboAA0den.jpg",
+        "width": 1450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081022762085490688"
+          ]
+        },
+        "author_id": "1911042954606911488",
+        "conversation_id": "2081022846093119740",
+        "created_at": "2026-07-25T14:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081022846093119740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KGPhXjGUTj",
+              "end": 32,
+              "expanded_url": "https://x.com/jaja_n_next/status/2081022846093119740/photo/1",
+              "media_key": "3_2081022762085490688",
+              "start": 9,
+              "url": "https://t.co/KGPhXjGUTj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081022846093119740",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 22731,
+          "like_count": 1532,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "本当になに❓❓❓ https://t.co/KGPhXjGUTj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081022762085490688"
+          ],
+          "media_source_tweet_id": [
+            "2081022846093119740"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2081461954376548538",
+        "created_at": "2026-07-26T19:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T20:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081461954376548538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911042954606911488",
+              "start": 3,
+              "username": "jaja_n_next"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KGPhXjGUTj",
+              "end": 49,
+              "expanded_url": "https://x.com/jaja_n_next/status/2081022846093119740/photo/1",
+              "media_key": "3_2081022762085490688",
+              "start": 26,
+              "url": "https://t.co/KGPhXjGUTj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081461954376548538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081022846093119740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jaja_n_next: 本当になに❓❓❓ https://t.co/KGPhXjGUTj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 381,
+          "like_count": 6955,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1479
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-12T13:05:37.000Z",
+        "description": "幻覚垂れ流し屋さん / 🅿️ https://t.co/0XaCDgNaLH / Do not use and reupload my art.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/117567539",
+                "end": 38,
+                "expanded_url": "https://www.pixiv.net/users/117567539",
+                "start": 15,
+                "url": "https://t.co/0XaCDgNaLH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/jaja_n_next",
+                "end": 23,
+                "expanded_url": "https://lit.link/jaja_n_next",
+                "start": 0,
+                "url": "https://t.co/luu362Rryk"
+              }
+            ]
+          }
+        },
+        "id": "1911042954606911488",
+        "name": "ｼﾞｬｼﾞｬｰﾝ!!",
+        "pinned_tweet_id": "2023020033518215391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961267360809328640/KNnbPe2J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 0,
+          "like_count": 6,
+          "listed_count": 2,
+          "media_count": 180,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/luu362Rryk",
+        "username": "jaja_n_next",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2080358578591006970",
+    "created_at": "2026-07-29T18:37:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:37:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082536071385289053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1592697440343162880",
+          "start": 0,
+          "username": "akenohotaru"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Available on iOS",
+          "display_url": "testflight.apple.com/join/4vcA7dY3",
+          "end": 36,
+          "expanded_url": "https://testflight.apple.com/join/4vcA7dY3",
+          "images": [
+            {
+              "height": 1080,
+              "url": "https://pbs.twimg.com/news_img/2082007467236659200/xEXLOPVB?format=jpg&name=orig",
+              "width": 1080
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2082007467236659200/xEXLOPVB?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 13,
+          "status": 200,
+          "title": "Join the Piru beta",
+          "unwound_url": "https://testflight.apple.com/join/4vcA7dY3",
+          "url": "https://t.co/1UE1WDQJq4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082536071385289053",
+    "in_reply_to_user_id": "1592697440343162880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082535528323543131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akenohotaru https://t.co/1UE1WDQJq4\n这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2080358578591006970",
+        "created_at": "2026-07-29T18:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082536071385289053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592697440343162880",
+              "start": 0,
+              "username": "akenohotaru"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Available on iOS",
+              "display_url": "testflight.apple.com/join/4vcA7dY3",
+              "end": 36,
+              "expanded_url": "https://testflight.apple.com/join/4vcA7dY3",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/2082007467236659200/xEXLOPVB?format=jpg&name=orig",
+                  "width": 1080
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2082007467236659200/xEXLOPVB?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 13,
+              "status": 200,
+              "title": "Join the Piru beta",
+              "unwound_url": "https://testflight.apple.com/join/4vcA7dY3",
+              "url": "https://t.co/1UE1WDQJq4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082536071385289053",
+        "in_reply_to_user_id": "1592697440343162880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082535528323543131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akenohotaru https://t.co/1UE1WDQJq4\n这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592697440343162880",
+        "conversation_id": "2080358578591006970",
+        "created_at": "2026-07-29T18:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082535528323543131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082535528323543131",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080358578591006970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lll_Libujin 这软件不错呀，能推荐一下吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 402,
+          "like_count": 7038,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1525
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T01:54:11.000Z",
+        "description": "od/热爱解离，gaba类，苯丙胺类/音游痴/术力口/生物/化学/药理/互fo，来找我聊天吧（求求你了）₍ᵔ•ᴗ•ᵔ₎",
+        "id": "1592697440343162880",
+        "name": "hotaru",
+        "pinned_tweet_id": "1928846227791294534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926727434595942400/rPrc1BdV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 141,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 619
+        },
+        "url": "",
+        "username": "akenohotaru",
+        "verified": false
+      }
+    ]
+  }
+}
