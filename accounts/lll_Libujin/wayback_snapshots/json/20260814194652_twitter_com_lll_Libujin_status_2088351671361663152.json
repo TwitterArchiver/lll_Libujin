@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088150894374486016"
+      ],
+      "media_source_tweet_id": [
+        "2088150904033951757"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2088351671361663152",
+    "created_at": "2026-08-14T19:46:52.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T20:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088351671361663152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1689574303577350144",
+          "start": 3,
+          "username": "Chenguang3147"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zvo90iMXFs",
+          "end": 42,
+          "expanded_url": "https://x.com/Chenguang3147/status/2088150904033951757/photo/1",
+          "media_key": "3_2088150894374486016",
+          "start": 19,
+          "url": "https://t.co/Zvo90iMXFs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088351671361663152",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2088150894374486016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088150904033951757",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chenguang3147: https://t.co/Zvo90iMXFs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1083,
+        "media_key": "3_2088150894374486016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqaLMibAAApeEJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088150894374486016"
+          ],
+          "media_source_tweet_id": [
+            "2088150904033951757"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2088351671361663152",
+        "created_at": "2026-08-14T19:46:52.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T20:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088351671361663152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1689574303577350144",
+              "start": 3,
+              "username": "Chenguang3147"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zvo90iMXFs",
+              "end": 42,
+              "expanded_url": "https://x.com/Chenguang3147/status/2088150904033951757/photo/1",
+              "media_key": "3_2088150894374486016",
+              "start": 19,
+              "url": "https://t.co/Zvo90iMXFs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088351671361663152",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088150894374486016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088150904033951757",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chenguang3147: https://t.co/Zvo90iMXFs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088150894374486016"
+          ]
+        },
+        "author_id": "1689574303577350144",
+        "conversation_id": "2088150904033951757",
+        "created_at": "2026-08-14T06:29:06.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T07:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088150904033951757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zvo90iMXFs",
+              "end": 23,
+              "expanded_url": "https://x.com/Chenguang3147/status/2088150904033951757/photo/1",
+              "media_key": "3_2088150894374486016",
+              "start": 0,
+              "url": "https://t.co/Zvo90iMXFs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088150904033951757",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088150894374486016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 38017,
+          "like_count": 1018,
+          "quote_count": 21,
+          "reply_count": 103,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Zvo90iMXFs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "Welcome to Apocalypse.",
+        "most_recent_tweet_id": "2088351671361663152",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 418,
+          "like_count": 7185,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1636
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-10T09:48:17.000Z",
+        "description": "“这似乎从来都不是问题，\n我想这是你发挥了创意的缘故”",
+        "id": "1689574303577350144",
+        "is_identity_verified": false,
+        "location": "三千米   八英里",
+        "most_recent_tweet_id": "2088150904033951757",
+        "name": "陈梧桐",
+        "pinned_tweet_id": "2001325306498666541",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1689574303577350144/1717244386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005096337470074881/KAnzpDKE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 220,
+          "like_count": 5199,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 2382
+        },
+        "url": "",
+        "username": "Chenguang3147",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

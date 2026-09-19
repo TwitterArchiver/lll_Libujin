@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094022481103482881"
+      ],
+      "media_source_tweet_id": [
+        "2094022491027186144"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094057636039926204",
+    "created_at": "2026-08-30T13:40:20.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T14:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094057636039926204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1213855342909480960",
+          "start": 3,
+          "username": "ciMo_cY_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PZL5Qrdq5y",
+          "end": 37,
+          "expanded_url": "https://x.com/ciMo_cY_/status/2094022491027186144/photo/1",
+          "media_key": "3_2094022481103482881",
+          "start": 14,
+          "url": "https://t.co/PZL5Qrdq5y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094057636039926204",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2094022481103482881"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 345
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094022491027186144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ciMo_cY_: https://t.co/PZL5Qrdq5y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1972,
+        "media_key": "3_2094022481103482881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ92Whna8AE0jrk.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094022481103482881"
+          ],
+          "media_source_tweet_id": [
+            "2094022491027186144"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094057636039926204",
+        "created_at": "2026-08-30T13:40:20.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094057636039926204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1213855342909480960",
+              "start": 3,
+              "username": "ciMo_cY_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PZL5Qrdq5y",
+              "end": 37,
+              "expanded_url": "https://x.com/ciMo_cY_/status/2094022491027186144/photo/1",
+              "media_key": "3_2094022481103482881",
+              "start": 14,
+              "url": "https://t.co/PZL5Qrdq5y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094057636039926204",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2094022481103482881"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 345
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094022491027186144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ciMo_cY_: https://t.co/PZL5Qrdq5y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094022481103482881"
+          ]
+        },
+        "author_id": "1213855342909480960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094022491027186144",
+        "created_at": "2026-08-30T11:20:41.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T12:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094022491027186144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PZL5Qrdq5y",
+              "end": 23,
+              "expanded_url": "https://x.com/ciMo_cY_/status/2094022491027186144/photo/1",
+              "media_key": "3_2094022481103482881",
+              "start": 0,
+              "url": "https://t.co/PZL5Qrdq5y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094022491027186144",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2094022481103482881"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 12715,
+          "like_count": 2346,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 345
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PZL5Qrdq5y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2094057636039926204",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 312,
+          "like_count": 7331,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 747
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-05T16:10:50.000Z",
+        "description": "✟｜FA",
+        "id": "1213855342909480960",
+        "is_identity_verified": false,
+        "location": "ましもですよ  転載・AI× ",
+        "most_recent_tweet_id": "2094022839171170798",
+        "name": "マ下",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1213855342909480960/1753977833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058586480843583488/i-xRdRrj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11481,
+          "following_count": 79,
+          "like_count": 5159,
+          "listed_count": 18,
+          "media_count": 88,
+          "tweet_count": 907
+        },
+        "url": "",
+        "username": "ciMo_cY_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

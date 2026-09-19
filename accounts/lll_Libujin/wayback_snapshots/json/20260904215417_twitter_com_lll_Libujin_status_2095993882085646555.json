@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2095993882085646555",
+    "created_at": "2026-09-04T21:54:17.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T22:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095993882085646555"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2095993882085646555",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有时候想写日记 发现自己的生活无聊到没有什么好记录的就作罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2095993882085646555",
+        "created_at": "2026-09-04T21:54:17.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T22:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095993882085646555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095993882085646555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候想写日记 发现自己的生活无聊到没有什么好记录的就作罢了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2095993882085646555",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 324,
+          "like_count": 7370,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 769
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

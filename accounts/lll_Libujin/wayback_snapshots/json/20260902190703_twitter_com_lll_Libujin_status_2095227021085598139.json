@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095227015536443392"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2095227021085598139",
+    "created_at": "2026-09-02T19:07:03.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T20:07:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095227021085598139"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pOOPpegSLs",
+          "end": 39,
+          "expanded_url": "https://x.com/lll_Libujin/status/2095227021085598139/photo/1",
+          "media_key": "3_2095227015536443392",
+          "start": 16,
+          "url": "https://t.co/pOOPpegSLs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095227021085598139",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095227015536443392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "然后呢 我焦虑了又很想花钱，， https://t.co/pOOPpegSLs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 245,
+        "media_key": "3_2095227015536443392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRO93qDaAAAfMWD.jpg",
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095227015536443392"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2095227021085598139",
+        "created_at": "2026-09-02T19:07:03.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T20:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095227021085598139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pOOPpegSLs",
+              "end": 39,
+              "expanded_url": "https://x.com/lll_Libujin/status/2095227021085598139/photo/1",
+              "media_key": "3_2095227015536443392",
+              "start": 16,
+              "url": "https://t.co/pOOPpegSLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095227021085598139",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095227015536443392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "然后呢 我焦虑了又很想花钱，， https://t.co/pOOPpegSLs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2095227021085598139",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 318,
+          "like_count": 7352,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 758
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

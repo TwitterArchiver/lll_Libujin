@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100278815696289792"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2100278821492781347",
+    "created_at": "2026-09-16T17:41:06.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T18:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100278821492781347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZisFR03vuy",
+          "end": 48,
+          "expanded_url": "https://x.com/lll_Libujin/status/2100278821492781347/photo/1",
+          "media_key": "3_2100278815696289792",
+          "start": 25,
+          "url": "https://t.co/ZisFR03vuy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100278821492781347",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100278815696289792"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没有太多吧…我不确定 我只是想要世界被我遗忘片刻 https://t.co/ZisFR03vuy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100278815696289792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWwdILbAAAhBlo.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100278815696289792"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100278821492781347",
+        "created_at": "2026-09-16T17:41:06.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T18:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100278821492781347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZisFR03vuy",
+              "end": 48,
+              "expanded_url": "https://x.com/lll_Libujin/status/2100278821492781347/photo/1",
+              "media_key": "3_2100278815696289792",
+              "start": 25,
+              "url": "https://t.co/ZisFR03vuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100278821492781347",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100278815696289792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有太多吧…我不确定 我只是想要世界被我遗忘片刻 https://t.co/ZisFR03vuy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2100278821492781347",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 349,
+          "like_count": 7542,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 821
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

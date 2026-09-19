@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086470621106692096"
+      ],
+      "media_source_tweet_id": [
+        "2086470626282541150"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2088016381031961056",
+    "created_at": "2026-08-13T21:34:33.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T22:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088016381031961056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1522560861507780608",
+          "start": 3,
+          "username": "bdqbr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q5g9XCADVQ",
+          "end": 36,
+          "expanded_url": "https://x.com/bdqbr/status/2086470626282541150/photo/1",
+          "media_key": "3_2086470621106692096",
+          "start": 13,
+          "url": "https://t.co/Q5g9XCADVQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088016381031961056",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "3_2086470621106692096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 333
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086470626282541150",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bdqbr: 쿵 https://t.co/Q5g9XCADVQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1524,
+        "media_key": "3_2086470621106692096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSh-a1aYAALUX3.jpg",
+        "width": 997
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086470621106692096"
+          ]
+        },
+        "author_id": "1522560861507780608",
+        "conversation_id": "2086470626282541150",
+        "created_at": "2026-08-09T15:12:16.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T16:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086470626282541150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q5g9XCADVQ",
+              "end": 25,
+              "expanded_url": "https://x.com/bdqbr/status/2086470626282541150/photo/1",
+              "media_key": "3_2086470621106692096",
+              "start": 2,
+              "url": "https://t.co/Q5g9XCADVQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086470626282541150",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2086470621106692096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 24604,
+          "like_count": 1365,
+          "quote_count": 98,
+          "reply_count": 0,
+          "retweet_count": 333
+        },
+        "reply_settings": "everyone",
+        "text": "쿵 https://t.co/Q5g9XCADVQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086470621106692096"
+          ],
+          "media_source_tweet_id": [
+            "2086470626282541150"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2088016381031961056",
+        "created_at": "2026-08-13T21:34:33.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T22:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088016381031961056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1522560861507780608",
+              "start": 3,
+              "username": "bdqbr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q5g9XCADVQ",
+              "end": 36,
+              "expanded_url": "https://x.com/bdqbr/status/2086470626282541150/photo/1",
+              "media_key": "3_2086470621106692096",
+              "start": 13,
+              "url": "https://t.co/Q5g9XCADVQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088016381031961056",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "3_2086470621106692096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 333
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086470626282541150",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bdqbr: 쿵 https://t.co/Q5g9XCADVQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "Welcome to Apocalypse.",
+        "most_recent_tweet_id": "2088016381031961056",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 418,
+          "like_count": 7155,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1630
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-06T12:56:17.000Z",
+        "description": "https://t.co/zHzsPjMWPE 🗝️@coqcr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 26,
+                "username": "coqcr"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/bdqbr",
+                "end": 23,
+                "expanded_url": "https://lit.link/bdqbr",
+                "start": 0,
+                "url": "https://t.co/zHzsPjMWPE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/bdqbr",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/bdqbr",
+                "start": 0,
+                "url": "https://t.co/c8plgQxFuu"
+              }
+            ]
+          }
+        },
+        "id": "1522560861507780608",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087934672148054521",
+        "name": "비짱",
+        "pinned_tweet_id": "1792186997689499738",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522560861507780608/1779719839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609533161918312449/T-X8YENc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14228,
+          "following_count": 12,
+          "like_count": 507,
+          "listed_count": 37,
+          "media_count": 703,
+          "tweet_count": 1444
+        },
+        "url": "https://t.co/c8plgQxFuu",
+        "username": "bdqbr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

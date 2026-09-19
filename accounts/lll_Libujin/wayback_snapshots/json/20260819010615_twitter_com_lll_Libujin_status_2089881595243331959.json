@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089851177068363776"
+      ],
+      "media_source_tweet_id": [
+        "2089851201198096779"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2089881595243331959",
+    "created_at": "2026-08-19T01:06:15.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T02:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089881595243331959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815784330033311744",
+          "start": 3,
+          "username": "RANNAGlSA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QlJk87S0Qy",
+          "end": 62,
+          "expanded_url": "https://x.com/RANNAGlSA/status/2089851201198096779/video/1",
+          "media_key": "13_2089851177068363776",
+          "start": 39,
+          "url": "https://t.co/QlJk87S0Qy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089881595243331959",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2089851177068363776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089851201198096779",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RANNAGlSA: its all over the screen https://t.co/QlJk87S0Qy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5183,
+        "height": 720,
+        "media_key": "13_2089851177068363776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089851177068363776/img/0OniqWTgTGvVWIUh.jpg",
+        "public_metrics": {
+          "view_count": 3372
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089851177068363776/vid/avc1/480x270/hXz2oDf8ZELhZxc6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089851177068363776/vid/avc1/640x360/338TFhu23BpN13QK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089851177068363776/vid/avc1/1280x720/Au_mu8jDO2XTlOC9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089851177068363776/pl/O9Ia6KHGq3FBHg6F.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089851177068363776"
+          ],
+          "media_source_tweet_id": [
+            "2089851201198096779"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2089881595243331959",
+        "created_at": "2026-08-19T01:06:15.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T02:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089881595243331959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815784330033311744",
+              "start": 3,
+              "username": "RANNAGlSA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QlJk87S0Qy",
+              "end": 62,
+              "expanded_url": "https://x.com/RANNAGlSA/status/2089851201198096779/video/1",
+              "media_key": "13_2089851177068363776",
+              "start": 39,
+              "url": "https://t.co/QlJk87S0Qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089881595243331959",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2089851177068363776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089851201198096779",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RANNAGlSA: its all over the screen https://t.co/QlJk87S0Qy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089851177068363776"
+          ]
+        },
+        "author_id": "1815784330033311744",
+        "conversation_id": "2089851201198096779",
+        "created_at": "2026-08-18T23:05:28.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T00:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089851201198096779"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QlJk87S0Qy",
+              "end": 47,
+              "expanded_url": "https://x.com/RANNAGlSA/status/2089851201198096779/video/1",
+              "media_key": "13_2089851177068363776",
+              "start": 24,
+              "url": "https://t.co/QlJk87S0Qy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089851201198096779",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2089851177068363776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 6529,
+          "like_count": 449,
+          "quote_count": 19,
+          "reply_count": 2,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "its all over the screen https://t.co/QlJk87S0Qy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "Welcome to Apocalypse.",
+        "most_recent_tweet_id": "2089881595243331959",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 433,
+          "like_count": 7264,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1667
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-23T16:21:42.000Z",
+        "description": "adam+chitose yume🤍🩷💙 ESU GLAZER #1 ★ edenP esuP knightsP chitoseP ★ 👾🦅 ★ xp!a りうくん🧡",
+        "id": "1815784330033311744",
+        "is_identity_verified": false,
+        "location": "he/him ★ 21↑",
+        "most_recent_tweet_id": "2089861796857315458",
+        "name": "marcus MISSES ADAM🧡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1815784330033311744/1780793977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087870464148336640/9TE5fhfR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 389,
+          "like_count": 29391,
+          "listed_count": 1,
+          "media_count": 2829,
+          "tweet_count": 17976
+        },
+        "url": "",
+        "username": "RANNAGlSA",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

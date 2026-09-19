@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100189361002487808"
+      ],
+      "media_source_tweet_id": [
+        "2100189365645521079"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2100256931701293320",
+    "created_at": "2026-09-16T16:14:08.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T17:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100256931701293320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2059247314578149376",
+          "start": 3,
+          "username": "r24ankou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NSnCQFtwnI",
+          "end": 37,
+          "expanded_url": "https://x.com/r24ankou/status/2100189365645521079/photo/1",
+          "media_key": "3_2100189361002487808",
+          "start": 14,
+          "url": "https://t.co/NSnCQFtwnI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100256931701293320",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2100189361002487808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100189365645521079",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @r24ankou: https://t.co/NSnCQFtwnI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2732,
+        "media_key": "3_2100189361002487808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVfGLeboAACX72.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100189361002487808"
+          ],
+          "media_source_tweet_id": [
+            "2100189365645521079"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2100256931701293320",
+        "created_at": "2026-09-16T16:14:08.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T17:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100256931701293320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2059247314578149376",
+              "start": 3,
+              "username": "r24ankou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NSnCQFtwnI",
+              "end": 37,
+              "expanded_url": "https://x.com/r24ankou/status/2100189365645521079/photo/1",
+              "media_key": "3_2100189361002487808",
+              "start": 14,
+              "url": "https://t.co/NSnCQFtwnI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100256931701293320",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2100189361002487808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100189365645521079",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @r24ankou: https://t.co/NSnCQFtwnI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100189361002487808"
+          ]
+        },
+        "author_id": "2059247314578149376",
+        "conversation_id": "2100189365645521079",
+        "created_at": "2026-09-16T11:45:39.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T12:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100189365645521079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NSnCQFtwnI",
+              "end": 23,
+              "expanded_url": "https://x.com/r24ankou/status/2100189365645521079/photo/1",
+              "media_key": "3_2100189361002487808",
+              "start": 0,
+              "url": "https://t.co/NSnCQFtwnI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100189365645521079",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2100189361002487808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 5057,
+          "like_count": 517,
+          "quote_count": 8,
+          "reply_count": 1,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NSnCQFtwnI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2100256931701293320",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 349,
+          "like_count": 7540,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 819
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T12:17:26.000Z",
+        "description": "Basic初期を生きた出戻り社会人P（30↑）たまに絵を描く。めちゃくちゃ自我。🔞\n自分、雑食野郎で本当に良かったです☆\nスケベはポイピクに↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "poipiku.com/2436058/",
+                "end": 23,
+                "expanded_url": "https://poipiku.com/2436058/",
+                "start": 0,
+                "url": "https://t.co/wZjbZdRO1R"
+              }
+            ]
+          }
+        },
+        "id": "2059247314578149376",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100239981352816939",
+        "name": "まつり",
+        "pinned_tweet_id": "2079535265979527295",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059247314578149376/1779798432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059248310142312448/ArIJ8GpD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 161,
+          "like_count": 3565,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 4854
+        },
+        "url": "https://t.co/wZjbZdRO1R",
+        "username": "r24ankou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

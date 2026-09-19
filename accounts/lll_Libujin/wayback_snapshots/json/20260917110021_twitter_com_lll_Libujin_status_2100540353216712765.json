@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2100538714162339986",
+    "created_at": "2026-09-17T11:00:21.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T12:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100540353216712765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2083201699934867456",
+          "start": 0,
+          "username": "toxicate01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100540353216712765",
+    "in_reply_to_user_id": "2083201699934867456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100538714162339986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toxicate01 当饭吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2100538714162339986",
+        "created_at": "2026-09-17T11:00:21.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T12:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100540353216712765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2083201699934867456",
+              "start": 0,
+              "username": "toxicate01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100540353216712765",
+        "in_reply_to_user_id": "2083201699934867456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100538714162339986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toxicate01 当饭吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083201699934867456",
+        "conversation_id": "2100538714162339986",
+        "created_at": "2026-09-17T10:53:50.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100538714162339986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100538714162339986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "平摊下来一天4、50mg1161会不会有点太节制了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2100540353216712765",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 351,
+          "like_count": 7548,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 827
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T14:45:38.000Z",
+        "description": "I𝗋𝗂𝗌 C𝗂𝗇𝗇𝖺𝖻𝖺𝗋 2 Hexa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/toxicate01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/toxicate01",
+                "start": 0,
+                "url": "https://t.co/upBuGjvqg1"
+              }
+            ]
+          }
+        },
+        "id": "2083201699934867456",
+        "is_identity_verified": false,
+        "location": "恋歌",
+        "most_recent_tweet_id": "2100538714162339986",
+        "name": "cmi",
+        "pinned_tweet_id": "2098027281427923406",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083201699934867456/1785509689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083202567937650688/Xs4QIS3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 127,
+          "like_count": 700,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 477
+        },
+        "url": "https://t.co/upBuGjvqg1",
+        "username": "toxicate01",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

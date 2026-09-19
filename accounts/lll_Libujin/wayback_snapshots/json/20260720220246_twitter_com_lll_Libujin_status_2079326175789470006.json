@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079326167082143744",
+        "3_2079326167077933056"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2079326175789470006",
+    "created_at": "2026-07-20T22:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T23:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079326175789470006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/N83Eptyxl9",
+          "end": 29,
+          "expanded_url": "https://x.com/lll_Libujin/status/2079326175789470006/photo/1",
+          "media_key": "3_2079326167082143744",
+          "start": 6,
+          "url": "https://t.co/N83Eptyxl9"
+        },
+        {
+          "display_url": "pic.x.com/N83Eptyxl9",
+          "end": 29,
+          "expanded_url": "https://x.com/lll_Libujin/status/2079326175789470006/photo/1",
+          "media_key": "3_2079326167077933056",
+          "start": 6,
+          "url": "https://t.co/N83Eptyxl9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079326175789470006",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "裸注意⚠️ https://t.co/N83Eptyxl9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079326167082143744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNtAIdkbEAAF7oP.jpg",
+        "width": 1176
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079326167077933056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNtAIdja0AAxfGp.jpg",
+        "width": 1541
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079326167082143744",
+            "3_2079326167077933056"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2079326175789470006",
+        "created_at": "2026-07-20T22:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T23:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079326175789470006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N83Eptyxl9",
+              "end": 29,
+              "expanded_url": "https://x.com/lll_Libujin/status/2079326175789470006/photo/1",
+              "media_key": "3_2079326167082143744",
+              "start": 6,
+              "url": "https://t.co/N83Eptyxl9"
+            },
+            {
+              "display_url": "pic.x.com/N83Eptyxl9",
+              "end": 29,
+              "expanded_url": "https://x.com/lll_Libujin/status/2079326175789470006/photo/1",
+              "media_key": "3_2079326167077933056",
+              "start": 6,
+              "url": "https://t.co/N83Eptyxl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079326175789470006",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "裸注意⚠️ https://t.co/N83Eptyxl9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 344,
+          "like_count": 6763,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1423
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      }
+    ]
+  }
+}

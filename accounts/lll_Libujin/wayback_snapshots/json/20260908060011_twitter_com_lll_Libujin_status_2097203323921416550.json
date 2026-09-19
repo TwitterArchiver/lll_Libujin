@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2097203323921416550",
+    "created_at": "2026-09-08T06:00:11.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T07:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097203323921416550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2031210272128630784",
+          "start": 3,
+          "username": "SmartScience"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097203323921416550",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 148
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096595699962147251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SmartScience: MDMA was just approved as a treatment for PTSD.\n\nIn a landmark decision for psychiatric medicine, New Zealand's pharmaceu…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "MDMA was just approved as a treatment for PTSD.\n\nIn a landmark decision for psychiatric medicine, New Zealand's pharmaceutical regulatory body, Medsafe, has authorized two psychiatrists to prescribe pharmaceutical-grade MDMA to patients struggling with severe PTSD. \n\nThis historic move makes New Zealand the second country globally to officially sanction the medicinal use of MDMA for mental health, following Australia's approval in 2023. Proponents of the therapy highlight that standard treatments like antidepressants have uneven success rates, whereas MDMA-assisted therapy offers a potential breakthrough for patients who have found no relief through traditional therapies.",
+        "height": 1024,
+        "media_key": "3_2096595681683378176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiaqgxbEAAhdeF.jpg",
+        "width": 820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2097203323921416550",
+        "created_at": "2026-09-08T06:00:11.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097203323921416550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2031210272128630784",
+              "start": 3,
+              "username": "SmartScience"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097203323921416550",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 148
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096595699962147251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SmartScience: MDMA was just approved as a treatment for PTSD.\n\nIn a landmark decision for psychiatric medicine, New Zealand's pharmaceu…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096595681683378176"
+          ]
+        },
+        "author_id": "2031210272128630784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096595699962147251",
+        "created_at": "2026-09-06T13:45:42.000Z",
+        "display_text_range": [
+          0,
+          272
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096595699962147251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XCaeKYpUDx",
+              "end": 296,
+              "expanded_url": "https://x.com/SmartScience/status/2096595699962147251/photo/1",
+              "media_key": "3_2096595681683378176",
+              "start": 273,
+              "url": "https://t.co/XCaeKYpUDx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096595699962147251",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "alt_text": "MDMA was just approved as a treatment for PTSD.\n\nIn a landmark decision for psychiatric medicine, New Zealand's pharmaceutical regulatory body, Medsafe, has authorized two psychiatrists to prescribe pharmaceutical-grade MDMA to patients struggling with severe PTSD. \n\nThis historic move makes New Zealand the second country globally to officially sanction the medicinal use of MDMA for mental health, following Australia's approval in 2023. Proponents of the therapy highlight that standard treatments like antidepressants have uneven success rates, whereas MDMA-assisted therapy offers a potential breakthrough for patients who have found no relief through traditional therapies.",
+            "media_key": "3_2096595681683378176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "MDMA was just approved as a treatment for PTSD.\n\nIn a landmark decision for psychiatric medicine, New Zealand's pharmaceutical regulatory body, Medsafe, has authorized two psychiatrists to prescribe pharmaceutical-grade MDMA to patients struggling with severe PTSD. \n\nThis historic move makes New Zealand the second country globally to officially sanction the medicinal use of MDMA for mental health, following Australia's approval in 2023. Proponents of the therapy highlight that standard treatments like antidepressants have uneven success rates, whereas MDMA-assisted therapy offers a potential breakthrough for patients who have found no relief through traditional therapies.\n\nWhile this decision marks a major shift in global mental health care, the landscape remains tense in the United States. The Food and Drug Administration (FDA) rejected a similar application for MDMA-assisted psychotherapy in August 2024, citing concerns over clinical trial design, safety, and potential bias. However, in August 2026, Resilient Pharmaceuticals resubmitted its drug application to the FDA, sparking renewed debates. As international regulators begin to embrace psychedelic-assisted treatments, pressure is mounting on U.S. and UK authorities to reconsider how they regulate these powerful, historically restricted substances.\n\nsource: Agence France-Presse. (2026). New Zealand drugs regulator approves use of MDMA to treat severe PTSD. The Guardian."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 15868,
+          "like_count": 544,
+          "quote_count": 24,
+          "reply_count": 24,
+          "retweet_count": 148
+        },
+        "reply_settings": "everyone",
+        "text": "MDMA was just approved as a treatment for PTSD.\n\nIn a landmark decision for psychiatric medicine, New Zealand's pharmaceutical regulatory body, Medsafe, has authorized two psychiatrists to prescribe pharmaceutical-grade MDMA to patients struggling with severe PTSD. \n\nThis https://t.co/XCaeKYpUDx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2097203323921416550",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 336,
+          "like_count": 7425,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 786
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-10T03:27:40.000Z",
+        "description": "🔬 Smart science facts • Space 🚀 Physics ⚛️ Biology 🧬 Tech 🤖 • Learn something new every day",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/SmartScience",
+                "end": 23,
+                "expanded_url": "http://x.com/SmartScience",
+                "start": 0,
+                "url": "https://t.co/LOgj7UlLay"
+              }
+            ]
+          }
+        },
+        "id": "2031210272128630784",
+        "is_identity_verified": true,
+        "location": "Science Hub",
+        "most_recent_tweet_id": "2097164878243107188",
+        "name": "Smart Science",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2031210272128630784/1773115255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031218716000874496/H2tz5rjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21248,
+          "following_count": 21078,
+          "like_count": 256,
+          "listed_count": 98,
+          "media_count": 1288,
+          "tweet_count": 1346
+        },
+        "url": "https://t.co/LOgj7UlLay",
+        "username": "SmartScience",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

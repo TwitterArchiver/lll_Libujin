@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096576963083489280",
+        "3_2096576999271874560"
+      ],
+      "media_source_tweet_id": [
+        "2096577017059934475",
+        "2096577017059934475"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2096843279572812221",
+    "created_at": "2026-09-07T06:09:29.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T07:09:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096843279572812221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1583762536641413121",
+          "start": 3,
+          "username": "sarara_rarara"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OCuiF15DQa",
+          "end": 42,
+          "expanded_url": "https://x.com/sarara_rarara/status/2096577017059934475/photo/1",
+          "media_key": "3_2096576963083489280",
+          "start": 19,
+          "url": "https://t.co/OCuiF15DQa"
+        },
+        {
+          "display_url": "pic.x.com/OCuiF15DQa",
+          "end": 42,
+          "expanded_url": "https://x.com/sarara_rarara/status/2096577017059934475/photo/1",
+          "media_key": "3_2096576999271874560",
+          "start": 19,
+          "url": "https://t.co/OCuiF15DQa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096843279572812221",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2096576963083489280"
+      },
+      {
+        "media_key": "3_2096576999271874560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 608
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096577017059934475",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @sarara_rarara: https://t.co/OCuiF15DQa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1893,
+        "media_key": "3_2096576963083489280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiJo8jb0AA8SaA.jpg",
+        "width": 913
+      },
+      {
+        "height": 1893,
+        "media_key": "3_2096576999271874560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiJrDXawAATpXZ.jpg",
+        "width": 913
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096576963083489280",
+            "3_2096576999271874560"
+          ],
+          "media_source_tweet_id": [
+            "2096577017059934475",
+            "2096577017059934475"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2096843279572812221",
+        "created_at": "2026-09-07T06:09:29.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T07:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096843279572812221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1583762536641413121",
+              "start": 3,
+              "username": "sarara_rarara"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OCuiF15DQa",
+              "end": 42,
+              "expanded_url": "https://x.com/sarara_rarara/status/2096577017059934475/photo/1",
+              "media_key": "3_2096576963083489280",
+              "start": 19,
+              "url": "https://t.co/OCuiF15DQa"
+            },
+            {
+              "display_url": "pic.x.com/OCuiF15DQa",
+              "end": 42,
+              "expanded_url": "https://x.com/sarara_rarara/status/2096577017059934475/photo/1",
+              "media_key": "3_2096576999271874560",
+              "start": 19,
+              "url": "https://t.co/OCuiF15DQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096843279572812221",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096576963083489280"
+          },
+          {
+            "media_key": "3_2096576999271874560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 608
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096577017059934475",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @sarara_rarara: https://t.co/OCuiF15DQa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096576963083489280",
+            "3_2096576999271874560"
+          ]
+        },
+        "author_id": "1583762536641413121",
+        "conversation_id": "2096577017059934475",
+        "created_at": "2026-09-06T12:31:28.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096577017059934475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OCuiF15DQa",
+              "end": 23,
+              "expanded_url": "https://x.com/sarara_rarara/status/2096577017059934475/photo/1",
+              "media_key": "3_2096576963083489280",
+              "start": 0,
+              "url": "https://t.co/OCuiF15DQa"
+            },
+            {
+              "display_url": "pic.x.com/OCuiF15DQa",
+              "end": 23,
+              "expanded_url": "https://x.com/sarara_rarara/status/2096577017059934475/photo/1",
+              "media_key": "3_2096576999271874560",
+              "start": 0,
+              "url": "https://t.co/OCuiF15DQa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096577017059934475",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096576963083489280"
+          },
+          {
+            "media_key": "3_2096576999271874560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 361,
+          "impression_count": 42476,
+          "like_count": 4767,
+          "quote_count": 44,
+          "reply_count": 0,
+          "retweet_count": 608
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/OCuiF15DQa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2096843279572812221",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 328,
+          "like_count": 7401,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 776
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-22T10:09:53.000Z",
+        "description": "비계살이합니다🥺알람x 커미션x",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "postype.com/@sararararara/",
+                "end": 23,
+                "expanded_url": "https://www.postype.com/@sararararara/",
+                "start": 0,
+                "url": "https://t.co/2NKS2vmZw0"
+              }
+            ]
+          }
+        },
+        "id": "1583762536641413121",
+        "is_identity_verified": false,
+        "location": "@rarara_rarasa",
+        "most_recent_tweet_id": "2096581969165619237",
+        "name": "sarara",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1583762536641413121/1736101808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093700168965341184/-eUO4eEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24831,
+          "following_count": 2,
+          "like_count": 8690,
+          "listed_count": 94,
+          "media_count": 56,
+          "tweet_count": 971
+        },
+        "url": "https://t.co/2NKS2vmZw0",
+        "username": "sarara_rarara",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

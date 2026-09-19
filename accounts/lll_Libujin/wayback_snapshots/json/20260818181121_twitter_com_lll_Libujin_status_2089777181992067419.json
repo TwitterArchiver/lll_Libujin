@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2089668800329216453",
+    "created_at": "2026-08-18T18:11:21.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T19:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089777181992067419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2071687393888112640",
+          "start": 0,
+          "username": "Yuu0v0yy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089777181992067419",
+    "in_reply_to_user_id": "2071687393888112640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089668800329216453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuu0v0yy 蹲蹲喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2089668779819032576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_-rwdWYAAhAaC.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089668779831595008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_-rwgWEAARAd7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089668779802284032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_-rwZW0AA1qsg.jpg",
+        "width": 1074
+      },
+      {
+        "height": 822,
+        "media_key": "3_2089668779856838656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_-rwmXQAAxbGg.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2089668800329216453",
+        "created_at": "2026-08-18T18:11:21.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089777181992067419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2071687393888112640",
+              "start": 0,
+              "username": "Yuu0v0yy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089777181992067419",
+        "in_reply_to_user_id": "2071687393888112640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089668800329216453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuu0v0yy 蹲蹲喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089668779819032576",
+            "3_2089668779831595008",
+            "3_2089668779802284032",
+            "3_2089668779856838656"
+          ]
+        },
+        "author_id": "2071687393888112640",
+        "conversation_id": "2089668800329216453",
+        "created_at": "2026-08-18T11:00:40.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089668800329216453"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CYzDLeB4Y7",
+              "end": 138,
+              "expanded_url": "https://x.com/Yuu0v0yy/status/2089668800329216453/photo/1",
+              "media_key": "3_2089668779819032576",
+              "start": 115,
+              "url": "https://t.co/CYzDLeB4Y7"
+            },
+            {
+              "display_url": "pic.x.com/CYzDLeB4Y7",
+              "end": 138,
+              "expanded_url": "https://x.com/Yuu0v0yy/status/2089668800329216453/photo/1",
+              "media_key": "3_2089668779831595008",
+              "start": 115,
+              "url": "https://t.co/CYzDLeB4Y7"
+            },
+            {
+              "display_url": "pic.x.com/CYzDLeB4Y7",
+              "end": 138,
+              "expanded_url": "https://x.com/Yuu0v0yy/status/2089668800329216453/photo/1",
+              "media_key": "3_2089668779802284032",
+              "start": 115,
+              "url": "https://t.co/CYzDLeB4Y7"
+            },
+            {
+              "display_url": "pic.x.com/CYzDLeB4Y7",
+              "end": 138,
+              "expanded_url": "https://x.com/Yuu0v0yy/status/2089668800329216453/photo/1",
+              "media_key": "3_2089668779856838656",
+              "start": 115,
+              "url": "https://t.co/CYzDLeB4Y7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089668800329216453",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089668779819032576"
+          },
+          {
+            "media_key": "3_2089668779831595008"
+          },
+          {
+            "media_key": "3_2089668779802284032"
+          },
+          {
+            "media_key": "3_2089668779856838656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 741,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "你们会喜欢优优嘛\n哎，最近涨粉好快呀，我很开心\n我是一个画手/oder/⚡️🚬代。p4我推\n我又来抽奖了哦，40转or200粉开\n关注➕评论➕转发参与～\n一等奖28.8🥕*1\n二等奖18.8🥕*1\n三等奖5.2🥕➕给你画无偿*1 https://t.co/CYzDLeB4Y7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "Welcome to Apocalypse.",
+        "most_recent_tweet_id": "2089777181992067419",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 431,
+          "like_count": 7246,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1660
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-29T20:10:04.000Z",
+        "description": "不参与任何争论\n我爱画画 /💊/🩸\n叫我优优就好 互fo会查成分\n⚡️🚬有售卖 欢迎询问（不是上头的）\n另一个我@Yuu0v0uu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Yuu0v0uu"
+              }
+            ]
+          }
+        },
+        "id": "2071687393888112640",
+        "is_identity_verified": false,
+        "location": "天空",
+        "most_recent_tweet_id": "2089770448934281240",
+        "name": "Yuu",
+        "pinned_tweet_id": "2089668800329216453",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071687393888112640/1786477983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087266012181716992/dbXzcpoY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 127,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "Yuu0v0yy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

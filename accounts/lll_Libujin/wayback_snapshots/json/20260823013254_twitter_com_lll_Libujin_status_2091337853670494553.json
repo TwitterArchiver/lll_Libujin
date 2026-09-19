@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091252098931539968"
+      ],
+      "media_source_tweet_id": [
+        "2091252104929370192"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2091337853670494553",
+    "created_at": "2026-08-23T01:32:54.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T02:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091337853670494553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1884188521206013952",
+          "start": 3,
+          "username": "chulurira3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uzjrYMCyc1",
+          "end": 46,
+          "expanded_url": "https://x.com/chulurira3/status/2091252104929370192/photo/1",
+          "media_key": "3_2091252098931539968",
+          "start": 23,
+          "url": "https://t.co/uzjrYMCyc1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091337853670494553",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2091252098931539968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091252104929370192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chulurira3: おひとつむぎ https://t.co/uzjrYMCyc1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2039,
+        "media_key": "3_2091252098931539968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQWetDyawAALQ8N.jpg",
+        "width": 2039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091252098931539968"
+          ],
+          "media_source_tweet_id": [
+            "2091252104929370192"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2091337853670494553",
+        "created_at": "2026-08-23T01:32:54.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T02:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091337853670494553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1884188521206013952",
+              "start": 3,
+              "username": "chulurira3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uzjrYMCyc1",
+              "end": 46,
+              "expanded_url": "https://x.com/chulurira3/status/2091252104929370192/photo/1",
+              "media_key": "3_2091252098931539968",
+              "start": 23,
+              "url": "https://t.co/uzjrYMCyc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091337853670494553",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091252098931539968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091252104929370192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chulurira3: おひとつむぎ https://t.co/uzjrYMCyc1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091252098931539968"
+          ]
+        },
+        "author_id": "1884188521206013952",
+        "conversation_id": "2091252104929370192",
+        "created_at": "2026-08-22T19:52:10.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T20:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091252104929370192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uzjrYMCyc1",
+              "end": 30,
+              "expanded_url": "https://x.com/chulurira3/status/2091252104929370192/photo/1",
+              "media_key": "3_2091252098931539968",
+              "start": 7,
+              "url": "https://t.co/uzjrYMCyc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091252104929370192",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091252098931539968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 2748,
+          "like_count": 383,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "おひとつむぎ https://t.co/uzjrYMCyc1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "Welcome to Apocalypse.",
+        "most_recent_tweet_id": "2091337853670494553",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 444,
+          "like_count": 7299,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1692
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-28T10:36:52.000Z",
+        "description": "かべうち 絵修行 雑多すぎるからガチでフォロー非推奨 関係性萌んちゅ 好きなもん描く",
+        "id": "1884188521206013952",
+        "is_identity_verified": false,
+        "location": "20👆🏻腐   絵無断使用・転載禁止 巴日和最推",
+        "most_recent_tweet_id": "2091326028660814204",
+        "name": "ぬヱ",
+        "pinned_tweet_id": "1959484630698275078",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1884188521206013952/1786276328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076703234039963649/g_DTMuWK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 42,
+          "like_count": 11393,
+          "listed_count": 3,
+          "media_count": 243,
+          "tweet_count": 4519
+        },
+        "url": "",
+        "username": "chulurira3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

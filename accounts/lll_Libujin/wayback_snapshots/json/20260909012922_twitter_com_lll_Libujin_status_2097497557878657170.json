@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097345677479333888"
+      ],
+      "media_source_tweet_id": [
+        "2097345700493476140"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2097497557878657170",
+    "created_at": "2026-09-09T01:29:22.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T02:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097497557878657170"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "ひよなぎ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1464577453712494596",
+          "start": 3,
+          "username": "haoqiuyong"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6TnKH9NH1a",
+          "end": 61,
+          "expanded_url": "https://x.com/haoqiuyong/status/2097345700493476140/video/1",
+          "media_key": "13_2097345677479333888",
+          "start": 38,
+          "url": "https://t.co/6TnKH9NH1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097497557878657170",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2097345677479333888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097345700493476140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haoqiuyong: ひよなぎ🍏🍎の tell me~#ひよなぎ https://t.co/6TnKH9NH1a"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18738,
+        "height": 720,
+        "media_key": "13_2097345677479333888",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097345677479333888/img/YobIjxh5W5eBltAU.jpg",
+        "public_metrics": {
+          "view_count": 1507
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097345677479333888/vid/avc1/388x270/v76enPIYs_OCnf_Z.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097345677479333888/vid/avc1/518x360/VfILV9F1mBC4BvtV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097345677479333888/vid/avc1/1036x720/0csKFcoNfoVG7bX5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097345677479333888/pl/iWNHfNCadYEQ1mdL.m3u8?v=cfc"
+          }
+        ],
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097345677479333888"
+          ],
+          "media_source_tweet_id": [
+            "2097345700493476140"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097497557878657170",
+        "created_at": "2026-09-09T01:29:22.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T02:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097497557878657170"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 32,
+              "tag": "ひよなぎ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1464577453712494596",
+              "start": 3,
+              "username": "haoqiuyong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6TnKH9NH1a",
+              "end": 61,
+              "expanded_url": "https://x.com/haoqiuyong/status/2097345700493476140/video/1",
+              "media_key": "13_2097345677479333888",
+              "start": 38,
+              "url": "https://t.co/6TnKH9NH1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097497557878657170",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097345677479333888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097345700493476140",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haoqiuyong: ひよなぎ🍏🍎の tell me~#ひよなぎ https://t.co/6TnKH9NH1a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097345677479333888"
+          ]
+        },
+        "author_id": "1464577453712494596",
+        "conversation_id": "2097345700493476140",
+        "created_at": "2026-09-08T15:25:56.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097345700493476140"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "ひよなぎ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6TnKH9NH1a",
+              "end": 45,
+              "expanded_url": "https://x.com/haoqiuyong/status/2097345700493476140/video/1",
+              "media_key": "13_2097345677479333888",
+              "start": 22,
+              "url": "https://t.co/6TnKH9NH1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097345700493476140",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097345677479333888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 3388,
+          "like_count": 366,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "ひよなぎ🍏🍎の tell me~#ひよなぎ https://t.co/6TnKH9NH1a"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2097497557878657170",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 342,
+          "like_count": 7440,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 791
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-27T12:51:00.000Z",
+        "description": "20↑，低浮上\n日凪/巴日和左固定",
+        "id": "1464577453712494596",
+        "is_identity_verified": false,
+        "location": "China",
+        "most_recent_tweet_id": "2097361963252949334",
+        "name": "林火",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1464577453712494596/1762070104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1464578172746608641/-1307UFM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 87,
+          "like_count": 301,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "haoqiuyong",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

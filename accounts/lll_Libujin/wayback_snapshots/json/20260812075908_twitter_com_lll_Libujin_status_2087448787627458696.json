@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2087448787627458696",
+    "created_at": "2026-08-12T07:59:08.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T08:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087448787627458696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/devastated1726…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/devastated1726/status/2086905082633912419",
+          "start": 32,
+          "url": "https://t.co/gYdeRXG6Hb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087448787627458696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086905082633912419",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "赵露思，我想问一下你的抑郁症到底是怎么治好的?我现在特别崩溃。 https://t.co/gYdeRXG6Hb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2087448787627458696",
+        "created_at": "2026-08-12T07:59:08.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T08:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087448787627458696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/devastated1726…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/devastated1726/status/2086905082633912419",
+              "start": 32,
+              "url": "https://t.co/gYdeRXG6Hb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087448787627458696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086905082633912419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赵露思，我想问一下你的抑郁症到底是怎么治好的?我现在特别崩溃。 https://t.co/gYdeRXG6Hb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929464299115679745",
+        "conversation_id": "2086905082633912419",
+        "created_at": "2026-08-10T19:58:39.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T20:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086905082633912419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086905082633912419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 283996,
+          "like_count": 2371,
+          "quote_count": 12,
+          "reply_count": 772,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "赵露思，我想问一下你的抑郁症到底是怎么治好的?我现在特别崩溃。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "Welcome to Apocalypse.",
+        "most_recent_tweet_id": "2087448787627458696",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 414,
+          "like_count": 7151,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1622
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-02T09:05:53.000Z",
+        "description": "是个傻纸疯纸。\n记录有气无力的生活。\n女孩子来互fo",
+        "id": "1929464299115679745",
+        "is_identity_verified": false,
+        "location": "蛋仔岛",
+        "most_recent_tweet_id": "2086909835774431469",
+        "name": "有空忧伤",
+        "pinned_tweet_id": "2066137333611876366",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929464299115679745/1776881957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057452165770162176/Qa_B0ZB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 136,
+          "like_count": 348,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 1611
+        },
+        "url": "",
+        "username": "Devastated1726",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

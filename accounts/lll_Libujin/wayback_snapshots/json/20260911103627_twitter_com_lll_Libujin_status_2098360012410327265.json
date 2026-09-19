@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2098271432572539050",
+    "created_at": "2026-09-11T10:36:27.000Z",
+    "display_text_range": [
+      9,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T11:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098360012410327265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2096847118581551104",
+          "start": 0,
+          "username": "3YeEzzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098360012410327265",
+    "in_reply_to_user_id": "2096847118581551104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098271432572539050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3YeEzzZ 好阔耐呀这个！！理不尽是什么味道的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_2098271422913101826",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6OvfUWwAIPtgo.jpg",
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2098271432572539050",
+        "created_at": "2026-09-11T10:36:27.000Z",
+        "display_text_range": [
+          9,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T11:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098360012410327265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2096847118581551104",
+              "start": 0,
+              "username": "3YeEzzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098360012410327265",
+        "in_reply_to_user_id": "2096847118581551104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098271432572539050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3YeEzzZ 好阔耐呀这个！！理不尽是什么味道的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098271422913101826"
+          ]
+        },
+        "author_id": "2096847118581551104",
+        "conversation_id": "2098271432572539050",
+        "created_at": "2026-09-11T04:44:28.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T05:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098271432572539050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kABIyyaDTG",
+              "end": 80,
+              "expanded_url": "https://x.com/3YeEzzZ/status/2098271432572539050/photo/1",
+              "media_key": "3_2098271422913101826",
+              "start": 57,
+              "url": "https://t.co/kABIyyaDTG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098271432572539050",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098271422913101826"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 674,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "☆这就是我的互关们在我心中的形象呀！\n你们是我最喜欢的糖豆小精灵，喜欢你们，喜欢！₍˄ ₗ   ̫ ₗ ˄₎੭ﾞ https://t.co/kABIyyaDTG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2098360012410327265",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 348,
+          "like_count": 7473,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 803
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T06:25:56.000Z",
+        "description": "愛，愛，愛",
+        "id": "2096847118581551104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098359331519705575",
+        "name": "S3raph_1m9v",
+        "pinned_tweet_id": "2097118095290904850",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096847118581551104/1788762411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096847486854082560/BvWdGIBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 223,
+          "like_count": 1489,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "3YeEzzZ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

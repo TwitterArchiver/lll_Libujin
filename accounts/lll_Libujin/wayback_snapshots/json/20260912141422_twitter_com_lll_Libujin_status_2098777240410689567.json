@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098744535132315649"
+      ],
+      "media_source_tweet_id": [
+        "2098744544888275451"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1004028337289814016",
+          "name": "THE IDOLM@STER"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1004028337289814016",
+          "name": "THE IDOLM@STER"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2098777240410689567",
+    "created_at": "2026-09-12T14:14:22.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T15:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098777240410689567"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 24,
+          "tag": "シャニマス"
+        },
+        {
+          "end": 36,
+          "start": 31,
+          "tag": "黛冬優子"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1846739759085113346",
+          "start": 3,
+          "username": "twilightversu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ryPx653BLr",
+          "end": 60,
+          "expanded_url": "https://x.com/twilightversu/status/2098744544888275451/photo/1",
+          "media_key": "3_2098744535132315649",
+          "start": 37,
+          "url": "https://t.co/ryPx653BLr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098777240410689567",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2098744535132315649"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098744544888275451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @twilightversu: ❈💚🩵❈\n#シャニマス #黛冬優子 https://t.co/ryPx653BLr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098744535132315649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSA9CPraoAEaxs9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098744535132315649"
+          ],
+          "media_source_tweet_id": [
+            "2098744544888275451"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1004028337289814016",
+              "name": "THE IDOLM@STER"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1004028337289814016",
+              "name": "THE IDOLM@STER"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2098777240410689567",
+        "created_at": "2026-09-12T14:14:22.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098777240410689567"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 24,
+              "tag": "シャニマス"
+            },
+            {
+              "end": 36,
+              "start": 31,
+              "tag": "黛冬優子"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1846739759085113346",
+              "start": 3,
+              "username": "twilightversu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ryPx653BLr",
+              "end": 60,
+              "expanded_url": "https://x.com/twilightversu/status/2098744544888275451/photo/1",
+              "media_key": "3_2098744535132315649",
+              "start": 37,
+              "url": "https://t.co/ryPx653BLr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098777240410689567",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2098744535132315649"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098744544888275451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @twilightversu: ❈💚🩵❈\n#シャニマス #黛冬優子 https://t.co/ryPx653BLr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098744535132315649"
+          ]
+        },
+        "author_id": "1846739759085113346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1004028337289814016",
+              "name": "THE IDOLM@STER"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1004028337289814016",
+              "name": "THE IDOLM@STER"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2098744544888275451",
+        "created_at": "2026-09-12T12:04:26.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098744544888275451"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "シャニマス"
+            },
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "黛冬優子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ryPx653BLr",
+              "end": 41,
+              "expanded_url": "https://x.com/twilightversu/status/2098744544888275451/photo/1",
+              "media_key": "3_2098744535132315649",
+              "start": 18,
+              "url": "https://t.co/ryPx653BLr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098744544888275451",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2098744535132315649"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 686,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "❈💚🩵❈\n#シャニマス #黛冬優子 https://t.co/ryPx653BLr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2098777240410689567",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 350,
+          "like_count": 7517,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 810
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-17T02:27:50.000Z",
+        "description": "我很倒霉很穷还高p让让我丨闺闺@rainsluvkwi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "rainsluvkwi"
+              }
+            ]
+          }
+        },
+        "id": "1846739759085113346",
+        "is_identity_verified": false,
+        "location": "尾椎骨公城",
+        "most_recent_tweet_id": "2098744544888275451",
+        "name": "视觉动物",
+        "pinned_tweet_id": "1904071136884969834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1846739759085113346/1775983144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062538782851907584/a5B4WcgB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13389,
+          "following_count": 730,
+          "like_count": 23111,
+          "listed_count": 51,
+          "media_count": 43,
+          "tweet_count": 4839
+        },
+        "url": "",
+        "username": "twilightversu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

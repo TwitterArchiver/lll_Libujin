@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2095578228194951282",
+    "created_at": "2026-09-04T23:28:58.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T00:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096017709335257255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1418328991493070850",
+          "start": 0,
+          "username": "Strelexia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096017709335257255",
+    "in_reply_to_user_id": "1418328991493070850",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095646310997410074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strelexia pr喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2095578228194951282",
+        "created_at": "2026-09-04T23:28:58.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T00:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096017709335257255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418328991493070850",
+              "start": 0,
+              "username": "Strelexia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096017709335257255",
+        "in_reply_to_user_id": "1418328991493070850",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095646310997410074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strelexia pr喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1418328991493070850",
+        "conversation_id": "2095578228194951282",
+        "created_at": "2026-09-03T22:53:10.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T23:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095646310997410074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095646310997410074",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095578228194951282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lll_Libujin 根本你就是pr猫猫本猫。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2096017709335257255",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 323,
+          "like_count": 7371,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 772
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-22T21:56:09.000Z",
+        "description": "Anything is what you wish.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "neko.ae",
+                "end": 23,
+                "expanded_url": "http://neko.ae",
+                "start": 0,
+                "url": "https://t.co/ohr6JnRF0k"
+              }
+            ]
+          }
+        },
+        "id": "1418328991493070850",
+        "is_identity_verified": true,
+        "location": "和月村",
+        "most_recent_tweet_id": "2095869150598144048",
+        "name": "枫糖郁爹",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1418328991493070850/1786524015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087458700718125056/IT7uXUuQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2014,
+          "following_count": 1628,
+          "like_count": 38611,
+          "listed_count": 9,
+          "media_count": 1064,
+          "tweet_count": 8381
+        },
+        "url": "https://t.co/ohr6JnRF0k",
+        "username": "Strelexia",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

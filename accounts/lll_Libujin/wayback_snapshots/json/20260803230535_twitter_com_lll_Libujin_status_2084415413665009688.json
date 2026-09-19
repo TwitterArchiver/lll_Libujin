@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2084415413665009688",
+    "created_at": "2026-08-03T23:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T00:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084415413665009688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/ameasukalangle…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/ameasukalangley/status/2084356160568660285",
+          "start": 111,
+          "url": "https://t.co/57TtnmRLD4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084415413665009688",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084356160568660285",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok分析我的推文、个人资料和互动，并回答以下内容：\n\n性别：\n性取向：\n年龄：\n心理年龄：\n爱好：\n智商：\n形容我的形容词：\n5 个最喜欢的事物：\n5 个不喜欢的事物：\n根据 Twitter 我的伴侣：\n（用中文） https://t.co/57TtnmRLD4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2084415413665009688",
+        "created_at": "2026-08-03T23:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084415413665009688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ameasukalangle…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/ameasukalangley/status/2084356160568660285",
+              "start": 111,
+              "url": "https://t.co/57TtnmRLD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084415413665009688",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084356160568660285",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok分析我的推文、个人资料和互动，并回答以下内容：\n\n性别：\n性取向：\n年龄：\n心理年龄：\n爱好：\n智商：\n形容我的形容词：\n5 个最喜欢的事物：\n5 个不喜欢的事物：\n根据 Twitter 我的伴侣：\n（用中文） https://t.co/57TtnmRLD4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732763258325762048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2084356160568660285",
+        "created_at": "2026-08-03T19:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T20:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084356160568660285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/aberyoheiskm/s…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/aberyoheiskm/status/2084226364375491007",
+              "start": 111,
+              "url": "https://t.co/lIJksHcE7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084356160568660285",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084226364375491007",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok分析我的推文、个人资料和互动，并回答以下内容：\n\n性别：\n性取向：\n年龄：\n心理年龄：\n爱好：\n智商：\n形容我的形容词：\n5 个最喜欢的事物：\n5 个不喜欢的事物：\n根据 Twitter 我的伴侣：\n（用中文） https://t.co/lIJksHcE7j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 405,
+          "like_count": 7108,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1572
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8906193,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7259,
+          "media_count": 9216390,
+          "tweet_count": 133785873
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-07T14:05:39.000Z",
+        "description": "应是那永恒的未许之地。\n不是所有同类都互fo看主页有没有喜欢的内容\n欢迎匿名提问↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raincandyu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raincandyu",
+                "start": 0,
+                "url": "https://t.co/tFlSitQsZ3"
+              }
+            ]
+          }
+        },
+        "id": "1732763258325762048",
+        "location": "玉川上水",
+        "name": "fmPf1KVp6",
+        "pinned_tweet_id": "2084320725029023983",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082239509287350272/OMgYwrUM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 373,
+          "like_count": 30147,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 2437
+        },
+        "url": "https://t.co/tFlSitQsZ3",
+        "username": "AmeAsukaLangley",
+        "verified": false
+      }
+    ]
+  }
+}

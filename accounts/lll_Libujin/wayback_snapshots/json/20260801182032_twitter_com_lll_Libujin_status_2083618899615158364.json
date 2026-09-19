@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2083594031993598213",
+    "created_at": "2026-08-01T18:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T19:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083618899615158364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946149148878852096",
+          "start": 0,
+          "username": "todorokidoya1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083618899615158364",
+    "in_reply_to_user_id": "1946149148878852096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083594031993598213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@todorokidoya1 小白晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2083594031993598213",
+        "created_at": "2026-08-01T18:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083618899615158364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946149148878852096",
+              "start": 0,
+              "username": "todorokidoya1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083618899615158364",
+        "in_reply_to_user_id": "1946149148878852096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083594031993598213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@todorokidoya1 小白晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946149148878852096",
+        "conversation_id": "2083594031993598213",
+        "created_at": "2026-08-01T16:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083594031993598213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083594031993598213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 294,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "睡觉吧。不开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 400,
+          "like_count": 7061,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1556
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T10:05:17.000Z",
+        "description": "我能否撑到黎明\n\n小号@o0omftft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "o0omftft"
+              }
+            ]
+          }
+        },
+        "id": "1946149148878852096",
+        "location": "绘画世界",
+        "name": "0o0",
+        "pinned_tweet_id": "2079931487265374536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947494571715461120/yN7x2Gqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 598,
+          "like_count": 62111,
+          "listed_count": 0,
+          "media_count": 425,
+          "tweet_count": 4449
+        },
+        "url": "",
+        "username": "todorokidoya1",
+        "verified": true
+      }
+    ]
+  }
+}

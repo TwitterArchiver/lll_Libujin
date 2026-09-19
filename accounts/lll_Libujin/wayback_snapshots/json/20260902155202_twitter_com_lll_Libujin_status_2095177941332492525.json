@@ -1,0 +1,509 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095176983173074945",
+        "3_2095176983147876353",
+        "3_2095176983714181120",
+        "3_2095176983135322113"
+      ],
+      "media_source_tweet_id": [
+        "2095177004698243579",
+        "2095177004698243579",
+        "2095177004698243579",
+        "2095177004698243579"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2095177941332492525",
+    "created_at": "2026-09-02T15:52:02.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T16:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095177941332492525"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 77,
+          "tag": "门槛"
+        },
+        {
+          "end": 85,
+          "start": 81,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 90,
+          "start": 86,
+          "tag": "爸爸活"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2033502740002000898",
+          "start": 3,
+          "username": "Yuki_asukai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y5yl2VZqpq",
+          "end": 140,
+          "expanded_url": "https://x.com/Yuki_asukai/status/2095177004698243579/photo/1",
+          "media_key": "3_2095176983173074945",
+          "start": 117,
+          "url": "https://t.co/y5yl2VZqpq"
+        },
+        {
+          "display_url": "pic.x.com/y5yl2VZqpq",
+          "end": 140,
+          "expanded_url": "https://x.com/Yuki_asukai/status/2095177004698243579/photo/1",
+          "media_key": "3_2095176983147876353",
+          "start": 117,
+          "url": "https://t.co/y5yl2VZqpq"
+        },
+        {
+          "display_url": "pic.x.com/y5yl2VZqpq",
+          "end": 140,
+          "expanded_url": "https://x.com/Yuki_asukai/status/2095177004698243579/photo/1",
+          "media_key": "3_2095176983714181120",
+          "start": 117,
+          "url": "https://t.co/y5yl2VZqpq"
+        },
+        {
+          "display_url": "pic.x.com/y5yl2VZqpq",
+          "end": 140,
+          "expanded_url": "https://x.com/Yuki_asukai/status/2095177004698243579/photo/1",
+          "media_key": "3_2095176983135322113",
+          "start": 117,
+          "url": "https://t.co/y5yl2VZqpq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095177941332492525",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095176983173074945"
+      },
+      {
+        "media_key": "3_2095176983147876353"
+      },
+      {
+        "media_key": "3_2095176983714181120"
+      },
+      {
+        "media_key": "3_2095176983135322113"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095177004698243579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuki_asukai: 申请互关，我是郁希/Yuki我哦我割我餐券我非二元，前世600fo大号彻底无了下面是我和我的脸请和我互关吧！！！\n不是 #门槛 #门槛妹 #爸爸活 但打点tag看看能不能引流呢我的浏览量低得太可怕了 https://t.co/y5yl2VZqpq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095176983173074945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROQXY-bEAEOWVY.jpg",
+        "width": 1338
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095176983147876353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROQXY4akAERj5E.jpg",
+        "width": 1317
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095176983714181120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROQXa_bsAAeoBm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095176983135322113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROQXY1bAAEv4CS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095176983173074945",
+            "3_2095176983147876353",
+            "3_2095176983714181120",
+            "3_2095176983135322113"
+          ],
+          "media_source_tweet_id": [
+            "2095177004698243579",
+            "2095177004698243579",
+            "2095177004698243579",
+            "2095177004698243579"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095177941332492525",
+        "created_at": "2026-09-02T15:52:02.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095177941332492525"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "门槛"
+            },
+            {
+              "end": 85,
+              "start": 81,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "爸爸活"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2033502740002000898",
+              "start": 3,
+              "username": "Yuki_asukai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y5yl2VZqpq",
+              "end": 140,
+              "expanded_url": "https://x.com/Yuki_asukai/status/2095177004698243579/photo/1",
+              "media_key": "3_2095176983173074945",
+              "start": 117,
+              "url": "https://t.co/y5yl2VZqpq"
+            },
+            {
+              "display_url": "pic.x.com/y5yl2VZqpq",
+              "end": 140,
+              "expanded_url": "https://x.com/Yuki_asukai/status/2095177004698243579/photo/1",
+              "media_key": "3_2095176983147876353",
+              "start": 117,
+              "url": "https://t.co/y5yl2VZqpq"
+            },
+            {
+              "display_url": "pic.x.com/y5yl2VZqpq",
+              "end": 140,
+              "expanded_url": "https://x.com/Yuki_asukai/status/2095177004698243579/photo/1",
+              "media_key": "3_2095176983714181120",
+              "start": 117,
+              "url": "https://t.co/y5yl2VZqpq"
+            },
+            {
+              "display_url": "pic.x.com/y5yl2VZqpq",
+              "end": 140,
+              "expanded_url": "https://x.com/Yuki_asukai/status/2095177004698243579/photo/1",
+              "media_key": "3_2095176983135322113",
+              "start": 117,
+              "url": "https://t.co/y5yl2VZqpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095177941332492525",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095176983173074945"
+          },
+          {
+            "media_key": "3_2095176983147876353"
+          },
+          {
+            "media_key": "3_2095176983714181120"
+          },
+          {
+            "media_key": "3_2095176983135322113"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095177004698243579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuki_asukai: 申请互关，我是郁希/Yuki我哦我割我餐券我非二元，前世600fo大号彻底无了下面是我和我的脸请和我互关吧！！！\n不是 #门槛 #门槛妹 #爸爸活 但打点tag看看能不能引流呢我的浏览量低得太可怕了 https://t.co/y5yl2VZqpq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095176983173074945",
+            "3_2095176983147876353",
+            "3_2095176983714181120",
+            "3_2095176983135322113"
+          ]
+        },
+        "author_id": "2033502740002000898",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095177004698243579",
+        "created_at": "2026-09-02T15:48:19.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095177004698243579"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 60,
+              "tag": "门槛"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 73,
+              "start": 69,
+              "tag": "爸爸活"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y5yl2VZqpq",
+              "end": 123,
+              "expanded_url": "https://x.com/Yuki_asukai/status/2095177004698243579/photo/1",
+              "media_key": "3_2095176983173074945",
+              "start": 100,
+              "url": "https://t.co/y5yl2VZqpq"
+            },
+            {
+              "display_url": "pic.x.com/y5yl2VZqpq",
+              "end": 123,
+              "expanded_url": "https://x.com/Yuki_asukai/status/2095177004698243579/photo/1",
+              "media_key": "3_2095176983147876353",
+              "start": 100,
+              "url": "https://t.co/y5yl2VZqpq"
+            },
+            {
+              "display_url": "pic.x.com/y5yl2VZqpq",
+              "end": 123,
+              "expanded_url": "https://x.com/Yuki_asukai/status/2095177004698243579/photo/1",
+              "media_key": "3_2095176983714181120",
+              "start": 100,
+              "url": "https://t.co/y5yl2VZqpq"
+            },
+            {
+              "display_url": "pic.x.com/y5yl2VZqpq",
+              "end": 123,
+              "expanded_url": "https://x.com/Yuki_asukai/status/2095177004698243579/photo/1",
+              "media_key": "3_2095176983135322113",
+              "start": 100,
+              "url": "https://t.co/y5yl2VZqpq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095177004698243579",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095176983173074945"
+          },
+          {
+            "media_key": "3_2095176983147876353"
+          },
+          {
+            "media_key": "3_2095176983714181120"
+          },
+          {
+            "media_key": "3_2095176983135322113"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "申请互关，我是郁希/Yuki我哦我割我餐券我非二元，前世600fo大号彻底无了下面是我和我的脸请和我互关吧！！！\n不是 #门槛 #门槛妹 #爸爸活 但打点tag看看能不能引流呢我的浏览量低得太可怕了 https://t.co/y5yl2VZqpq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2095177941332492525",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 318,
+          "like_count": 7349,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 755
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-16T11:16:56.000Z",
+        "description": "＝飞鸟井郁希| enby | 餐券女 | 🎸🎨",
+        "id": "2033502740002000898",
+        "is_identity_verified": false,
+        "location": "日本 東京",
+        "most_recent_tweet_id": "2095177504298524803",
+        "name": "郁希（2.0）",
+        "pinned_tweet_id": "2095177004698243579",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033502740002000898/1786864592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088887521216446465/XxVZnA1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 55,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "Yuki_asukai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096987291545997313",
+        "3_2096987326924886016",
+        "3_2096987353088966656"
+      ],
+      "media_source_tweet_id": [
+        "2096988669215494504",
+        "2096988669215494504",
+        "2096988669215494504"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2097201035416838214",
+    "created_at": "2026-09-08T05:51:05.000Z",
+    "display_text_range": [
+      0,
+      76
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097201035416838214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "60570763",
+          "start": 3,
+          "username": "ngchoco"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/osI1CB5b9c",
+          "end": 76,
+          "expanded_url": "https://x.com/ngchoco/status/2096988669215494504/photo/1",
+          "media_key": "3_2096987291545997313",
+          "start": 53,
+          "url": "https://t.co/osI1CB5b9c"
+        },
+        {
+          "display_url": "pic.x.com/osI1CB5b9c",
+          "end": 76,
+          "expanded_url": "https://x.com/ngchoco/status/2096988669215494504/photo/1",
+          "media_key": "3_2096987326924886016",
+          "start": 53,
+          "url": "https://t.co/osI1CB5b9c"
+        },
+        {
+          "display_url": "pic.x.com/osI1CB5b9c",
+          "end": 76,
+          "expanded_url": "https://x.com/ngchoco/status/2096988669215494504/photo/1",
+          "media_key": "3_2096987353088966656",
+          "start": 53,
+          "url": "https://t.co/osI1CB5b9c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097201035416838214",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096987291545997313"
+      },
+      {
+        "media_key": "3_2096987326924886016"
+      },
+      {
+        "media_key": "3_2096987353088966656"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096988669215494504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ngchoco: 人気順というやつ、直近のリポストが影響してると思うんだけど圧倒的に怒っている😂 https://t.co/osI1CB5b9c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 887,
+        "media_key": "3_2096987291545997313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRn-1NMbkAE9HV2.png",
+        "width": 600
+      },
+      {
+        "height": 601,
+        "media_key": "3_2096987326924886016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRn-3Q_akAAjlXm.png",
+        "width": 840
+      },
+      {
+        "height": 848,
+        "media_key": "3_2096987353088966656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRn-4ydawAAIbEn.png",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096987291545997313",
+            "3_2096987326924886016",
+            "3_2096987353088966656"
+          ],
+          "media_source_tweet_id": [
+            "2096988669215494504",
+            "2096988669215494504",
+            "2096988669215494504"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097201035416838214",
+        "created_at": "2026-09-08T05:51:05.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097201035416838214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "60570763",
+              "start": 3,
+              "username": "ngchoco"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/osI1CB5b9c",
+              "end": 76,
+              "expanded_url": "https://x.com/ngchoco/status/2096988669215494504/photo/1",
+              "media_key": "3_2096987291545997313",
+              "start": 53,
+              "url": "https://t.co/osI1CB5b9c"
+            },
+            {
+              "display_url": "pic.x.com/osI1CB5b9c",
+              "end": 76,
+              "expanded_url": "https://x.com/ngchoco/status/2096988669215494504/photo/1",
+              "media_key": "3_2096987326924886016",
+              "start": 53,
+              "url": "https://t.co/osI1CB5b9c"
+            },
+            {
+              "display_url": "pic.x.com/osI1CB5b9c",
+              "end": 76,
+              "expanded_url": "https://x.com/ngchoco/status/2096988669215494504/photo/1",
+              "media_key": "3_2096987353088966656",
+              "start": 53,
+              "url": "https://t.co/osI1CB5b9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097201035416838214",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096987291545997313"
+          },
+          {
+            "media_key": "3_2096987326924886016"
+          },
+          {
+            "media_key": "3_2096987353088966656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096988669215494504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ngchoco: 人気順というやつ、直近のリポストが影響してると思うんだけど圧倒的に怒っている😂 https://t.co/osI1CB5b9c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096987291545997313",
+            "3_2096987326924886016",
+            "3_2096987353088966656"
+          ]
+        },
+        "author_id": "60570763",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096988669215494504",
+        "created_at": "2026-09-07T15:47:13.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096988669215494504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/osI1CB5b9c",
+              "end": 63,
+              "expanded_url": "https://x.com/ngchoco/status/2096988669215494504/photo/1",
+              "media_key": "3_2096987291545997313",
+              "start": 40,
+              "url": "https://t.co/osI1CB5b9c"
+            },
+            {
+              "display_url": "pic.x.com/osI1CB5b9c",
+              "end": 63,
+              "expanded_url": "https://x.com/ngchoco/status/2096988669215494504/photo/1",
+              "media_key": "3_2096987326924886016",
+              "start": 40,
+              "url": "https://t.co/osI1CB5b9c"
+            },
+            {
+              "display_url": "pic.x.com/osI1CB5b9c",
+              "end": 63,
+              "expanded_url": "https://x.com/ngchoco/status/2096988669215494504/photo/1",
+              "media_key": "3_2096987353088966656",
+              "start": 40,
+              "url": "https://t.co/osI1CB5b9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096988669215494504",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096987291545997313"
+          },
+          {
+            "media_key": "3_2096987326924886016"
+          },
+          {
+            "media_key": "3_2096987353088966656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 5437,
+          "like_count": 885,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "人気順というやつ、直近のリポストが影響してると思うんだけど圧倒的に怒っている😂 https://t.co/osI1CB5b9c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2097201035416838214",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 336,
+          "like_count": 7423,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 785
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-07-27T11:34:34.000Z",
+        "description": "20↑ 雑多 3L好き┃転載使用AI学習禁止🚫Do not use or re-upload my art",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/34nitkn9k…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/34nitkn9kfh6unjp/",
+                "start": 0,
+                "url": "https://t.co/A0u9P7GWjY"
+              }
+            ]
+          }
+        },
+        "id": "60570763",
+        "is_identity_verified": false,
+        "location": "obm N80 H80┃obn N60 H60",
+        "most_recent_tweet_id": "2097000520011653198",
+        "name": "なげ（Nage）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/60570763/1709575280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875176170704207872/UxCqmtVi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13716,
+          "following_count": 106,
+          "like_count": 31529,
+          "listed_count": 61,
+          "media_count": 780,
+          "tweet_count": 18520
+        },
+        "url": "https://t.co/A0u9P7GWjY",
+        "username": "ngchoco",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2088035740840292462",
+    "created_at": "2026-08-13T22:51:29.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T23:51:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088035740840292462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2029908828125548546",
+          "start": 3,
+          "username": "bui_tu46916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088035740840292462",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087513897637126623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bui_tu46916: 现在是高原2026年，你是新加入游戏的oder，你有以下几条路\na翻看荒废已久的OD wiki去寻找不剩几个的药品\nb去买药商炒到天上的不知成分的rc\nc去某宝买也许有重金属残留的原料\nd直接系度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2088035740840292462",
+        "created_at": "2026-08-13T22:51:29.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T23:51:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088035740840292462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2029908828125548546",
+              "start": 3,
+              "username": "bui_tu46916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088035740840292462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087513897637126623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bui_tu46916: 现在是高原2026年，你是新加入游戏的oder，你有以下几条路\na翻看荒废已久的OD wiki去寻找不剩几个的药品\nb去买药商炒到天上的不知成分的rc\nc去某宝买也许有重金属残留的原料\nd直接系度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029908828125548546",
+        "conversation_id": "2087513897637126623",
+        "created_at": "2026-08-12T12:17:51.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087513897637126623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087513897637126623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7242,
+          "like_count": 115,
+          "quote_count": 6,
+          "reply_count": 27,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "现在是高原2026年，你是新加入游戏的oder，你有以下几条路\na翻看荒废已久的OD wiki去寻找不剩几个的药品\nb去买药商炒到天上的不知成分的rc\nc去某宝买也许有重金属残留的原料\nd直接系度"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "Welcome to Apocalypse.",
+        "most_recent_tweet_id": "2088035740840292462",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 419,
+          "like_count": 7167,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1632
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T13:16:07.000Z",
+        "description": "OD警告⚠ 情绪阴晴不定 看情况回fo 晶哥滚",
+        "id": "2029908828125548546",
+        "is_identity_verified": false,
+        "location": "右美沙芬小道",
+        "most_recent_tweet_id": "2088029951631167851",
+        "name": "Exp cat",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029908828125548546/1784444352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078736394483294208/1-oskrGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 331,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1103
+        },
+        "url": "",
+        "username": "bui_tu46916",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

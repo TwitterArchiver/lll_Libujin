@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002393960518762496"
+      ],
+      "media_source_tweet_id": [
+        "2002393976553288142"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083629882328928661",
+    "created_at": "2026-08-01T19:04:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T20:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083629882328928661"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 15,
+          "tag": "12月21日はEdenの日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "428382541",
+          "start": 3,
+          "username": "FPtsupupu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6FPJ9VAMSw",
+          "end": 53,
+          "expanded_url": "https://x.com/FPtsupupu/status/2002393976553288142/photo/1",
+          "media_key": "3_2002393960518762496",
+          "start": 30,
+          "url": "https://t.co/6FPJ9VAMSw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083629882328928661",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2739
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002393976553288142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @FPtsupupu: #12月21日はEdenの日 https://t.co/6FPJ9VAMSw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3753,
+        "media_key": "3_2002393960518762496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8nusq0bwAAbnlU.jpg",
+        "width": 1900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002393960518762496"
+          ]
+        },
+        "author_id": "428382541",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2002393976553288142",
+        "created_at": "2025-12-20T15:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T16:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002393976553288142"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "12月21日はEdenの日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6FPJ9VAMSw",
+              "end": 38,
+              "expanded_url": "https://x.com/FPtsupupu/status/2002393976553288142/photo/1",
+              "media_key": "3_2002393960518762496",
+              "start": 15,
+              "url": "https://t.co/6FPJ9VAMSw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002393976553288142",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1310,
+          "impression_count": 230322,
+          "like_count": 19420,
+          "quote_count": 142,
+          "reply_count": 7,
+          "retweet_count": 2739
+        },
+        "reply_settings": "following",
+        "text": "#12月21日はEdenの日 https://t.co/6FPJ9VAMSw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002393960518762496"
+          ],
+          "media_source_tweet_id": [
+            "2002393976553288142"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083629882328928661",
+        "created_at": "2026-08-01T19:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T20:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083629882328928661"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 15,
+              "tag": "12月21日はEdenの日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "428382541",
+              "start": 3,
+              "username": "FPtsupupu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6FPJ9VAMSw",
+              "end": 53,
+              "expanded_url": "https://x.com/FPtsupupu/status/2002393976553288142/photo/1",
+              "media_key": "3_2002393960518762496",
+              "start": 30,
+              "url": "https://t.co/6FPJ9VAMSw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083629882328928661",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2739
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002393976553288142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @FPtsupupu: #12月21日はEdenの日 https://t.co/6FPJ9VAMSw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 400,
+          "like_count": 7066,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1558
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-04T18:00:15.000Z",
+        "description": "無断転載/AI学習禁止 \n24.09.22→Eden箱推、地雷なし/最推し凪砂 🍫🐍☀️🌊🤍🍏🍎 \n🌈🕒:L/🦊|👋🏻 \n不會畫畫塗鴉很多 🐢do not repost \n語彙力低/錯字&注音故意ㄉ\nRt、いいねありがとうございます(ʃ♡ƪ´▽`) \n2 \n@ppmonompp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 129,
+                "username": "ppmonompp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/ppmono…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/ppmonompp.bsky.social",
+                "start": 0,
+                "url": "https://t.co/lbnk1wfRlM"
+              }
+            ]
+          }
+        },
+        "id": "428382541",
+        "location": "taiwan/帳號雖然開ㄉ很早但幾乎算2020後才比較常話畫",
+        "name": "💭(🛌)⛓️🗝️🪦",
+        "pinned_tweet_id": "1886433604378734833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961750369241075712/AWmlYo3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49363,
+          "following_count": 72,
+          "like_count": 23713,
+          "listed_count": 128,
+          "media_count": 376,
+          "tweet_count": 24340
+        },
+        "url": "https://t.co/lbnk1wfRlM",
+        "username": "FPtsupupu",
+        "verified": false
+      }
+    ]
+  }
+}
