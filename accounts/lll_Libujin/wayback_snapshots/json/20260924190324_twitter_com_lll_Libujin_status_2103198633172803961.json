@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103162597994618887"
+      ],
+      "media_source_tweet_id": [
+        "2103162604558729494"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2103198633172803961",
+    "created_at": "2026-09-24T19:03:24.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T20:03:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103198633172803961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1770691807783145472",
+          "start": 3,
+          "username": "life_0708"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TE0GLABgZw",
+          "end": 42,
+          "expanded_url": "https://x.com/life_0708/status/2103162604558729494/photo/1",
+          "media_key": "3_2103162597994618887",
+          "start": 19,
+          "url": "https://t.co/TE0GLABgZw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103198633172803961",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2103162597994618887"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103162604558729494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @life_0708: BMU https://t.co/TE0GLABgZw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1518,
+        "media_key": "3_2103162597994618887",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_vPWZbYAcI5qd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103162597994618887"
+          ],
+          "media_source_tweet_id": [
+            "2103162604558729494"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2103198633172803961",
+        "created_at": "2026-09-24T19:03:24.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T20:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103198633172803961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1770691807783145472",
+              "start": 3,
+              "username": "life_0708"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TE0GLABgZw",
+              "end": 42,
+              "expanded_url": "https://x.com/life_0708/status/2103162604558729494/photo/1",
+              "media_key": "3_2103162597994618887",
+              "start": 19,
+              "url": "https://t.co/TE0GLABgZw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103198633172803961",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2103162597994618887"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103162604558729494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @life_0708: BMU https://t.co/TE0GLABgZw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103162597994618887"
+          ]
+        },
+        "author_id": "1770691807783145472",
+        "conversation_id": "2103162604558729494",
+        "created_at": "2026-09-24T16:40:14.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103162604558729494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TE0GLABgZw",
+              "end": 27,
+              "expanded_url": "https://x.com/life_0708/status/2103162604558729494/photo/1",
+              "media_key": "3_2103162597994618887",
+              "start": 4,
+              "url": "https://t.co/TE0GLABgZw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103162604558729494",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2103162597994618887"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 1600,
+          "like_count": 204,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "BMU https://t.co/TE0GLABgZw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2103198633172803961",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 338,
+          "like_count": 7614,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 855
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-21T06:00:07.000Z",
+        "description": "成人済/🌊☀️/壁打ち/🔞→@life____07",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "life____07"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/life07",
+                "end": 23,
+                "expanded_url": "https://lit.link/life07",
+                "start": 0,
+                "url": "https://t.co/TehqnBqKG9"
+              }
+            ]
+          }
+        },
+        "id": "1770691807783145472",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103172757882339586",
+        "name": "もえ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1770691807783145472/1789157186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044090130341015552/ucNOzOl4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 117,
+          "like_count": 15011,
+          "listed_count": 3,
+          "media_count": 198,
+          "tweet_count": 695
+        },
+        "url": "https://t.co/TehqnBqKG9",
+        "username": "life_0708",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2100908817429168159",
+    "created_at": "2026-09-18T15:07:40.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T16:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100964982653681690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1767100910487195648",
+          "start": 0,
+          "username": "yuo_hana233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100964982653681690",
+    "in_reply_to_user_id": "1767100910487195648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100908817429168159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuo_hana233 我操"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2100908817429168159].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2100908817429168159",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2100908817429168159"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2100908817429168159",
+        "created_at": "2026-09-18T15:07:40.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100964982653681690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1767100910487195648",
+              "start": 0,
+              "username": "yuo_hana233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100964982653681690",
+        "in_reply_to_user_id": "1767100910487195648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100908817429168159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuo_hana233 我操"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2100964982653681690",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 351,
+          "like_count": 7561,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 833
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-11T08:11:18.000Z",
+        "description": "以防万一只回fo有明显同成分的，或者私信也行orz，主页内用药均有处方，状态不稳浮上少",
+        "id": "1767100910487195648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100601099065725415",
+        "name": "片想",
+        "pinned_tweet_id": "2092352822973194284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1767100910487195648/1788125576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093401710148612096/z0OIIu8U_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 140,
+          "like_count": 953,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 553
+        },
+        "url": "",
+        "username": "yuo_hana233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

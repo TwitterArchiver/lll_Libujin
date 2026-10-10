@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1002200464648060933"
+      ],
+      "media_source_tweet_id": [
+        "1002200607053070337"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2106392306433864097",
+    "created_at": "2026-10-03T14:33:55.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T15:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106392306433864097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "289644736",
+          "start": 3,
+          "username": "nin_h"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GP4SLcmc9P",
+          "end": 45,
+          "expanded_url": "https://x.com/nin_h/status/1002200607053070337/photo/1",
+          "media_key": "3_1002200464648060933",
+          "start": 22,
+          "url": "https://t.co/GP4SLcmc9P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106392306433864097",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_1002200464648060933"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3723
+    },
+    "referenced_tweets": [
+      {
+        "id": "1002200607053070337",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nin_h: 旧fineでおやすみ https://t.co/GP4SLcmc9P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 429,
+        "media_key": "3_1002200464648060933",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/DeiIA0EUQAU7KpD.jpg",
+        "width": 830
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1002200464648060933"
+          ],
+          "media_source_tweet_id": [
+            "1002200607053070337"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2106392306433864097",
+        "created_at": "2026-10-03T14:33:55.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106392306433864097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "289644736",
+              "start": 3,
+              "username": "nin_h"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GP4SLcmc9P",
+              "end": 45,
+              "expanded_url": "https://x.com/nin_h/status/1002200607053070337/photo/1",
+              "media_key": "3_1002200464648060933",
+              "start": 22,
+              "url": "https://t.co/GP4SLcmc9P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106392306433864097",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_1002200464648060933"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3723
+        },
+        "referenced_tweets": [
+          {
+            "id": "1002200607053070337",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nin_h: 旧fineでおやすみ https://t.co/GP4SLcmc9P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1002200464648060933"
+          ]
+        },
+        "author_id": "289644736",
+        "conversation_id": "1002200607053070337",
+        "created_at": "2018-05-31T14:50:19.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2018-05-31T15:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1002200607053070337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GP4SLcmc9P",
+              "end": 34,
+              "expanded_url": "https://x.com/nin_h/status/1002200607053070337/photo/1",
+              "media_key": "3_1002200464648060933",
+              "start": 11,
+              "url": "https://t.co/GP4SLcmc9P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1002200607053070337",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_1002200464648060933"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 442,
+          "impression_count": 0,
+          "like_count": 12148,
+          "quote_count": 164,
+          "reply_count": 4,
+          "retweet_count": 3723
+        },
+        "reply_settings": "everyone",
+        "text": "旧fineでおやすみ https://t.co/GP4SLcmc9P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2106392306433864097",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 344,
+          "like_count": 7686,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 911
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-04-29T00:25:54.000Z",
+        "description": "趣味用アカウントです。更新頻度低めです。商業用アカウント作成しました→ @h_2_manga",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "h_2_manga"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/3363978",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/3363978",
+                "start": 0,
+                "url": "https://t.co/BOZGMd5jUm"
+              }
+            ]
+          }
+        },
+        "id": "289644736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1996174503836303672",
+        "name": "日高",
+        "pinned_tweet_id": "1996174503836303672",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1573607074084581377/NCLU6e-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71277,
+          "following_count": 386,
+          "like_count": 2817,
+          "listed_count": 738,
+          "media_count": 1771,
+          "tweet_count": 33448
+        },
+        "url": "https://t.co/BOZGMd5jUm",
+        "username": "nin_h",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

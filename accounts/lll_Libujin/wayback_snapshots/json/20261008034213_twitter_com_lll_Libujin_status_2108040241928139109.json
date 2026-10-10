@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2108040241928139109",
+    "created_at": "2026-10-08T03:42:13.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T04:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108040241928139109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2005659662788739073",
+          "start": 3,
+          "username": "ChuckBeatGummy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108040241928139109",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107842875451146528",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChuckBeatGummy: J’aime la drogue depuis tout petit. \nAvant même d’en consommer.\n\nÇa m’a fasciné très tôt. Je voulais absolument « voir…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2108040241928139109",
+        "created_at": "2026-10-08T03:42:13.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T04:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108040241928139109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2005659662788739073",
+              "start": 3,
+              "username": "ChuckBeatGummy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108040241928139109",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107842875451146528",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChuckBeatGummy: J’aime la drogue depuis tout petit. \nAvant même d’en consommer.\n\nÇa m’a fasciné très tôt. Je voulais absolument « voir…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005659662788739073",
+        "conversation_id": "2107842875451146528",
+        "created_at": "2026-10-07T14:37:57.000Z",
+        "display_text_range": [
+          0,
+          242
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T15:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107842875451146528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107842875451146528",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 28658,
+          "like_count": 453,
+          "quote_count": 7,
+          "reply_count": 14,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "J’aime la drogue depuis tout petit. \nAvant même d’en consommer.\n\nÇa m’a fasciné très tôt. Je voulais absolument « voir ce que ça faisait ». \nA un âge où la plupart des autres gamins écoutaient avec crainte ce que les adultes leur en disaient."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2108040241928139109",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 346,
+          "like_count": 7742,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 926
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-29T15:18:38.000Z",
+        "description": "Opportuniste. Occidental par défaut. Ami des animaux.",
+        "id": "2005659662788739073",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107929387874308244",
+        "name": "Random Vibes",
+        "pinned_tweet_id": "2068022521392251056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2005659662788739073/1790089264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009899056751869952/3jY-MLTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 58,
+          "like_count": 4324,
+          "listed_count": 3,
+          "media_count": 189,
+          "tweet_count": 3998
+        },
+        "url": "",
+        "username": "ChuckBeatGummy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

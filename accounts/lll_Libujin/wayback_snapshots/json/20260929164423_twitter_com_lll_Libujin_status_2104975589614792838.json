@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104931419537768449"
+      ],
+      "media_source_tweet_id": [
+        "2104931426705760482"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2104975589614792838",
+    "created_at": "2026-09-29T16:44:23.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T17:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104975589614792838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1971234326785425417",
+          "start": 3,
+          "username": "manbuzaisenlin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O5q0b6YNch",
+          "end": 75,
+          "expanded_url": "https://x.com/manbuzaisenlin/status/2104931426705760482/photo/1",
+          "media_key": "3_2104931419537768449",
+          "start": 52,
+          "url": "https://t.co/O5q0b6YNch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104975589614792838",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104931419537768449"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104931426705760482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @manbuzaisenlin: 我是乱，这是我二世，转发到50我抽10杯奶茶可以折现20cny https://t.co/O5q0b6YNch"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104931419537768449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTY3-UIbgAEf3xh.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104931419537768449"
+          ],
+          "media_source_tweet_id": [
+            "2104931426705760482"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2104975589614792838",
+        "created_at": "2026-09-29T16:44:23.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T17:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104975589614792838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1971234326785425417",
+              "start": 3,
+              "username": "manbuzaisenlin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5q0b6YNch",
+              "end": 75,
+              "expanded_url": "https://x.com/manbuzaisenlin/status/2104931426705760482/photo/1",
+              "media_key": "3_2104931419537768449",
+              "start": 52,
+              "url": "https://t.co/O5q0b6YNch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104975589614792838",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104931419537768449"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104931426705760482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @manbuzaisenlin: 我是乱，这是我二世，转发到50我抽10杯奶茶可以折现20cny https://t.co/O5q0b6YNch"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104931419537768449"
+          ]
+        },
+        "author_id": "1971234326785425417",
+        "conversation_id": "2104931426705760482",
+        "created_at": "2026-09-29T13:48:54.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T14:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104931426705760482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5q0b6YNch",
+              "end": 55,
+              "expanded_url": "https://x.com/manbuzaisenlin/status/2104931426705760482/photo/1",
+              "media_key": "3_2104931419537768449",
+              "start": 32,
+              "url": "https://t.co/O5q0b6YNch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104931426705760482",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104931419537768449"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我是乱，这是我二世，转发到50我抽10杯奶茶可以折现20cny https://t.co/O5q0b6YNch"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2104975589614792838",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 340,
+          "like_count": 7664,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 897
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T15:24:35.000Z",
+        "description": "",
+        "id": "1971234326785425417",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2104956493787517101",
+        "name": "给我一把左轮手枪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971234326785425417/1759535646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012976137425551361/WRQHdsew_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 23,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "manbuzaisenlin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

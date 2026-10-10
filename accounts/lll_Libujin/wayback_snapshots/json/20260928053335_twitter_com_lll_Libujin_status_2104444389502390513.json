@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2104388202866102668",
+    "created_at": "2026-09-28T05:33:35.000Z",
+    "display_text_range": [
+      17,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T06:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104444389502390513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1686238726933172224",
+          "start": 0,
+          "username": "Equation1778646"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104444389502390513",
+    "in_reply_to_user_id": "1686238726933172224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104441934349795673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Equation1778646 pr80啦 1161我哪敢150mg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2104388202866102668",
+        "created_at": "2026-09-28T05:33:35.000Z",
+        "display_text_range": [
+          17,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104444389502390513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1686238726933172224",
+              "start": 0,
+              "username": "Equation1778646"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104444389502390513",
+        "in_reply_to_user_id": "1686238726933172224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104441934349795673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Equation1778646 pr80啦 1161我哪敢150mg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686238726933172224",
+        "conversation_id": "2104388202866102668",
+        "created_at": "2026-09-28T05:23:50.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104441934349795673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104441934349795673",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104388202866102668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lll_Libujin 字母数字是什么，1161吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2104444389502390513",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 335,
+          "like_count": 7648,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 874
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-01T04:53:44.000Z",
+        "description": "我思考，所以我存在\n−−−−−−−−−−−−−−−−−−−\n这里是澜默，08年生一般furry准大学生，坐标中国\n是一只绝育小猫，有双相情感障碍，喜欢编程，月计和工厂自动化类游戏，梦想是可以拥有属于自己的一颗星星\n转发，点赞及推文可能含有nsfw内容\n汉语🇨🇳 👍🏻 English 🇬🇧👍🏻",
+        "id": "1686238726933172224",
+        "is_identity_verified": false,
+        "location": "彼岸",
+        "most_recent_tweet_id": "2104441934349795673",
+        "name": "澜默RanMore",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1686238726933172224/1777234176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048494695677054976/soBQnqiU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 254,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "Equation1778646",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2104613677219663892",
+    "created_at": "2026-09-29T16:01:42.000Z",
+    "display_text_range": [
+      14,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T17:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104964848681680994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2049059884466143232",
+          "start": 0,
+          "username": "Sewerslvt7n2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104964848681680994",
+    "in_reply_to_user_id": "2049059884466143232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104962091706937801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sewerslvt7n2 确实 不过口服的话我容易吐 然后就是药效太短 情绪落差会很难过的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2104613677219663892",
+        "created_at": "2026-09-29T16:01:42.000Z",
+        "display_text_range": [
+          14,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T17:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104964848681680994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2049059884466143232",
+              "start": 0,
+              "username": "Sewerslvt7n2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104964848681680994",
+        "in_reply_to_user_id": "2049059884466143232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104962091706937801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sewerslvt7n2 确实 不过口服的话我容易吐 然后就是药效太短 情绪落差会很难过的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049059884466143232",
+        "conversation_id": "2104613677219663892",
+        "created_at": "2026-09-29T15:50:45.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T16:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104962091706937801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104962091706937801",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104613677219663892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lll_Libujin 阿片类啊，余韵很舒服"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2104964848681680994",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 339,
+          "like_count": 7663,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 896
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T09:36:17.000Z",
+        "description": "qq空间",
+        "id": "2049059884466143232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104962091706937801",
+        "name": "Sewerslvt",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049059884466143232/1777369119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049060648513134592/OF8Q7Sws_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 55,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "Sewerslvt7n2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

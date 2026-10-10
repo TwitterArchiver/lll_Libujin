@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104176390807629824",
+        "3_2104176390870568960"
+      ],
+      "media_source_tweet_id": [
+        "2104176410436997265",
+        "2104176410436997265"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2104475363623793147",
+    "created_at": "2026-09-28T07:36:40.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T08:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104475363623793147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "862548401711325184",
+          "start": 3,
+          "username": "knkmh_711"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FRVQcp0i8q",
+          "end": 48,
+          "expanded_url": "https://x.com/knkmh_711/status/2104176410436997265/photo/1",
+          "media_key": "3_2104176390807629824",
+          "start": 25,
+          "url": "https://t.co/FRVQcp0i8q"
+        },
+        {
+          "display_url": "pic.x.com/FRVQcp0i8q",
+          "end": 48,
+          "expanded_url": "https://x.com/knkmh_711/status/2104176410436997265/photo/1",
+          "media_key": "3_2104176390870568960",
+          "start": 25,
+          "url": "https://t.co/FRVQcp0i8q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104475363623793147",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104176390807629824"
+      },
+      {
+        "media_key": "3_2104176390870568960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 122
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104176410436997265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @knkmh_711: 知的なクールメイド https://t.co/FRVQcp0i8q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3599,
+        "media_key": "3_2104176390807629824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOJR27aMAA58E0.jpg",
+        "width": 2107
+      },
+      {
+        "height": 3696,
+        "media_key": "3_2104176390870568960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTOJR3KakAAsDg9.jpg",
+        "width": 1976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104176390807629824",
+            "3_2104176390870568960"
+          ],
+          "media_source_tweet_id": [
+            "2104176410436997265",
+            "2104176410436997265"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2104475363623793147",
+        "created_at": "2026-09-28T07:36:40.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T08:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104475363623793147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "862548401711325184",
+              "start": 3,
+              "username": "knkmh_711"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRVQcp0i8q",
+              "end": 48,
+              "expanded_url": "https://x.com/knkmh_711/status/2104176410436997265/photo/1",
+              "media_key": "3_2104176390807629824",
+              "start": 25,
+              "url": "https://t.co/FRVQcp0i8q"
+            },
+            {
+              "display_url": "pic.x.com/FRVQcp0i8q",
+              "end": 48,
+              "expanded_url": "https://x.com/knkmh_711/status/2104176410436997265/photo/1",
+              "media_key": "3_2104176390870568960",
+              "start": 25,
+              "url": "https://t.co/FRVQcp0i8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104475363623793147",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104176390807629824"
+          },
+          {
+            "media_key": "3_2104176390870568960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104176410436997265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @knkmh_711: 知的なクールメイド https://t.co/FRVQcp0i8q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104176390807629824",
+            "3_2104176390870568960"
+          ]
+        },
+        "author_id": "862548401711325184",
+        "conversation_id": "2104176410436997265",
+        "created_at": "2026-09-27T11:48:44.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104176410436997265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRVQcp0i8q",
+              "end": 33,
+              "expanded_url": "https://x.com/knkmh_711/status/2104176410436997265/photo/1",
+              "media_key": "3_2104176390807629824",
+              "start": 10,
+              "url": "https://t.co/FRVQcp0i8q"
+            },
+            {
+              "display_url": "pic.x.com/FRVQcp0i8q",
+              "end": 33,
+              "expanded_url": "https://x.com/knkmh_711/status/2104176410436997265/photo/1",
+              "media_key": "3_2104176390870568960",
+              "start": 10,
+              "url": "https://t.co/FRVQcp0i8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104176410436997265",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104176390807629824"
+          },
+          {
+            "media_key": "3_2104176390870568960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 16318,
+          "like_count": 1675,
+          "quote_count": 17,
+          "reply_count": 0,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "知的なクールメイド https://t.co/FRVQcp0i8q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2104475363623793147",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 336,
+          "like_count": 7654,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 876
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-11T06:02:19.000Z",
+        "description": "cosplay￤とても加工￤@ritoCB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "ritoCB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/knkmh_711?t=hW…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/knkmh_711?t=hWhmCw&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/pNbfYjZXZ0"
+              }
+            ]
+          }
+        },
+        "id": "862548401711325184",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104199862883676191",
+        "name": "きなこ餅‎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/862548401711325184/1789407390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832392433105076224/BplbCFdr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7926,
+          "following_count": 403,
+          "like_count": 38774,
+          "listed_count": 63,
+          "media_count": 460,
+          "tweet_count": 18612
+        },
+        "url": "https://t.co/pNbfYjZXZ0",
+        "username": "knkmh_711",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

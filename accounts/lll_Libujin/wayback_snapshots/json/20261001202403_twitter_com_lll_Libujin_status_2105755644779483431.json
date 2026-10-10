@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2105755644779483431",
+    "created_at": "2026-10-01T20:24:03.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T21:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105755644779483431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1455633898545819652",
+          "start": 3,
+          "username": "acidanah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105755644779483431",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2122
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105530266865263055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acidanah: fato curioso: os kandi ravers dos anos 2000 incorporaram o uso da chupeta em seu estilo por causa da bala(mdma) que é muito u…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 461,
+        "media_key": "3_2105530256866127872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HThYnPBXsAAUmfN.jpg",
+        "width": 346
+      },
+      {
+        "height": 727,
+        "media_key": "3_2105530261916020736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HThYnh1W8AA4NN8.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2105755644779483431",
+        "created_at": "2026-10-01T20:24:03.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T21:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105755644779483431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1455633898545819652",
+              "start": 3,
+              "username": "acidanah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105755644779483431",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105530266865263055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acidanah: fato curioso: os kandi ravers dos anos 2000 incorporaram o uso da chupeta em seu estilo por causa da bala(mdma) que é muito u…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105530256866127872",
+            "3_2105530261916020736"
+          ]
+        },
+        "author_id": "1455633898545819652",
+        "conversation_id": "2105530266865263055",
+        "created_at": "2026-10-01T05:28:29.000Z",
+        "display_text_range": [
+          0,
+          258
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T06:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105530266865263055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LkoXFYtHZL",
+              "end": 282,
+              "expanded_url": "https://x.com/acidanah/status/2105530266865263055/photo/1",
+              "media_key": "3_2105530256866127872",
+              "start": 259,
+              "url": "https://t.co/LkoXFYtHZL"
+            },
+            {
+              "display_url": "pic.x.com/LkoXFYtHZL",
+              "end": 282,
+              "expanded_url": "https://x.com/acidanah/status/2105530266865263055/photo/1",
+              "media_key": "3_2105530261916020736",
+              "start": 259,
+              "url": "https://t.co/LkoXFYtHZL"
+            },
+            {
+              "display_url": "x.com/hobiinpink/sta…",
+              "end": 306,
+              "expanded_url": "https://twitter.com/hobiinpink/status/2104725150683845076",
+              "start": 283,
+              "url": "https://t.co/zXiAnJnQQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105530266865263055",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "3_2105530256866127872"
+          },
+          {
+            "media_key": "3_2105530261916020736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3274,
+          "impression_count": 688509,
+          "like_count": 33954,
+          "quote_count": 155,
+          "reply_count": 52,
+          "retweet_count": 2122
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104725150683845076",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "fato curioso: os kandi ravers dos anos 2000 incorporaram o uso da chupeta em seu estilo por causa da bala(mdma) que é muito utilizado nas raves, podendo causar bruxismo, mordida nas línguas e na bochecha, entao a chupeta era uma forma de evitar esses efeitos https://t.co/LkoXFYtHZL https://t.co/zXiAnJnQQ2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2105755644779483431",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 341,
+          "like_count": 7683,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 903
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-02T20:32:29.000Z",
+        "description": "☆ scene kid\n☆ dont behave ☆ 💋                                                 \n@cybercrimebitch × priv 📌 xx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 79,
+                "username": "cybercrimebitch"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/acidanah?igsh=…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/acidanah?igsh=MTdvNnVzOWIwMG15aw==",
+                "start": 0,
+                "url": "https://t.co/9GK6UnFra4"
+              }
+            ]
+          }
+        },
+        "id": "1455633898545819652",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105738278594867341",
+        "name": "Ac1d An4h ☣︎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455633898545819652/1782358437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003883060341645312/XOMITTgb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 461,
+          "like_count": 117784,
+          "listed_count": 2,
+          "media_count": 1144,
+          "tweet_count": 9944
+        },
+        "url": "https://t.co/9GK6UnFra4",
+        "username": "acidanah",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

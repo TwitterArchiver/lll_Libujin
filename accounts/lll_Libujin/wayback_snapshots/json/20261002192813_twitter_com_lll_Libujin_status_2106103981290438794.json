@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2079739019139932570",
+    "created_at": "2026-10-02T19:28:13.000Z",
+    "display_text_range": [
+      29,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T20:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106103981290438794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1977994061501116416",
+          "start": 0,
+          "username": "yuguang545431"
+        },
+        {
+          "end": 28,
+          "id": "1534001624372641792",
+          "start": 15,
+          "username": "tbk_yun_1220"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106103981290438794",
+    "in_reply_to_user_id": "1977994061501116416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106096577593094394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuguang545431 @tbk_yun_1220 很多人都重开了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2079739019139932570",
+        "created_at": "2026-10-02T19:28:13.000Z",
+        "display_text_range": [
+          29,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T20:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106103981290438794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1977994061501116416",
+              "start": 0,
+              "username": "yuguang545431"
+            },
+            {
+              "end": 28,
+              "id": "1534001624372641792",
+              "start": 15,
+              "username": "tbk_yun_1220"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106103981290438794",
+        "in_reply_to_user_id": "1977994061501116416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106096577593094394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuguang545431 @tbk_yun_1220 很多人都重开了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977994061501116416",
+        "conversation_id": "2079739019139932570",
+        "created_at": "2026-10-02T18:58:48.000Z",
+        "display_text_range": [
+          27,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T19:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106096577593094394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1534001624372641792",
+              "start": 0,
+              "username": "tbk_yun_1220"
+            },
+            {
+              "end": 26,
+              "id": "1780055196460048385",
+              "start": 14,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106096577593094394",
+        "in_reply_to_user_id": "1534001624372641792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080244340040081658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tbk_yun_1220 @lll_Libujin 为什么这样说啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2106103981290438794",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 343,
+          "like_count": 7680,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 909
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-14T07:05:20.000Z",
+        "description": "I count ：marks of time",
+        "id": "1977994061501116416",
+        "is_identity_verified": false,
+        "location": "Shinjuku-ku, Tokyo",
+        "most_recent_tweet_id": "2106097785825341903",
+        "name": "やお はなかん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1977994061501116416/1789717175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086559919524990976/bqVvYqBM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 44,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "yuguang545431",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-07T02:37:50.000Z",
+        "description": "反出生 | 通りすがりのニート",
+        "id": "1534001624372641792",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102381957216960973",
+        "name": "ゆん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1534001624372641792/1712980812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534001757462085637/D8BddBZ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 73,
+          "like_count": 13954,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 208
+        },
+        "url": "",
+        "username": "tbk_yun_1220",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

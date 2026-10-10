@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104940480492609536"
+      ]
+    },
+    "author_id": "1780055196460048385",
+    "conversation_id": "2104940491490082893",
+    "created_at": "2026-09-29T14:24:55.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T15:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104940491490082893"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5u7ygbmTqY",
+          "end": 154,
+          "expanded_url": "https://x.com/lll_Libujin/status/2104940491490082893/photo/1",
+          "media_key": "3_2104940480492609536",
+          "start": 131,
+          "url": "https://t.co/5u7ygbmTqY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104940491490082893",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104940480492609536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我害怕被曲解 会过度思考以至无法开口\n我害怕被忽视 所以不断的出洋相犯错误\n我害怕说错话 选择附和别人或选择缄默\n对话真的是非常非常令人紧张的事情 有太多的不确定性 我喜欢可以预见的事情 所以也不喜欢惊喜 \n比起交谈 我更喜欢发朋友圈 至少这样我只是在自言自语 https://t.co/5u7ygbmTqY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2104940480492609536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZANu0aIAAwett.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104940480492609536"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2104940491490082893",
+        "created_at": "2026-09-29T14:24:55.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T15:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104940491490082893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5u7ygbmTqY",
+              "end": 154,
+              "expanded_url": "https://x.com/lll_Libujin/status/2104940491490082893/photo/1",
+              "media_key": "3_2104940480492609536",
+              "start": 131,
+              "url": "https://t.co/5u7ygbmTqY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104940491490082893",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104940480492609536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我害怕被曲解 会过度思考以至无法开口\n我害怕被忽视 所以不断的出洋相犯错误\n我害怕说错话 选择附和别人或选择缄默\n对话真的是非常非常令人紧张的事情 有太多的不确定性 我喜欢可以预见的事情 所以也不喜欢惊喜 \n比起交谈 我更喜欢发朋友圈 至少这样我只是在自言自语 https://t.co/5u7ygbmTqY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2104940491490082893",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 339,
+          "like_count": 7660,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 891
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2100614486743036200",
+    "created_at": "2026-09-17T15:54:55.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T16:54:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100614486743036200"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2100614486743036200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在拥有的一切都可以称之为是幸福的 可过往无时无刻都在刺痛我 为什么我被霸凌了三年才反应过来他们不是在跟我玩 这段创伤使我丧失了感受幸福的能力 等我意识到后 往后只有不断的闪回 不断的跌倒直至再也无法站立 \n跟家人谈论只会得到一句 为什么你不早点告诉我们 和 一切都过去了\n真的都过去了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2100614486743036200",
+        "created_at": "2026-09-17T15:54:55.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100614486743036200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100614486743036200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在拥有的一切都可以称之为是幸福的 可过往无时无刻都在刺痛我 为什么我被霸凌了三年才反应过来他们不是在跟我玩 这段创伤使我丧失了感受幸福的能力 等我意识到后 往后只有不断的闪回 不断的跌倒直至再也无法站立 \n跟家人谈论只会得到一句 为什么你不早点告诉我们 和 一切都过去了\n真的都过去了吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2100614486743036200",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 350,
+          "like_count": 7553,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 829
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

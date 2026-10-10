@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1780055196460048385",
+    "conversation_id": "2106235932274000106",
+    "created_at": "2026-10-03T10:28:05.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T11:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106330441334788325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1810704701744435200",
+          "start": 0,
+          "username": "worlds_end_fumo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106330441334788325",
+    "in_reply_to_user_id": "1810704701744435200",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106235932274000106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@worlds_end_fumo 😨😨😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2106235864015884288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTraW-fa0AAqJNf.jpg",
+        "width": 2304
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2106235881724219392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTraYAdakAAuUCz.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055196460048385",
+        "conversation_id": "2106235932274000106",
+        "created_at": "2026-10-03T10:28:05.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T11:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106330441334788325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1810704701744435200",
+              "start": 0,
+              "username": "worlds_end_fumo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106330441334788325",
+        "in_reply_to_user_id": "1810704701744435200",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106235932274000106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@worlds_end_fumo 😨😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106235864015884288",
+            "3_2106235881724219392"
+          ]
+        },
+        "author_id": "1810704701744435200",
+        "conversation_id": "2106235932274000106",
+        "created_at": "2026-10-03T04:12:32.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T05:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106235932274000106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DoLFMemcnr",
+              "end": 44,
+              "expanded_url": "https://x.com/worlds_end_fumo/status/2106235932274000106/photo/1",
+              "media_key": "3_2106235864015884288",
+              "start": 21,
+              "url": "https://t.co/DoLFMemcnr"
+            },
+            {
+              "display_url": "pic.x.com/DoLFMemcnr",
+              "end": 44,
+              "expanded_url": "https://x.com/worlds_end_fumo/status/2106235932274000106/photo/1",
+              "media_key": "3_2106235881724219392",
+              "start": 21,
+              "url": "https://t.co/DoLFMemcnr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106235932274000106",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106235864015884288"
+          },
+          {
+            "media_key": "3_2106235881724219392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1059,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃噻萘普汀咬牙给自己牙咬崩裂了 诸位谨记 https://t.co/DoLFMemcnr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "你不可能认识的人",
+        "id": "1780055196460048385",
+        "is_identity_verified": false,
+        "location": "回忆",
+        "most_recent_tweet_id": "2106330441334788325",
+        "name": "理不尽",
+        "pinned_tweet_id": "2095217509582680447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1780055196460048385/1777009748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091484430825299968/FCon6xRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 343,
+          "like_count": 7682,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 910
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-09T15:57:11.000Z",
+        "description": "第二次转生/🎈批发 /可代购任何能力以内的东西 /梗图都是自己做的！\n联系https://t.co/Ve4lzmqf76\n原号\n@popcat1234566\n\n3.25/一支 12邮 9g\n互关寻回！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 64,
+                "username": "popcat1234566"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/opodoge",
+                "end": 60,
+                "expanded_url": "http://t.me/opodoge",
+                "start": 37,
+                "url": "https://t.co/Ve4lzmqf76"
+              }
+            ]
+          }
+        },
+        "id": "1810704701744435200",
+        "is_identity_verified": false,
+        "location": "fumo island",
+        "most_recent_tweet_id": "2106235932274000106",
+        "name": "popcat1234566",
+        "pinned_tweet_id": "2063607798639030523",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608187446812672/qwIQh47u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 375,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "worlds_end_fumo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
